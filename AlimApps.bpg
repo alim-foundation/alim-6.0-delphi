@@ -1,0 +1,29 @@
+#------------------------------------------------------------------------------
+VERSION = BWS.01
+#------------------------------------------------------------------------------
+!ifndef ROOT
+ROOT = $(MAKEDIR)\..
+!endif
+#------------------------------------------------------------------------------
+MAKE = $(ROOT)\bin\make.exe -$(MAKEFLAGS) -f$**
+DCC = $(ROOT)\bin\dcc32.exe $**
+BRCC = $(ROOT)\bin\brcc32.exe $**
+#------------------------------------------------------------------------------
+PROJECTS = Alim.exe AlimStore.exe SndTrack.exe RunAlim.exe
+#------------------------------------------------------------------------------
+default: $(PROJECTS)
+#------------------------------------------------------------------------------
+
+Alim.exe: Application\Alim.dpr
+  $(DCC)
+
+AlimStore.exe: Utilities\AlimStore\AlimStore.dpr
+  $(DCC)
+
+SndTrack.exe: Utilities\SndTrack\source\SndTrack.dpr
+  $(DCC)
+
+RunAlim.exe: Utilities\AutoRun\RunAlim.dpr
+  $(DCC)
+
+

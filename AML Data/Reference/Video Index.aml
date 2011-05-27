@@ -1,0 +1,124 @@
+<?xml version="1.0"?>
+<aml>
+<articles>
+	<catalog id="VDL">
+		<names full="Video Library" short="Video Library"/>
+		<navigation viewer="none" style="page"/>
+		<content type="article" library="Reference">
+			<page tabs="yes"/>
+		</content>
+		<shortcuts type="external">
+			<category name="Reference">
+				<shortcut sortkey="001"/>
+			</category>
+		</shortcuts>
+	</catalog>
+	
+	<article title="Islam a Closer Look" tab="Introduction to Islam">
+		<media type="video" src="icl01.asf" caption="Introduction to Islam" narration="Generic"/>
+		<media type="video" src="icl02.asf" caption="What is a masjid?" narration="Generic"/>
+		<media type="video" src="icl03.asf" caption="Islam and Muslims" narration="Generic"/>
+		<media type="video" src="icl04.asf" caption="Muslim population" narration="Abdullah Hakeem"/>
+		<media type="video" src="icl05.asf" caption="Islam and basketball" narration="Hakeem Olajuwon"/>
+		<media type="video" src="icl06.asf" caption="Quran" narration="Generic"/>
+		<media type="video" src="icl07.asf" caption="First verse of Quran that was revealed" narration="Abdullah Hakeem"/>
+		<media type="video" src="icl07.asf" caption="Science, Zygote clinging in the uterus" narration="Abdullah Hakeem"/>
+		<media type="video" src="icl08.asf" caption="Scientific pursuit" narration="Hamza Yusuf"/>
+		<media type="video" src="icl09.asf" caption="Seeking knowledge is a birth right" narration="Hamza Yusuf"/>
+		<media type="video" src="icl10.asf" caption="Treatment of women in world history" narration="Nancy Ali"/>
+		<media type="video" src="icl11.asf" caption="European history and renaissance" narration="Audrey Shabaz"/>
+		<media type="video" src="icl12.asf" caption="Muslim contribution to science and Western culture" narration="John Esposito"/>
+		<media type="video" src="icl13.asf" caption="Islamic schools concept in North America" narration="Generic"/>
+		<media type="video" src="icl14.asf" caption="Muslim contribution in North America" narration="Generic"/>
+		<media type="video" src="icl15.asf" caption="Muslim family is the foundation of a masjid" narration="Generic"/>
+		<media type="video" src="icl16.asf" caption="Family is the heart of an Islamic society" narration="John Esposito"/>
+		<media type="video" src="icl17.asf" caption="Look for piety in a spouse" narration="Nancy Ali"/>
+		<media type="video" src="icl18.asf" caption="Family is the root of society" narration="Hamza Yusuf"/>
+		<media type="video" src="icl19.asf" caption="Adam and Eve" narration="Abdullah Hakeem"/>
+		<media type="video" src="icl20.asf" caption="Woman's rights in Islam" narration="Generic"/>
+		<media type="video" src="icl21.asf" caption="Women in Islam compared to women in the West" narration="Nancy Ali"/>
+		<media type="video" src="icl22.asf" caption="Abuse of woman's rights is cultural base, not Islamic" narration="Generic"/>
+		<media type="video" src="icl23.asf" caption="Prejudice against American Muslims" narration="Nancy Ali"/>
+		<media type="video" src="icl24.asf" caption="Hijab" narration="Nancy Ali"/>
+		<media type="video" src="icl25.asf" caption="Modest dress for men and women" narration="Abdullah Hakeem"/>
+		<media type="video" src="icl26.asf" caption="Islam is a world religion" narration="Generic"/>
+		<media type="video" src="icl27.asf" caption="Islam is the universal religion" narration="Abdullah Hakeem"/>
+		<media type="video" src="icl28.asf" caption="Islamic society must show mercy" narration="Hamza Yusuf"/>
+		<media type="video" src="icl29.asf" caption="All race, color, creed, disabled, equal in Islam" narration="Hamza Yusuf"/>
+		<media type="video" src="icl30.asf" caption="Five pillars of Islam build moral character" narration="Generic"/>
+		<media type="video" src="icl31.asf" caption="Importance and power of prayer" narration="Hakeem Olajuwon, Hamza Yusuf"/>
+		<media type="video" src="icl32.asf" caption="Zakat, ideal welfare system" narration="Hamza Yusuf, John Esposito"/>
+		<media type="video" src="icl33.asf" caption="Fasting in Ramadan" narration="Hamza Yusuf"/>
+		<media type="video" src="icl34.asf" caption="Pilgrimage to Makkah (Hajj)" narration="Hakeem Olajuwon, John Esposito"/>
+		<media type="video" src="icl35.asf" caption="Day of Judgement" narration="Nancy Ali"/>
+		<media type="video" src="icl36.asf" caption="Islam includes all prophets prior to Muhammad (Adam to Jesus)" narration="Abdullah Hakeem"/>
+		<media type="video" src="icl37.asf" caption="Similar in values to Judeo-Christian" narration="John Esposito"/>
+		<media type="video" src="icl38.asf" caption="Solution to family problems" narration="Hakeem Olajuwon"/>
+		<media type="video" src="icl39.asf" caption="Problems in Muslim world" narration="Abdullah Hakeem"/>
+		<media type="video" src="icl39.asf" caption="Negative stereotype of Islam" narration="Abdullah Hakeem"/>
+		<media type="video" src="icl40.asf" caption="Islam, a positive aspect in society" narration="Abdullah Hakeem"/>
+		<media type="video" src="icl41.asf" caption="Islam a Closer Look, closing credits" narration="Generic"/>
+	</article>
+	
+	<article title="How to Perform Hajj" tab="Hajj (Pilgrimage)">
+		<media type="video" src="hj01.asf" caption="Labayk and introduction"/>
+		<media type="video" src="hj02.asf" caption="Custodian of the 2 Holy Masjids welcome"/>
+		<media type="video" src="hj03.asf" caption="Minister of Hajj welcome"/>
+		<media type="video" src="hj04.asf" caption="Surah Al-Hajj"/>
+		<media type="video" src="hj05.asf" caption="Purpose and conditions of Hajj"/>
+		<media type="video" src="hj06.asf" caption="Examples of people preparing for Hajj"/>
+		<media type="video" src="hj06.asf" caption="Getting a Hajj Visa and key dates for a Hajj Visa"/>
+		<media type="video" src="hj07.asf" caption="Requirements of a Hajj Visa"/>
+		<media type="video" src="hj08.asf" caption="Have sufficient funds"/>
+		<media type="video" src="hj09.asf" caption="Example of family getting money together for Hajj"/>
+		<media type="video" src="hj10.asf" caption="Money for Hajj"/>
+		<media type="video" src="hj11.asf" caption="Intention of Hajj and writing a will"/>
+		<media type="video" src="hj12.asf" caption="Extensive perparation for Hajj by Kingdom of Saudi Arabia"/>
+		<media type="video" src="hj13.asf" caption="Hajj guides and foreign delegations"/>
+		<media type="video" src="hj14.asf" caption="Example of items to pack for Hajj"/>
+		<media type="video" src="hj15.asf" caption="Ihram and conditions of Ihram"/>
+		<media type="video" src="hj16.asf" caption="Hajj rituals"/>
+		<media type="video" src="hj17.asf" caption="Four pillars of Hajj"/>
+		<media type="video" src="hj18.asf" caption="Duties of Hajj"/>
+		<media type="video" src="hj19.asf" caption="Time of Hajj"/>
+		<media type="video" src="hj20.asf" caption="Five places of intention of Ihram (Mikat)"/>
+		<media type="video" src="hj21.asf" caption="Example of Dhul-Hulaifah Mikat, what to expect at a Mikat"/>
+		<media type="video" src="hj22.asf" caption="Jeddah Airport Hajj Terminal"/>
+		<media type="video" src="hj23.asf" caption="Pilgrams arrive and are grouped into delegations"/>
+		<media type="video" src="hj24.asf" caption="Entry process"/>
+		<media type="video" src="hj25.asf" caption="What happens if you do not have the proper papers and checks?"/>
+		<media type="video" src="hj26.asf" caption="Customs"/>
+		<media type="video" src="hj27.asf" caption="Pilgrim City"/>
+		<media type="video" src="hj28.asf" caption="United agents offices and services"/>
+		<media type="video" src="hj28.asf" caption="Pilgram group headquarters and services"/>
+		<media type="video" src="hj29.asf" caption="Mecca"/>
+		<media type="video" src="hj30.asf" caption="Things not permitted while in Ihram and Hajj"/>
+		<media type="video" src="hj31.asf" caption="First Tawaf and Sunnah of Tawaf at Miqam Ibrahim"/>
+		<media type="video" src="hj32.asf" caption="Well of Zam Zam, Sai, cutting hair at end of Sai"/>
+		<media type="video" src="hj33.asf" caption="Improvements and expansion to Haraam"/>
+		<media type="video" src="hj34.asf" caption="Washing of the Kaaba from the inside"/>
+		<media type="video" src="hj35.asf" caption="Door of Kaaba made of solid gold"/>
+		<media type="video" src="hj36.asf" caption="Changing the covering (Kiswah) of the Kaaba"/>
+		<media type="video" src="hj37.asf" caption="Distance between major points of Hajj"/>
+		<media type="video" src="hj38.asf" caption="After Umrah, remain busy with remembrance of Allah and worship"/>
+		<media type="video" src="hj39.asf" caption="Mina"/>
+		<media type="video" src="hj40.asf" caption="Arafat"/>
+		<media type="video" src="hj41.asf" caption="Arafat traditions and available services"/>
+		<media type="video" src="hj42.asf" caption="Muzdalifah"/>
+		<media type="video" src="hj43.asf" caption="Tenth of Dhul-Hijjah"/>
+		<media type="video" src="hj44.asf" caption="Stonning/pelting Shaitan (Devil)"/>
+		<media type="video" src="hj45.asf" caption="Slaughter sheep or camel or cow"/>
+		<media type="video" src="hj46.asf" caption="Cutting/shaving hair"/>
+		<media type="video" src="hj47.asf" caption="Release from Ihram, Tawaf Al-Ifadah, Sai of Hajj"/>
+		<media type="video" src="hj48.asf" caption="Major release, stone/pelt Shaitan (Devil)"/>
+		<media type="video" src="hj49.asf" caption="Sequence for stoning/pelting Shaitan (Devil)"/>
+		<media type="video" src="hj50.asf" caption="Back to Mina"/>
+		<media type="video" src="hj51.asf" caption="Farewell Tawaf and leaving Mina"/>
+		<media type="video" src="hj52.asf" caption="Madinah"/>
+		<media type="video" src="hj53.asf" caption="Sunnah to visit the Prophet's Masjid"/>
+		<media type="video" src="hj54.asf" caption="Improvements throughout Madinah"/>
+		<media type="video" src="hj55.asf" caption="Sunnah to visit other places around Madinah"/>
+		<media type="video" src="hj56.asf" caption="Production credits"/>
+	</article>
+</articles>
+</aml>

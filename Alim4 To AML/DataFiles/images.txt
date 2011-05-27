@@ -1,0 +1,139 @@
+.Title Islamic Images
+.shortName Images
+.bookID IMG
+.makeContentsPage Index of Images
+.contentsType ungrouped
+.contentsTopicsPerRow 2
+
+.topic bmpwally "Allah"
+<center><IMAGE SRC="images\wally.bmp">
+.endTopic
+
+.topic bmpquranart "Quran Art"
+<center><IMAGE SRC="images\quranart.bmp">
+.endTopic
+
+.topic bmpallah1 "Allah Calligraphy"
+<center><IMAGE SRC="images\allah1.bmp">
+.endTopic
+
+.topic bmpallah2 "Allah Calligraphy"
+<center><IMAGE SRC="images\allah2.bmp">
+.endTopic
+
+.topic bmpbadshahi "Badshahi Mosque"
+<center><IMAGE SRC="images\badshahi.bmp">
+.endTopic
+
+.topic bmpbismill "Bismillah Calligraphy"
+<center><IMAGE SRC="images\bismill.bmp">
+.endTopic
+
+.topic bmpbismill2 "Bismillah Calligraphy"
+<center><IMAGE SRC="images\bismill2.bmp">
+.endTopic
+
+.topic bmpdecor4 "Decoration"
+<center><IMAGE SRC="images\decor4.bmp">
+.endTopic
+
+.topic bmpdisc "Disc"
+<center><IMAGE SRC="images\disc.bmp">
+.endTopic
+
+.topic bmpegyptmo1 "Egyptian Mosque"
+<center><IMAGE SRC="images\egyptmo1.bmp">
+.endTopic
+
+.topic bmpeidgaahm "Eid Gaah Mosque"
+<center><IMAGE SRC="images\eidgaahm.bmp">
+.endTopic
+
+.topic bmpfateha "Surah Al-Fatiha"
+<center><IMAGE SRC="images\fateha.bmp">
+.endTopic
+
+.topic bmpislam1 "Islam"
+<center><IMAGE SRC="images\islam1.bmp">
+.endTopic
+
+.topic bmpislam2 "Islam"
+<center><IMAGE SRC="images\islam2.bmp">
+.endTopic
+
+.topic bmpislam5 "Islam"
+<center><IMAGE SRC="images\islam5.bmp">
+.endTopic
+
+.topic bmpjameel "Jameel"
+<center><IMAGE SRC="images\jameel.bmp">
+.endTopic
+
+.topic bmpjerusale "Jerusalem"
+<center><IMAGE SRC="images\jerusale.bmp">
+.endTopic
+
+.topic bmpkaabanit "Ka'ba"
+<center><IMAGE SRC="images\kaabanit.bmp">
+.endTopic
+
+.topic bmpkaba "Ka'ba"
+<center><IMAGE SRC="images\kaba.bmp">
+.endTopic
+
+.topic bmpkaba1 "Ka'ba"
+<center><IMAGE SRC="images\kaba1.bmp">
+.endTopic
+
+.topic bmpmeccamo2 "Mecca Mosque"
+<center><IMAGE SRC="images\meccamo2.bmp">
+.endTopic
+
+.topic bmpmeccaswi "Mecca"
+<center><IMAGE SRC="images\meccaswi.bmp">
+.endTopic
+
+.topic bmpmihrab "Mihrab"
+<center><IMAGE SRC="images\mihrab.bmp">
+.endTopic
+
+.topic bmpminaret "Minaret"
+<center><IMAGE SRC="images\minaret.bmp">
+.endTopic
+
+.topic bmpmosque "Mosque"
+<center><IMAGE SRC="images\mosque.bmp">
+.endTopic
+
+.topic bmpmosque2 "Mosque"
+<center><IMAGE SRC="images\mosque2.bmp">
+.endTopic
+
+.topic bmpmosque3 "Mosque"
+<center><IMAGE SRC="images\mosque3.bmp">
+.endTopic
+
+.topic bmpmosque4 "Mosque"
+<center><IMAGE SRC="images\mosque4.bmp">
+.endTopic
+
+.topic bmpmosquela "Mosque"
+<center><IMAGE SRC="images\mosquela.bmp">
+.endTopic
+
+.topic bmppmosque1 "Prophet's Mosque"
+<center><IMAGE SRC="images\pmosque1.bmp">
+.endTopic
+
+.topic bmppot "Pot"
+<center><IMAGE SRC="images\pot.bmp">
+.endTopic
+
+.topic bmpprayerma "Prayer Mat"
+<center><IMAGE SRC="images\prayerma.bmp">
+.endTopic
+
+.topic bmpprophets "Prophets Mosque"
+<center><IMAGE SRC="images\prophets.bmp">
+.endTopic
+

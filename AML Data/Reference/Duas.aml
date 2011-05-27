@@ -1,0 +1,389 @@
+<?xml version="1.0"?>
+<aml>
+<articles>
+	<catalog id="DFQ">
+		<names full="Duas from the Quran" short="Duas"/>
+		<navigation viewer="html"/>
+		<content type="article" library="Quran">
+			<page name="Dua Category"/>
+			<item name="Dua" split="no"/>
+		</content>
+		<shortcuts type="external">
+			<category name="Quran">
+				<shortcut breakbefore="yes" sortkey="999"/>
+			</category>
+		</shortcuts>
+		<build>
+			<option fulltextindex="no"/>
+		</build>
+	</catalog>
+
+	<article title="Confirmation of Iman">
+		<ayahs sura="39" first="11" last="12"/>
+		<ayahs sura="39" first="11" last="12" id="YAT"/>
+		<hr size="1"/>
+
+		<ayah sura="3" num="53"/>
+		<ayah sura="3" num="53" id="YAT"/>
+		<hr size="1"/>
+		
+		<ayah sura="18" num="14"/>
+		<ayah sura="18" num="14" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="5" num="114"/>
+		<ayah sura="5" num="114" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="2" num="139"/>
+		<ayah sura="2" num="139" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="12" num="108"/>
+		<ayah sura="12" num="108" id="YAT"/>
+	</article>
+	<article title="Glorification of Allah">
+		
+		<ayah sura="43" num="82"/>
+		<ayah sura="43" num="82" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="59" num="23"/>
+		<ayah sura="59" num="23" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="55" num="78"/>
+		<ayah sura="55" num="78" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayahs sura="6" first="100" last="101"/>
+		<ayahs sura="6" first="100" last="101" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="4" num="171"/>
+		<ayah sura="4" num="171" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="23" num="14"/>
+		<ayah sura="23" num="14" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="43" num="85"/>
+		<ayah sura="43" num="85" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="25" num="61"/>
+		<ayah sura="25" num="61" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="7" num="54"/>
+		<ayah sura="7" num="54" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="59" num="56"/>
+		<ayah sura="59" num="56" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="15" num="98"/>
+		<ayah sura="15" num="98" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="17" num="108"/>
+		<ayah sura="17" num="108" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="30" num="17"/>
+		<ayah sura="30" num="17" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="3" num="191"/>
+		<ayah sura="3" num="191" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="36" num="83"/>
+		<ayah sura="36" num="83" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="67" num="1"/>
+		<ayah sura="67" num="1" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="40" num="64"/>
+		<ayah sura="40" num="64" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="87" num="1"/>
+		<ayah sura="87" num="1" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="110" num="3"/>
+		<ayah sura="110" num="3" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="64" num="1"/>
+		<ayah sura="64" num="1" id="YAT"/>
+	</article>
+	<article title="Submission to,and dependence on,Allah">
+		
+		<ayah sura="11" num="123"/>
+		<ayah sura="11" num="123" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="11" num="56"/>
+		<ayah sura="11" num="56" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="3" num="20"/>
+		<ayah sura="3" num="20" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="67" num="29"/>
+		<ayah sura="67" num="29" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="7" num="196"/>
+		<ayah sura="7" num="196" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="6" num="79"/>
+		<ayah sura="6" num="79" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayahs sura="6" first="162" last="163"/>
+		<ayahs sura="6" first="162" last="163" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="14" num="38"/>
+		<ayah sura="14" num="38" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="39" num="46"/>
+		<ayah sura="39" num="46" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayahs sura="26" first="78" last="82"/>
+		<ayahs sura="26" first="78" last="82" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="25" num="58"/>
+		<ayah sura="25" num="58" id="YAT"/>
+	</article>
+	<article title="Seeking Guidance">
+		
+		<ayah sura="6" num="77"/>
+		<ayah sura="6" num="77" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="28" num="22"/>
+		<ayah sura="28" num="22" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="18" num="10"/>
+		<ayah sura="18" num="10" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="3" num="8"/>
+		<ayah sura="3" num="8" id="YAT"/>
+	</article>
+	<article title="Seeking Forgiveness">
+		
+		<ayah sura="21" num="87"/>
+		<ayah sura="21" num="87" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="28" num="16"/>
+		<ayah sura="28" num="16" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="3" num="16"/>
+		<ayah sura="3" num="16" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="68" num="29"/>
+		<ayah sura="68" num="29" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="2" num="286"/>
+		<ayah sura="2" num="286" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="59" num="10"/>
+		<ayah sura="59" num="10" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="23" num="118"/>
+		<ayah sura="23" num="118" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="7" num="143"/>
+		<ayah sura="7" num="143" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="2" num="285"/>
+		<ayah sura="2" num="285" id="YAT"/>
+	</article>
+	<article title="Seeking Knowledge and Wisdom">
+		
+		<ayah sura="20" num="114"/>
+		<ayah sura="20" num="114" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="26" num="83"/>
+		<ayah sura="26" num="83" id="YAT"/>
+	</article>
+	<article title="Prayer for Patience,Perseverence,and Steadfastness">
+		
+		<ayah sura="44" num="12"/>
+		<ayah sura="44" num="12" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="12" num="86"/>
+		<ayah sura="12" num="86" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="2" num="250"/>
+		<ayah sura="2" num="250" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="7" num="126"/>
+		<ayah sura="7" num="126" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayahs sura="16" first="127" last="128"/>
+		<ayahs sura="16" first="127" last="128" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="17" num="96"/>
+		<ayah sura="17" num="96" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="14" num="12"/>
+		<ayah sura="14" num="12" id="YAT"/>
+	</article>
+	<article title="Seeking Provisions">
+		
+		<ayah sura="28" num="24"/>
+		<ayah sura="28" num="24" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayahs sura="20" first="25" last="28"/>
+		<ayahs sura="20" first="25" last="28" id="YAT"/>
+	</article>
+	<article title="Seeking Protection of Allah">
+		
+		<ayah sura="34" num="41"/>
+		<ayah sura="34" num="41" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="9" num="126"/>
+		<ayah sura="9" num="126" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="11" num="47"/>
+		<ayah sura="11" num="47" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="12" num="64"/>
+		<ayah sura="12" num="64" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayahs sura="23" first="97" last="98"/>
+		<ayahs sura="23" first="97" last="98" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="12" num="101"/>
+		<ayah sura="12" num="101" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="25" num="65"/>
+		<ayah sura="25" num="65" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayahs sura="10" first="85" last="86"/>
+		<ayahs sura="10" first="85" last="86" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayahs sura="113" first="1" last="5"/>
+		<ayahs sura="113" first="1" last="5" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayahs sura="114"/>
+		<ayahs sura="114" id="YAT"/>
+	</article>
+	<article title="Offering of Thanks">
+		
+		<ayah sura="39" num="66"/>
+		<ayah sura="39" num="66" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="27" num="40"/>
+		<ayah sura="27" num="40" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayahs sura="45" first="36" last="37"/>
+		<ayahs sura="45" first="36" last="37" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="7" num="43"/>
+		<ayah sura="7" num="43" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="28" num="70"/>
+		<ayah sura="28" num="70" id="YAT"/>
+	</article>
+	<article title="Prayers for Family">
+		
+		<ayah sura="21" num="89"/>
+		<ayah sura="21" num="89" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="37" num="100"/>
+		<ayah sura="37" num="100" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="3" num="38"/>
+		<ayah sura="3" num="38" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="25" num="74"/>
+		<ayah sura="25" num="74" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="2" num="128"/>
+		<ayah sura="2" num="128" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayahs sura="14" first="40" last="41"/>
+		<ayahs sura="14" first="40" last="41" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="46" num="15"/>
+		<ayah sura="46" num="15" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="17" num="24"/>
+		<ayah sura="17" num="24" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="71" num="28"/>
+		<ayah sura="71" num="28" id="YAT"/>
+	</article>
+	<article title="General">
+		
+		<ayah sura="2" num="201"/>
+		<ayah sura="2" num="201" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="7" num="156"/>
+		<ayah sura="7" num="156" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayah sura="7" num="89"/>
+		<ayah sura="7" num="89" id="YAT"/>
+		<hr size="1" width="100%" color="silver"/>
+		
+		<ayahs sura="40" num="7" last="9"/>
+		<ayahs sura="40" num="7" last="9" id="YAT"/>
+	</article>
+</articles>
+</aml>

@@ -1,0 +1,90 @@
+<?xml version="1.0"?>
+<aml>
+
+<charmap encoding="Eastern Languages">
+	<font name="AlMutanabi"/>
+	<font name="Grand Kufi"/>
+	<font name="Husseini"/>
+	<font name="Kufi"/>
+	<font name="Majalla"/>
+	<font name="Majalla Condensed"/>
+	<font name="Majiid"/>
+	<font name="Mashq Jadiid"/>
+	<font name="Naskh"/>
+	<font name="Tawfiq" default="yes"/>
+	<font name="Tawfiq Outline"/>
+	<font name="Thuluth"/>
+	<font name="Zeena" default="yes"/>
+	<font name="Zr"/>
+	
+	<context letter="alif" isolated="90" initial="90" medial="163" final="163" connectright="no" />
+	<context letter="baa" isolated="91" initial="133" medial="164" final="204" />
+	<context letter="taa" isolated="92" initial="134" medial="165" final="205" />
+	<context letter="saa" isolated="93" initial="135" medial="166" final="206" />
+	<context letter="jeem" isolated="95" initial="137" medial="168" final="208" />
+	<context letter="haa" isolated="97" initial="138" medial="169" final="209" />
+	<context letter="khaa" isolated="98" initial="139" medial="170" final="210" />
+	<context letter="daal" isolated="100" initial="100" medial="172" final="172" connectright="no" />
+	<context letter="dhaal" isolated="101" initial="101" medial="173" final="173" connectright="no" />
+	<context letter="raa" isolated="102" initial="102" medial="174" final="174" connectright="no" />
+	<context letter="zaa" isolated="103" initial="103" medial="175" final="175" connectright="no" />
+	<context letter="seen" isolated="105" initial="141" medial="177" final="212" />
+	<context letter="sheen" isolated="106" initial="142" medial="178" final="213" />
+	<context letter="saud" isolated="107" initial="143" medial="179" final="214" />
+	<context letter="dhaud" isolated="108" initial="144" medial="180" final="215" />
+	<context letter="tau" isolated="109" initial="145" medial="181" final="216" />
+	<context letter="zau" isolated="110" initial="146" medial="182" final="217" />
+	<context letter="aain" isolated="111" initial="147" medial="183" final="218" />
+	<context letter="ghain" isolated="112" initial="148" medial="184" final="219" />
+	<context letter="faa" isolated="113" initial="149" medial="185" final="220" />
+	<context letter="qaaf" isolated="114" initial="150" medial="186" final="221" />
+	<context letter="kaaf" isolated="116" initial="152" medial="188" final="223" />
+	<context letter="laam" isolated="118" initial="154" medial="190" final="225" />
+	<context letter="meem" isolated="119" initial="155" medial="191" final="226" />
+	<context letter="noon" isolated="120" initial="156" medial="192" final="227" />
+	<context letter="ha" isolated="121" initial="157" medial="193" final="228" />
+	<context letter="waw" isolated="122" initial="122" medial="194" final="194" connectright="no" />
+	<context letter="yaa" isolated="123" initial="158" medial="195" final="229" />
+	<context letter="hamza" isolated="89" initial="89" medial="89" final="89" />
+	<context letter="alifmud" isolated="242" initial="242" medial="243" final="243" />
+	<context letter="thaamarbutah" isolated="0" initial="0" medial="0" final="0" />
+	<context letter="lamalif" isolated="234" initial="234" medial="234" final="235" connectright="no" />
+</charmap>
+
+<keymap name="Default">
+	<key char="q" letter="dhaud" />
+	<key char="w" letter="saud" />
+	<key char="e" letter="saa" />
+	<key char="r" letter="qaaf" />
+	<key char="t" letter="faa" />
+	<key char="y" letter="ghain" />
+	<key char="u" letter="aain" />
+	<key char="i" letter="haa" />
+	<key char="o" letter="khaa" />
+	<key char="p" letter="ha" />
+	<key char="[" letter="jeem" />
+
+	<key char="a" letter="sheen" />
+	<key char="s" letter="seen" />
+	<key char="d" letter="yaa" />
+	<key char="f" letter="yaa" />
+	<key char="g" letter="laam" />
+	<key char="h" letter="alif" />
+	<key char="j" letter="taa" />
+	<key char="k" letter="noon" />
+	<key char="l" letter="meem" />
+	<key char=";" letter="kaaf" />
+
+	<key char="z" letter="zau" />
+	<key char="x" letter="tau" />
+	<key char="c" letter="zaa" />
+	<key char="v" letter="raa" />
+	<key char="b" letter="dhaal" />
+	<key char="n" letter="daal" />
+	<key char="m" letter="hamza" />
+	<key char="," letter="waw" />
+	<key char="." letter="alifmud" />
+	<key char="/" letter="lamalif" />
+</keymap>
+
+</aml>

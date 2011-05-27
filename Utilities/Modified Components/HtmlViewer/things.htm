@@ -1,0 +1,144 @@
+<head>
+<title>Things You Should Know</title>
+</head>
+
+<body bgcolor="#FFFFFF" background="bkgnd.jpg" text="#000000" alink="FFFF00">
+<font SIZE="2" FACE="Arial">
+
+<h2 align="center"><font color="#C5533A">Things You Should Know</font></h2>
+
+<table Align="center" border=0>
+<tr><td>
+    <ul>
+      <li><a HREF="#Difference">TFrameViewer, ThtmlViewer, and TFrameBrowser</a> </li>
+      <li><a HREF="#DLL">Graphics DLL</a> </li>
+      <li><a HREF="#CompileOptions">Version 7 Compile Time Options</a> </li>
+      <li><a href="#ActiveImages">Active Images</a>
+    </ul>
+    </td>
+    <td width="30">&nbsp;</td>
+</table>
+<br>
+<hr color="#808080" size=2 width=60%>
+
+<h4><font color="#373773"><a name="Difference">TFrameViewer, ThtmlViewer, and TFrameBrowser</a></font></h4>
+
+  <p>The HTML component set consists of the <b>ThtmlViewer</b>, <b>TFrameViewer</b>, and <b>TFrameBrowser</b>
+  components.   All three are HTML document display components:</p>
+
+  <table width="100%" cellspacing="2" cellpadding="2" border="0">
+  <tr>
+      <th width="2%"></th>
+      <th valign="top" align="left">ThtmlViewer</th>
+      <td valign="top">The basic component.  <b>ThtmlViewer</b> displays single (non-frame)
+                     documents.  It forms the basis for the other two components.<br><br></td>
+  </tr>
+  <tr>
+      <td></td>
+      <th valign="top" align="left">TFrameViewer</th>
+      <td valign="top">Displays both Frame and single HTML documents.  <b>TFrameViewer</b> is
+                     oriented more for local disk file use.<br><br></td>
+  </tr>
+  <tr>
+      <th></th>
+      <th valign="top" align="left">TFrameBrowser&nbsp;&nbsp;&nbsp;</th>
+      <td valign="top">Also displays Frame and single HTML documents.  However, <b>TFrameBrower</b> is
+                     oriented toward Internet style protocols and URL usage.  Additional
+                     code and/or components are generally required to use <b>TFrameBrowser</b>.<br></td>
+  </tr>
+  </table>
+
+<p>
+If you know that your appication will not be using Frames, you can save a fair
+amount of code overhead by using <b>ThtmlViewer</b> rather than one of the Frame components.
+Many operations are also simpler using <b>ThtmlViewer</b>.
+<p>
+
+<hr color="#808080" size=2 width=95%>
+
+<h4><font color="#373773"><a name="DLL">Graphics DLL</a></font></h4>
+
+A graphics DLL is supplied with the HTML components and is normally required
+for their use.  The various DLLs are named:
+<p>
+<table border="0">
+<tr>
+   <td width="35">&nbsp;</td>
+   <td width="100">ILDA16.DLL</td>
+   <td>Delphi 1 Professional</td>
+<tr>
+    <td> </td>
+    <td>ILDA32.DLL</td>
+    <td>All 32 bit Professional versions</td>
+<tr>
+    <td> </td>
+    <td>ILDA16T.DLL</td>
+    <td>Delphi 1 demo</td>
+<tr?>
+    <td> </td>
+    <td>ILDA32T.DLL</td>
+    <td>All 32 bit demo versions</td>
+</table>
+<p>
+The DLL may be located in the either the <code>Windows\System</code> directory or the same
+directory as your application.  Be sure and supply the appropriate DLL with your
+application unless it's built with the <a href="#NoDLL">NoDLL</a> option.
+
+<hr color="#808080" size=2 width=95%>
+
+<h4><font color="#373773"><a name="CompileOptions">Version 7 Compile Time Options</a></font></h4>
+
+Version 7 has several possible compile time options controlled by defining symbols.
+You can find these in the <code>HTMLCONS.INC</code> file. None of these symbols are initially defined.
+To make any one (or all) of these symbols active, remove the "<b>.</b>" from the
+<code>{$.Define XXXX}</code>
+sequence and recompile the code.
+<p>
+The possibilities are:
+<p>
+
+<font color="maroon"><b>NoGIF</b></font>
+<BlockQuote>
+Defining <b>NoGIF</b> disables GIF imaging capabilities. JPEG, PNG, and bitmap images
+are still operable. The graphics DLL is still required.
+</Blockquote>
+<p>
+
+<font color="maroon"><b><a name="NoDLL">NoDLL</a></b></font>
+<BlockQuote>
+
+When <b>NoDLL</b> is defined, the graphics DLL is no longer required. Bitmap and GIF images
+(including animated GIFs) can still be displayed but image quality may be degraded
+in 256 color mode.
+<p>
+The Delphi 3 and 4 versions also support JPEG images
+when <b>NoDLL</b> is defined.
+<p>
+Note: to both remove the need for the graphics DLL and eliminate GIF capabilties,
+both <b>NoDLL</b> and <b>NoGIF</b> must be defined.
+</Blockquote>
+<p>
+
+The Former <font color="maroon"><b>NoUnderline</b></font> and 
+<font color="maroon"><b>PrintTableBackground</b></font> compile time options are now 
+handled by the <b>htOptions</b> and <b>fvOptions</b> properties.
+<p>
+
+<hr color="#808080" size=2 width=95%>
+
+<h4><font color="#373773"><a name="ActiveImages">Active Images</a></font></h4>
+
+An <i><b>Active Image</b></i> is one that changes when the mouse passes over it.  The HTML components use
+a special syntax to implement active images.  It's done with the <b>&lt;img&gt;</b> tag as follows:
+<p>
+<ul>
+  <li>the <b>SRC="..."</b> attribute should specify an animated GIF image
+  <li>Add an <b>Active</b> attribute
+</ul>
+<p>
+With the <b>Active</b> attribute, the GIF will normally just display the first frame.  When the mouse passes
+over, it will display the second frame if there are 2 frames or will animate if there are more than 2 
+frames.
+<p>
+
+

@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<aml>
+<articles>
+	<catalog id="ALIMFAQ">
+		<names full="Alim Frequently Asked Questions" short="Alim FAQ"/>
+		<navigation viewer="html" style="article"/>
+		<content type="article" library="Application"/>
+		<build>
+			<option fulltextindex="no"/>
+		</build>
+	</catalog>
+	
+	<article title="Alim Frequently Asked Questions">
+		<section heading="Who Created The Alim?">
+		The Alim's original concept was developed by Amir Jafri and Shahid N. Shah. 
+		The Alim's software was designed and written by Shahid N. Shah. 
+		The Alim's content were produced and developed by Amir Jafri, Rashid N. Shah, and Shahid N. Shah.
+		The Qur'an in Arabic script was processed by Farhana N. Shah and 
+		Recitation was recorded by Zafar Jafri, Rachna Ayesha Jafri, and Amir Jafri.
+		<p/>
+		ISL Software Corporation would like to first and formost thank Allah for allowing us to serve Islam in this manner. We would like to give special thanks to Br. Nehal M. Shah, Br. Zafar Jafri, Sr. Salma Jafri, Sr. Zubaida Shah, and the Islamic Society of Greater Houston.
+		</section>
+
+		<section heading="Who Owns the Content?">
+		The content is owned by their respective publishers. 
+		Please visit <a href="http://www.alim.org">The Alim Online</a> for more information.
+		</section>
+
+		<section heading="Who Owns the Program?">
+		The Alim is owned exclusively by ISL Software Corporation, a U.S. Firm.
+		No rights for publication or duplication have been granted to any other
+		firm(s).
+		</section>
+		
+		<section heading="Can I Copy The Alim?">
+		In order for us to continue developing high-quality Islamic software, we need
+		help from Brothers and Sisters from around the world. The best way for you to
+		help us is to purchase, and not copy, The Alim. If you would like to learn how
+		to get quantity discounts, discounts for schools, or discounts for your masjid,
+		please contact <a href="http://www.islsoftware.com">ISL Software Corporation</a>.
+		
+		<p/>
+		ISL Software Corporation<br/>
+		2037 Featherwood Street<br/>
+		Silver Spring, MD 20904-6645<br/>
+		+1 301 622 3915<br/>
+		+1 301 622 9199 fax<br/>
+		<a href="http://www.islsoftware.com">www.islsoftware.com</a><br/>
+		<a href="mailto://sales@islsoftware.com">sales@islsoftware.com</a>
+		</section>
+		
+		<section heading="What is Arabic Playhouse?">
+		The Arabic Playhouse is a high-quality, easy to use product that helps children and 
+		adults learn how to read Qur'anic Arabic. It is made by the same people who bring you
+		The Alim.
+		<p/>
+		If you would like to learn more about it, please visit ISL Software Corporation's 
+		<a href="http://www.islsoftware.com">Website</a>.
+		<p/>
+		<cart item_id="aplay" item_name="Arabic Playhouse" vendor="ISL Software Corp." quantity="1" unit_cost="49.00"/>
+		</section>
+	</article>	
+</articles>
+</aml>

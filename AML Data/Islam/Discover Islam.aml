@@ -1,0 +1,697 @@
+<?xml version="1.0"?>
+<aml>
+
+<articles>
+	<catalog id="DI">
+		<names full="Discover Islam Posters" short="Discover Islam"/>
+		<navigation viewer="html" />
+		<content type="article" subtype="media" library="Islam">
+			<page name="Poster"/>
+		</content>
+		<shortcuts type="external">
+			<category name="Islam">
+				<shortcut iconsrc="$DiscoverIslam.bmp" smalliconsrc="$DiscoverIslamSmall.bmp"/>
+			</category>
+		</shortcuts>
+	</catalog>
+
+	<article title="Discover Islam">
+		<media type="image" src="$1.jpg">
+		<p>
+			<i>In the name of God, the Compassionate, the Merciful.</i>
+		</p>
+		<p>
+			All praise be to God, Lord of the Universe; the Compassionate, 
+			the Merciful. Sovereign of the Day of Judgement! You alone we 
+			worship; and to You alone we turn for help. Guide us to the 
+			straight path; the path of those whom You have favored; not of 
+			those who have incurred Your wrath, nor of those who have gone 
+			astray. Amen. 
+		</p>
+		</media>
+	</article>
+	<article title="What Is Islam And Who Are Muslims?">
+		<media type="image" src="$2.jpg">
+		<p>
+			Based on its linguistic origin, the Arabic word 'Islam' means to achieve
+			peace--peace with God, peace within oneself, and peace with the creations
+			of God through submission to God and commitment to His guidance.
+		</p>
+		<p>
+			Islam is not a new religion but the final culmination and fulfillment of
+			the same basic truth that God revealed through all His prophets to every
+			people. For a fifth of the world's population, Islam is not just a personal
+			religion but a complete way of living.
+		</p>
+		<p>
+			Over a billion people from all races, nationalities and cultures across the
+			globe are Muslim--from the rice farms of Indonesia to the deserts in the
+			heart of Africa; from the skyscrapers of New York to the Bedouin tents in
+			Arabia.
+		</p>
+		<p>
+			Only 18% of Muslims live in the Arab world; a fifth are found in
+			Sub-Saharan Africa; and the world's largest Muslim community is in
+			Indonesia. Substantial parts of Asia are Muslim, while significant
+			minorities are to be found in the Central Asian republics, India, China,
+			North and South America, Eastern and Western Europe.
+		</p>
+		</media>
+	</article>
+	<article title="What Do Muslims Believe In?">
+	 	<media type="image" src="$3.jpg">
+		<p>
+			Muslims believe in the One, Unique, Incomparable, Merciful God--the Sole Creator, Sustainer and
+			Cherisher of the Universe; in the Angels created by Him; in the Prophets through whom His
+			revelations were brought to humankind; in the Day of Judgment and in individual accountability
+			for actions; in God's complete authority over destiny, be it good or bad; and in life after
+			death.
+		</p>	
+	
+		<p>
+			Muslims believe that God sent his messengers and prophets to all people beginning with Adam
+			(Adam) and including Noah (Nuh), Abraham (Ibrahim), Lot (Lut), Ishmael (Isma'il), Isaac
+			(Ishaq), Jacob (Ya'qub), Joseph (Yusuf), Job (Ayb), Moses (Musa), Aaron (Harun), David (Dawud),
+			Solomon (Sulayman), Elias (Ilyas), Jonah (Yunus), John the Baptist (Yahya), and Jesus ('Isa);
+			peace be upon them all.
+		</p>	
+	
+		<p>
+			God's final message to humanity, a reconfirmation of the eternal message and a summing up of
+			all that has gone before, was revealed to the Last Prophet Muhammad (peace be upon him) through
+			the Archangel Gabriel.
+		</p>
+		<p>
+			One becomes a Muslim by believing and proclaiming that "There is none worthy of worship except
+			God, and that Muhammad is the Messenger of God." By this declaration the believer announces his
+			or her faith in all God's messengers, and the Scriptures (in their pristine original form) that
+			these messengers brought.
+		</p>
+		</media>
+	</article>
+	<article title="Why Is Islam Often Misunderstood?">
+		<media type="image" src="$4.jpg">	
+		<p>
+			Islam is frequently misunderstood and may even seem exotic in some parts of today's world.
+			Perhaps this is because religion no longer dominates everyday life in Western society; whereas,
+			for Muslims, Islam is life. Muslims make no artificial division between the secular and the
+			sacred.
+		</p>
+	
+		<p>
+			For quite some time Islam was thought of as some "Eastern" religion, but with the increasing
+			number of Muslims living in the West, Islam is gradually being perceived as a global faith.
+			Muslims are not thought of as strangers with unusual practices, but are being welcomed as part
+			of the mosaic of life in the West. In many cases, Islam is not just viewed as an acceptable
+			religion, but as a desired way of living.
+		</p>
+		</media>
+	</article>	
+	<article title="Do Islam, Christianity And Judaism Have Different Origins?">
+		<media type="image" src="$5.jpg">
+		<p>
+			No. The original, unchanged revelations given to Abrahamic and other prophets reaching back to
+			Adam all came from the One True God.  This common origin explains their similarities in many
+			beliefs and values.
+		</p>	
+	
+		<p>
+			Abraham is mentioned in the Qur'an as one of the great Prophets and was honored with the title,
+			"Friend of God."  Abraham and his eldest son, Ishmael, were commanded by God to build a place
+			of worship, the Ka'bah, in what is today the city of Makkah, Saudi Arabia.
+		</p>
+		<p>
+			The Ka'bah is a simple stone construction erected as a sanctuary for the worship of the One
+			God. The Qur'an states that God commanded Abraham to summon all humankind to visit this place,
+			and when pilgrims go there today they say "At your service, O Lord," in response to Abraham's
+			call.  The Ka'bah is the central place of worship toward which all Muslims face in prayer to
+			God, Almighty.
+		</p>
+		</media>
+	</article>
+	<article title="Who Is Muhammad?">	
+		<media type="image" src="$6.jpg">
+		<p>
+			Muhammad was born in Makkah in the year 570 CE, during the period of history Europeans call the
+			Middle Ages. Muhammad was the son of 'Abd Allah, a noble from the tribe of the Quraysh.
+			Muhammad's father died before Muhammad's birth, and his mother, Aminah died shortly afterwards.
+			Muhammad was raised by his uncle, Abu Talib. 
+		</p>	
+		
+		<p>
+			As he grew up, Muhammad became known for his truthfulness, generosity and sincerity, earning
+			the title of al Amin, the trustworthy one. Muhammad was frequently called upon to arbitrate
+			disputes and counsel his fellow Makkans.
+		</p>
+		<p>
+			Muhammad was of a contemplative nature, and had long detested the decadence of his society.  It
+			became his habit to meditate from time to time in the Cave of Hira' near the summit of Jabal al
+			Nur, the 'Mountain of Light' near Makkah.
+		</p>
+		</media>
+	</article>
+	<article title="How Did Muhammad Become A Prophet And A Messenger Of God?">
+		<media type="image" src="$7.jpg">
+		<p>
+			At the age of 40, while engaged in a meditative retreat, Muhammad received his first revelation
+			from God through the Archangel Gabriel. This revelation, which continued for twenty-three
+			years, is known as the Qur'an.
+		</p>
+		<p>
+			Muhammad began to recite the words he heard from Gabriel and to preach the truth which God had
+			revealed to him. The people of Makkah were steeped in their ways of ignorance and opposed
+			Muhammad and his small group of followers in every way. These early Muslims suffered bitter
+			persecution. 
+		</p>
+		<p>
+			In the year 622 CE, God gave the Muslim community the command to emigrate. This event, the
+			hijrah or migration, in which they left Makkah for the city of Madinah, some 260 miles to the
+			North, marks the beginning of the Muslim calendar.
+		</p>
+		<p>
+			Madinah provided Muhammad and the Muslims the safe and nurturing haven in which the Muslim
+			community grew.  After several years, the Prophet and his followers returned to Makkah, where
+			they forgave their enemies and dedicated the Ka'bah to the worship of the One God. Before the
+			Prophet died at the age of 63, the greater part of Arabia was Muslim, and within a century of
+			his death, Islam had spread to Spain in the west and as far east as China.
+		</p>
+		</media>
+	</article>
+	<article title="How Did The Spread Of Islam Affect The World?">
+		<media type="image" src="$8.jpg">
+		<p>
+			The Muslim community expanded rapidly after the Prophet's death. Within a few decades, the
+			territory under Muslim rule had extended onto three continents--Asia, Africa and Europe. Over
+			the next few centuries this Empire continued to expand and Islam gradually became the chosen
+			faith of the majority of its inhabitants. Among the reasons for the rapid and peaceful spread
+			of Islam was the simplicity of its doctrine--Islam calls for faith in only One God worthy of
+			worship. Islam also repeatedly instructs human beings to use their powers of intelligence and
+			observation.
+		</p>
+		
+		<p>
+			As Muslim civilization developed, it absorbed the heritage of ancient civilizations like Egypt,
+			Persia and Greece, whose learning was preserved in the libraries and with the scholars of its
+			cities. Some Muslim scholars turned their attention to these centers of learning and sought to
+			acquaint themselves with the knowledge taught and cultivated in them. They, therefore, set
+			about with a concerted effort to translate the philosophical and scientific works available to
+			them, not only from the Greek and Syriac languages (the languages of eastern Christian
+			scholars), but also from Pahlavi, the scholarly language of pre-Islamic Persia, and even from
+			Sanskrit, an ancient Indian language.
+		</p>
+		</media>
+	</article>
+	<article title="How Did The Spread Of Islam Affect The World? (Continued)">
+		<media type="image" src="$9.jpg">
+		<p>
+			Most of the important philosophical and scientific works of Aristotle; much of Plato and the
+			Pythagorean school; and the major works of Greek astronomy, mathematics and medicine such as
+			the Almagest of Ptolemy, the Elements of Euclid, and the works of Hippocrates and Galen, were
+			all rendered into Arabic. Furthermore, important works of astronomy, mathematics and medicine
+			were translated from Pahlavi and Sanskrit. As a result, Arabic became the most important
+			scientific language of the world for many centuries and the depository of much of the wisdom
+			and the sciences of antiquity.
+		</p>
+		<p>
+			The achievement of scholars working in the Islamic tradition went far beyond translation and
+			preservation of ancient learning. These scholars built upon and developed the ancient heritage
+			before passing it on to the West.
+		</p>
+		<p>
+			Muslims excelled in art, architecture, astronomy, geography, history, language, literature,
+			medicine, mathematics, and physics. Many crucial systems such as algebra, the Arabic numerals,
+			and the very concept of the zero (vital to the advancement of mathematics), were formulated by
+			Muslim scholars and shared with medieval Europe. Sophisticated instruments that would make
+			possible the later European voyages of discovery were invented or developed, including the
+			astrolabe, the quadrant and navigational charts and maps.
+		</p>
+		</media>
+	</article>
+	<article title="What Is The Qur'an?">
+		<media type="image" src="$10.jpg">
+		<p>
+			The Qur'an is the very word of God, Almighty. A complete record of the exact words revealed by
+			God through the Angel Gabriel to the Prophet Muhammad. 
+		</p>
+		<p>
+			The Qur'an was memorized by Muhammad and his followers, dictated to his companions, and written
+			down by scribes, who cross-checked it during the Prophet's lifetime. Not one word of its 114
+			surahs (parts or chapters) has been changed over the centuries. The Qur'an is in every detail
+			the same unique and miraculous text that was revealed to Muhammad fourteen centuries ago.
+		</p>
+		<p>
+			The Qur'an is the principal source of every Muslim's faith and practice. It deals with all
+			subjects that concern us as human beings, including wisdom, doctrine, worship and law; but its
+			basic theme is the relationship between God and His creatures. At the same time, the Qur'an
+			provides guidelines for a just society, proper human conduct and equitable economic principles.
+		</p>
+		</media>
+	</article>
+	<article title="Apart From The Qur'an Are There Any Other Sacred Sources?">
+		<media type="image" src="$11.jpg">
+		<p>
+			Yes, the sunnah, sometimes referred to as the hadith, the practice and example of the Prophet,
+			is the second source of inspiration and instruction for Muslims. Belief in the sunnah is part
+			of the Islamic faith.
+		</p>
+		<p>
+			A few examples of the Prophet's sayings (Hadith):
+		</p>
+		<p>
+			"God has no mercy on one who has no mercy for others."
+		</p>
+		<p>
+			"None of you truly believes until he wishes for his brother what he wishes for himself."
+		</p>
+		<p>
+			"He who eats his fill while his neighbor goes without food is not a believer."
+		</p>
+		<p>
+			"God does not judge you according to your bodies and appearances but He looks into your hearts
+			and observes your deeds."
+		</p>
+		<p>
+			"One Muslim should do six acts of kindness to another: he should greet him when he meets him;
+			accept his invitation when he gives one; say 'God have mercy on you' when he sneezes; visit him
+			when he is ill; follow his bier when he dies; and like for him what he likes for himself."
+		</p>
+		<p>
+			"A man walking along a path felt very thirsty. Reaching a well he descended into it, drank his
+			fill and came up.  Then he saw a dog with its tongue hanging out, trying to lick up mud to
+			quench its thirst. The man saw that the dog was feeling the same thirst as he had felt, so he
+			went down into the well again and filled his shoe with water and gave the dog a drink. God
+			forgave his sins for this action. The Prophet was asked: 'Messenger of God, are we rewarded for
+			kindness towards animals?' He said, 'There is a reward for kindness to every living being.'"
+		</p>
+		<p>
+			"O People, listen to me in earnest, worship God, perform your five daily prayers (Salah), fast
+			during the month of Ramadan, and give your wealth in Zakah. Perform Hajj if you can afford to.
+			Know that every Muslim is the brother of another Muslim. You are all equal. Nobody has
+			superiority over others except by piety and good action." (from The Prophet's Last Sermon).
+		</p>
+		</media>
+	</article>
+	<article title="What Are The Five Pillars Of Islam? IMAN">		
+		<media type="image" src="$12.jpg">
+		<p>
+			The 'Five Pillars' of Islam are the foundation of Muslim life: 
+		</p>
+		<p>
+		<ul>
+			<li>Faith or belief in the Oneness of God and the finality of the prophethood of Muhammad;</li>
+			<li>Establishment of the daily prayers;</li>
+			<li>Concern for and almsgiving to the needy;</li>
+			<li>Self-purification through fasting; and</li>
+			<li>The pilgrimage to Makkah for those who are able.</li>
+		</ul>
+		</p>
+		<p>	
+			Iman or Faith
+		</p>
+		<p>
+			"There is none worthy of worship except God and Muhammad is the messenger of God." This
+			declaration of faith is called the shahadah, a simple formula that all the faithful pronounce.
+			The significance of this declaration is the belief that the only purpose of life is to serve
+			and obey God, and this is achieved through the teachings and practices of the Last Prophet,
+			Muhammad.
+		</p>
+		</media>
+	</article>
+	<article title="What Are The Five Pillars Of Islam? SALAH">
+		<media type="image" src="$13.jpg">
+		<p>
+			Salah or Prayer
+		</p>
+		<p>
+			Salah is the name for the obligatory prayers that are performed five times a day, and are a
+			direct link between the worshipper and God. There is no hierarchical authority in Islam and
+			there are no priests. Prayers are led by a learned person who knows the Qur'an and is generally
+			chosen by the congregation.
+		</p>
+		<p>
+			Prayers are said at dawn, mid-day, late-afternoon, sunset and nightfall, and thus determine the
+			rhythm of the entire day. These five prescribed prayers contain verses from the Qur'an, and are
+			said in Arabic, the language of the Revelation. Personal supplications, however, can be offered
+			in one's own language and at any time.  
+		</p>
+		<p>
+			Although it is preferable to worship together in a mosque, a Muslim may pray almost anywhere,
+			such as in fields, offices, factories and universities. Oftentimes visitors to the Muslim world
+			are struck by the centrality of prayers in daily life.
+		</p>
+		</media>
+	</article>
+	<article title="What Are The Five Pillars Of Islam? SALAH (Continued)">
+		<media type="image" src="$14.jpg">
+		<p>
+			A translation of the Adan or Call to Prayer is:
+		</p>
+		<p>God is Great.</p>
+		<p>God is Great.</p>
+		<p>God is Great.</p>
+		<p>God is Great.</p>
+		<p>I testify that there is none worthy of worship except God.</p>
+		<p>I testify that there is none worthy of worship except God.</p>
+		<p>I testify that Muhammad is the messenger of God.</p>
+		<p>I testify that Muhammad is the messenger of God.</p>
+		<p>Come to prayer!</p>
+		<p>Come to prayer!</p>
+		<p>Come to success!</p>
+		<p>Come to success!</p>
+		<p>God is Great!</p>
+		<p>God is Great!</p>
+		<p>There is none worthy of worship except God.</p>
+		</media>
+	</article>
+	<article title="What Are The Five Pillars Of Islam? ZAKAH">
+		<media type="image" src="$15.jpg">
+		<p>
+			Zakah. The financial obligation upon Muslims.
+		</p>
+		<p>
+			An important principle of Islam is that everything belongs to God, and that wealth is therefore
+			held by human beings in trust. The word zakah means both "purification" and "growth."  Our
+			possessions are purified by setting aside a proportion for those in need and for the society in
+			general. Like the pruning of plants, this cutting back balances and encourages new growth.
+		</p>
+		<p>
+			Each Muslim calculates his or her own zakah individually. This involves the annual payment of a
+			fortieth of one's capital, excluding such items as primary residence, car and professional
+			tools.
+		</p>
+		<p>
+			An individual may also give as much as he or she pleases as sadaqa-h, and does so preferably in
+			secret.  Although this word can be translated as "voluntary charity" it has a wider meaning.
+		</p>
+		<p>
+			The Prophet said, "Even meeting your brother with a cheerful face is an act of charity."  The
+			Prophet also said: "Charity is a necessity for every Muslim." He was asked: "What if a person
+			has nothing?" The Prophet replied: "He should work with his own hands for his benefit and then
+			give something out of such earnings in charity." The Companions of the Prophet asked: "What if
+			he is not able to work?" The Prophet said: "He should help the poor and needy." The Companions
+			further asked: "What if he cannot do even that?" The Prophet said: "He should urge others to do
+			good." The Companions said: "What if he lacks that also?" The Prophet said: "He should check
+			himself from doing evil. That is also an act of charity."
+		</p>
+		</media>
+	</article>
+	<article title="What Are The Five Pillars Of Islam? SAWM">
+		<media type="image" src="$16.jpg">
+		<p>
+			Sawm or Fasting
+		</p>
+		<p>
+			Every year in the month of Ramada-n, all Muslims fast from dawn until sundown--abstaining from
+			food, drink, and sexual relations with their spouses.
+		</p>
+		<p>
+			Those who are sick, elderly, or on a journey, and women who are menstruating, pregnant or
+			nursing, are permitted to break the fast and make up an equal number of days later in the year
+			if they are healthy and able. Children begin to fast (and to observe prayers) from puberty,
+			although many start earlier.
+		</p>
+		<p>
+			Although fasting is beneficial to health, it is mainly a method of self-purification and
+			self-restraint. By cutting oneself from worldly comforts, even for a short time, a fasting
+			person focuses on his or her purpose in life by constantly being aware of the presence of God.
+		</p>
+		<p>
+			God states in the Qur'an: 
+		</p>
+		<p>
+			"O you who believe! Fasting is prescribed for you as it was prescribed to those before you that
+			you may learn self-restraint." (Qur'an 2:183)
+		</p>
+		</media>
+	</article>
+	<article title="What Are The Five Pillars Of Islam? HAJJ">
+		<media type="image" src="$17.jpg">
+		<p>	Hajj or Pilgrimage</p>
+		<p>
+			The pilgrimage to Makkah (the hajj) is an obligation only for those who are physically and
+			financially able to do so. Nevertheless, over two million people go to Makkah each year from
+			every corner of the globe providing a unique opportunity for those of different nations to meet
+			one another.
+		</p>
+		<p>
+			The annual hajj begins in the twelfth month of the Islamic year (which is lunar, not solar, so
+			that hajj and Ramada-n fall sometimes in summer, sometimes in winter). Pilgrims wear special
+			clothes: simple garments that strip away distinctions of class and culture, so that all stand
+			equal before God.
+		</p>
+		<p>
+			The rites of the hajj, which are of Abrahamic origin, include going around the Ka'bah seven
+			times, and going seven times between the hills of Safa and Marwa as did Hagar 
+			(Hajir, Abraham's wife) during her search for water. The pilgrims later stand together on the
+			wide plains of 'Arafat (a large expanse of desert outside Makkah) and join in prayer for God's
+			forgiveness, in what is often thought as a preview of the Day of Judgment.  
+		</p>
+		<p>
+			The close of the hajj is marked by a festival, the 'Id al Adha, which is celebrated with
+			prayers and the exchange of gifts in Muslim communities everywhere. This and the 'Id al Fitr, a
+			festive day celebrating the end of Ramada-n, are the two holidays of the Islamic calendar.
+		</p>
+		</media>
+	</article>
+	<article title="Is Islam Tolerant Of Other Beliefs?">
+		<media type="image" src="$18.jpg">
+		<p>
+			Yes. The Qur'an states unequivocally:
+		</p>
+		<p>
+			"There is no compulsion in religion." (Qur'an 2:256)
+		</p>
+		<p>
+			Protection of the rights of non-Muslims to worship is an intrinsic part of Islamic law. It is
+			also stated in the Qur'an:
+		</p>
+		<p>
+			"God does not forbid you, with regard to those who do not fight you for (your) faith nor drive
+			you out of your homes, from dealing kindly and justly with them; for God loves those who are
+			just." (Qur'an 60:8)
+		</p>
+		
+		<p>
+			This is why non-Muslim societies and religious places of worship have flourished all over the
+			Islamic world.  History provides many examples of Muslims' tolerance towards other faiths. For
+			instance, prior to the Spanish Inquisition, Jews and Christians lived and prosperred in Andalus
+			(Spain) for centuries under Muslim rule.
+		</p>
+		<p>
+			Islamic law also permits non-Muslims to set up their own courts and implement family and
+			personal laws administered by their chosen religious authorities.
+		</p>
+		</media>
+	</article>
+	<article title="What Do Muslims Think About Jesus?">
+		<media type="image" src="$19.jpg">
+		<p>
+			Muslims respect and revere Jesus. They consider him one of the greatest of God's prophets and
+			messengers to humankind. A Muslim never refers to him simply as "Jesus", but always adds the
+			phrase "upon him be peace." The Qur'an confirms his virgin birth, and a special surah of the
+			Qur'an is entitled "Mary." The Qur'an describes the Annunciation as follows:
+		</p>
+		<p>
+			"'Behold (O Mary!)' The Angel said, 'God has chosen you, and purified you, and chosen you above
+			the women of all nations. O Mary, God gives you good news of a word from Him, whose name shall
+			be the Anointed (Masih or Messiah), Jesus son of Mary, honored in this world and in the
+			hereafter, and one of those brought near to God. He shall speak to the people from his cradle
+			and in maturity, and shall be of the righteous.'
+		</p>
+		<p>
+			"She said: 'O my Lord! How shall I have a son when no man has touched me?' He said: 'Even so;
+			God creates what He wills.  When He decrees a thing, He says to it, "Be!" and it is.'"  (Qur'an
+			3:42-7)
+		</p>
+		<p>
+			Jesus was born miraculously through the same power that had brought Adam into being without a
+			father: "Truly the likeness of Jesus with God is as the likeness of Adam. He created him of
+			dust and then said to him, 'Be!' and he was." (Qur'an 3:59)
+		</p>
+		<p>
+			During his prophetic mission, Jesus  performed many miracles.  The Qur'an tells us that he
+			said:
+		</p>
+		<p>
+			"I have come to you with a sign from your Lord: I make for you out of clay, as it were, a
+			figure of a bird, and breathe into it and it becomes a bird by God's leave.  And I heal the
+			blind, and the lepers, and I raise the dead by God's leave." (Qur'an 3:49)
+		</p>
+		<p>
+			Neither Muhammad nor Jesus came to change the basic doctrine of the belief in One God, brought
+			by earlier prophets, but to confirm and renew it. In the Qur'an, Jesus is reported as saying
+			that he came: "To attest the law which was before me. And to make lawful to you part of what
+			was forbidden to you; I have come to you with a sign from your Lord, so fear God and obey me."
+			(Qur'an 3:50)
+		</p>
+		<p>
+			The Prophet Muhammad said:
+		</p>
+		<p>
+			"Whoever believes that there is none worthy of worship but God, alone without partner, that
+			Muhammad is His messenger, that Jesus is the servant and messenger of God, His word which He
+			bestowed on Mary and a spirit proceeding from Him, and that Paradise and Hell are true, shall
+			be received by God into Heaven." (A Hadith from the collections of al Bukhari)
+		</p>
+		</media>
+	</article>
+	<article title="Why Is The Family So Important To Muslims?">
+		<media type="image" src="$20.jpg">
+		<p>
+			The family is the foundation of Islamic society. The peace and security offered by a stable
+			family unit is greatly valued and seen as essential for the spiritual growth of its members. A
+			harmonious social order is created by the existence of extended families; children are
+			treasured and rarely leave home until the time they marry.
+		</p>
+		<p>
+			Parents are greatly respected in the Islamic tradition. Mothers are particularly honored: the
+			Qur'an teaches that since mothers suffer during pregnancy, childbirth, and child rearing, they
+			deserve a special consideration and kindness. 
+		</p>
+		<p>
+			It is stated in the Qur'an:
+		</p>
+		<p>
+			"And we have enjoined upon man (to be good) to his parents. With difficulty upon difficulty did
+			his mother bear him and wean him for two years. Show gratitude to Me and to your parents; to Me
+			is your final goal." (Qur'an 31:14)
+		</p>
+		<p>
+			A Muslim marriage is both a sacred act and a legal agreement, in which either partner is free
+			to include legitimate conditions. As a result, divorce, although uncommon, is permitted only as
+			a last resort. Marriage customs vary widely from country to country.
+		</p>
+		</media>
+	</article>
+	<article title="How Does Islam Elevate The Status Of Women?">
+		<media type="image" src="$21.jpg">
+		<p>
+			According to the Qur'an, men and women are equal before God; women are not blamed for violating
+			the "forbidden tree," nor is their suffering in pregnancy and childbirth a punishment for that
+			act.
+		</p>
+		<p>
+			Islam sees a woman, whether single or married, as an individual in her own right, with the
+			right to own and dispose of her property and earnings. A marital gift is given by the groom to
+			the bride for her own personal use, and she may keep her own family name rather than adopting
+			her husband's. Roles of men and women are complementary and collaborative. Rights and
+			responsibilities of both sexes are equitable and balanced in their totality.
+		</p>
+		<p>
+			Both men and women are expected to dress in a way that is simple, modest and dignified;
+			specific traditions of female dress found in some Muslim countries are often the expression of
+			local customs rather than religious principle. Likewise, treatment of women in some areas of
+			the Muslim world sometimes reflects cultural practices which may be inconsistent, if not
+			contrary, to authentic Islamic teachings.
+		</p>
+		<p>
+			The messenger of God said:
+		</p>
+		<p>
+			"The most perfect in faith amongst believers is he who is best in manner and kindest to his
+			wife."
+		</p>
+		</media>
+	</article>
+	<article title="How Do Muslims View The Elderly, Death, And The Afterlife?">
+		<media type="image" src="$22.jpg">
+		<p>
+			Institutional homes for the elderly are virtually unknown in the Muslim world. The strain of
+			caring for one's parents during this most difficult time of their lives is considered an honor
+			and a blessing.  
+		</p>
+		<p>
+			In Islam, serving one's parents is a duty second only to worshipping and it is the parents'
+			right to expect it. It is considered despicable to express any irritation when, through no
+			fault of their own, the old become difficult to handle.
+		</p>
+		<p>
+			It is written in the Qur'an: 
+			"Your Lord has commanded that you worship none but Him, and be kind to your parents. If either
+			or both of them reach old age with you, do not say 'uff' to them or chide them, but speak to
+			them in terms of honor and kindness. Treat them with humility, and say, 'My Lord! Have mercy on
+			them, for they did care for me when I was little.'" (Qur'an 17:23-4)
+		</p>
+		<p>
+			Muslims believe that the present life is only a trial preparation for the next realm of
+			existence. Basic articles of faith include: the Day of Judgment, Resurrection, Heaven and Hell.
+		</p>
+		<p>
+			When a Muslim dies, he or she is washed, usually by a family member, wrapped in a clean white
+			cloth, and buried with a simple prayer, preferably the same day. Muslims consider this one of
+			the final services they can do for their relatives, and an opportunity to remember their own
+			brief existence here on earth.
+		</p>	
+		</media>
+	</article>
+	<article title="What Does Islam Say About War?">
+		<media type="image" src="$23.jpg">
+		<p>
+			Like Christianity, Islam permits fighting in self-defense, in defense of religion, or on the
+			part of those who have been expelled forcibly from their homes. It lays down strict rules of
+			combat that include prohibitions against harming civilians and against destroying crops, trees
+			and livestock. As Muslims see it, injustice would be triumphant in the world if good people
+			were not prepared to risk their lives in a righteous cause.
+			</p>
+		<p>
+			One reads in the Qur'an:  
+			"Fight in the cause of God against those who fight you, but do not transgress limits. God does
+			not love transgressors." (Qur'an 2:190)
+		</p>
+		<p>
+			"And fight them until persecution is no more, and religion is for God. But if they desist, then
+			let there be no hostility except against wrongdoers." (Qur'an 2:193)
+		</p>
+		<p>
+			"If they seek peace, then you seek peace. And trust in God for He is the One that hears and
+			knows all things." (Qur'an 8:61)
+		</p>
+		<p>
+			War is therefore the last resort, and is subject to the rigorous conditions laid down by the
+			sacred law. The often misunderstood and overused term jihad literally means "struggle" and not
+			"holy war" (a term not found anywhere in the Qur'an). Jihad, as an Islamic concept, can be on a
+			personal level--inner struggle against evil within oneself; struggle for decency and goodness on
+			the social level; and struggle on the battlefield, if and when necessary.
+		</p>
+		</media>
+	</article>
+	<article title="How Does Islam Guarantee Human Rights?">
+		<media type="image" src="$24.jpg">
+		<p>
+			Freedom of conscience is laid down by the Qur'an itself: 
+			"There is no compulsion in religion. Truth stands out clearly from falsehood; whoever rejects
+			evil and believes in God has grasped the most trustworthy hand-hold that never breaks. And God
+			is All-Hearing and All-Knowing." (Qur'an 2:256)
+		</p>
+		<p>
+			The life, honor and property of all citizens in a Muslim society are considered sacred whether
+			the person is Muslim or not. Racism and sexism are incomprehensible to Muslims, for the Qur'an
+			speaks of human equality in the following terms:
+		</p>
+		<p>
+			"O mankind! We created you from a single soul, male and female, and made you into peoples and
+			tribes, so that you may come to know one another. Truly, the most honored of you in God's sight
+			is the greatest of you in piety. God is All-Knowing, All-Aware." (Qur'an 49:13)
+		</p>	
+		</media>
+	</article>
+	<article title="Where Can You Get More Information About Islam?">
+		<media type="image" src="$25.jpg">
+		<p>
+		Further information about Islam and Muslims can easily be obtained by contacting your local
+		Mosque, the Islamic Center in your area, or by contacting the following:
+		</p>
+		<p>
+		To order your own copy of the Discover Islamª article Exhibit, please contact:
+		</p>
+		<p>
+		Transcom International
+		7360 McWhorter Place, Suite 201<br/>
+		Annandale, VA 22003<br/>
+		Tel: (703) 941-7783<br/>
+		Fax: (703) 941-7784<br/>
+		</p>
+		</media>
+	</article>
+</articles>
+</aml>

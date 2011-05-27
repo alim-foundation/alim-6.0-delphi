@@ -1,0 +1,26 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\ISL Software Corporation\The Alim]
+"ShowReciteDebugPanel" = dword:01
+"WindowState" = dword:00
+"Application"  = "p:\\alim\\Setup\\install image\\alim.exe"
+"SelStartEndSetCount" = dword:02
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\ISL Software Corporation\The Alim\Paths]
+"Application"  = "p:\\alim\\Setup\\install image"
+"AppData"      = "p:\\alim\\Setup\\install image\\data"
+"Bookmarks"    = "p:\\alim\\Setup\\install image\\data"
+"Books"        = "p:\\alim\\Setup\\install image\\books\\new"
+"BooksSrc"     = "p:\\alim\\CD Image\\books"
+"Cache"        = "p:\\alim\\Application\\derived"
+"Media"        = "p:\\alim\\Setup\\install image\\media\\new"
+"MediaSrc"     = "p:\\alim\\CD Image\\media"
+"ReciteMap"    = "p:\\alim\\Setup\\install image\\media\\recite\\new"
+"ReciteMapSrc" = "p:\\alim\\CD Image\\media\\recite"
+"Reminders"    = "p:\\alim\\Setup\\install image\\data"
+"Shop"         = "p:\\alim\\Setup\\install image\\shop"
+"Source"       = "p:\\alim\\CD Image"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\ISL Software Corporation\The Alim\Messages]
+"RunCount"     = dword:00
+

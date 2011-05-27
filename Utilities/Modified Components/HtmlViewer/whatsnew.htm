@@ -1,0 +1,212 @@
+<html>
+
+<head>
+<title>What's New</title>
+<bgsound src="music.mid" loop=1>
+</head>
+
+<body bgcolor="#FFFFFF" background="bkgnd.jpg" text="#000000" olink="red">
+<font SIZE="2" FACE="Arial">
+
+<h2 align="center"><font color="#C5533A">What's New in Version 7.01</font></h2>
+
+<ul>
+  <li>The &lt;Meta http-equiv="content-type" ...&gt; should now distinguish a number of
+      character sets.  I still need information on the codes for some, though.
+  <li>Right click on word gives word without selecting it.  See the OnRightClick
+      event in the help file.
+  <li>Changes to accommodate C++Builder 4.
+</ul>
+
+<hr width="85%">
+
+<h5 align="center"><font color="#5F5F5F">Bug fixes, version 7.01</font></h5>
+
+<ul>
+  <li>Fix access error in TFrameViewer when a &lt;Meta http-equiv="content-type" ...&gt;
+  statement read. 
+
+</ul>
+
+<hr size="5">
+<h5 align="center"><font color="#5F5F5F">Additions to Version 7.0</font></h5>
+<ul>
+  <li>New <b>TFrameBrowser</b> component oriented to online use and other protocols.
+  <li>Print Preview for all 32 bit versions.
+  <li>Color change for visited links now supported.  See <b>&lt;Body&gt;</b> topic in help file. 
+  <li>Color change for links when mouse passes over now supported.  See <b>&lt;Body&gt;</b> topic in help file. 
+  <li>Image change when mouse passes over (<a href="Things.htm#ActiveImages">Active Images</a>) now supported.  
+      
+           <p align="center"><img Src="ugly.gif" Active>
+           <p align="center"><b>Try Me</b>
+  <li>OnDoubleClick event. 
+  <li>New <b>htOptions</b> property for ThtmlViewer and extended <b>fvOptions</b> property for TFrameViewer.
+</ul>
+
+<hr width="85%">
+
+<h5 align="center"><font color="#5F5F5F">Bug fixes, version 7</font></h5>
+
+<ul>
+  <li>Allow more table columns (now 100)
+  <li>OnImageOver didn't work if image was a link
+  <li>When using drag and drop, sound file didn't work
+  <li>Fix directory problems with meta refresh and <b>&lt;bgsound&gt;</b>
+</ul>
+
+<hr size="5">
+<h5 align="center"><font color="#5F5F5F">Additions to Version 6.2</font></h5>
+
+<ul>
+  <li>An OnRightClick event has been added supplying data especially for popup menus.
+  <li>An OnMeta event triggered by <b>&lt;META&gt;</b> tags.
+  <li>Support for the Refresh <b>&lt;META&gt;</b> sequence allows automated document loading.
+    <ul>
+      <li>OnMetaRefresh event for ThtmlViewer.
+      <li>fvMetaRefresh option (under fvOptions) for TFrameViewer.
+          <a href="TryIt.htm">Try it.</a> 
+    </ul>
+  <li>
+  <li>Two additional parameters have been added to the OnFormSubmit event.
+</ul>
+
+<hr width="85%">
+
+<h5 align="center"><font color="#5F5F5F">Bug fixes, version 6.2</font></h5>
+
+<ul>
+  <li>The <b>&amp;#nnn;</b> syntax for character references has been expanded to allow
+       leading zeros.
+  <li>The OnSoundRequest event has been added to ThtmlViewer's LoadFromStream, LoadFromBuffer,
+       and LoadStrings methods.
+  <li>Occasionally animated GIFs were displayed as all black.
+  <li>A small vertical alignment error when printing has been fixed.
+  <li>A number of Table and Print fixes.
+</ul>
+
+<hr size="5">
+<h5 align="center"><font color="#5F5F5F">Additions to Version 6.12</font></h5>
+
+<ul>
+  <li>New <b>InsertImage</b> method in conjunction with the OnImageRequest Event allows
+      images to be downloaded and inserted when available.
+  <li>More visible cursor.
+  <li>The <b>NoDLL</b> compile time option now supports Jpeg images in the Delphi 3 and 4 versions.
+  <li><b>NumPrinterPage</b> method indicates the number of pages that will be printed.
+  <li>There is now a <b>Wrap=Off|Soft|Hard</b> attribute for <b>&lt;textarea&gt;</b>.
+</ul>
+
+<hr width="85%">
+
+<h5 align="center"><font color="#5F5F5F">Bug fixes, version 6.12</font></h5>
+
+<ul>
+  <li><b>&lt;SUB&gt;</b> and <b>&lt;SUP&gt;</b>  didn't work if first in table cell.
+  <li>Fix the <b>&lt;TD&gt;</b> height attribute which didn't allow for cellpadding.
+  <li>Tabbing now activates Form controls outside of the display area.
+  <li>The VScrollBarRange property now reflects the end of the document more accurately in
+      Delphi 2,3,4 and C++Builder.
+</ul>
+
+<hr size="5">
+<h5 align="center"><font color="#5F5F5F">Additions to Version 6.1</font></h5>
+
+<ul>
+  <li>OnSoundRequest event for <b>&lt;BGSound&gt;</b>
+  <li>Transparency supported in palette based PNG images.
+  <li>OnInclude event allows HTML text insertion at load time.
+      <p align="center"><b>Today's date is <!--#date--></b>
+      <br><b>Loaded at <!--#time--></b>
+  <li>OnImageClick, OnImageOver events
+      <p align="center"><b>Right Click on these Thumbnails</b>
+      <p align="center"><img src="arizona.jpg" height="75">&nbsp;&nbsp;
+         <img src="pyramids.jpg" height="75">&nbsp;&nbsp;
+         <img src="windmill.jpg" transp height="75">&nbsp;&nbsp;
+  <li>OnObjectClick event for Buttons, Radiobutton, and Checkboxes
+      <p align="center"><b>Click on these</b>
+
+      <table align="center">
+      <tr valign="bottom">
+          <td width="50%">
+              <input type="radio" name="Series1" value="Radio 1" OnClick="display" checked>&nbsp;Radio 1<br>
+              <input type="radio" name="Series1" value="Radio 2" OnClick="display">&nbsp;Radio 2
+          <td><input type="checkbox" name="Series2" value="Checkbox 1" OnClick="display">&nbsp;Checkbox 1<br>
+              <input type="checkbox" name="Series2" value="Checkbox 2" OnClick="display">&nbsp;Checkbox 2
+      </table>
+  <li>&lt;INPUT TYPE="button"&gt; supported
+      <p align="center"><input type="button" value="Push Me" OnClick="Thank You!">
+</ul>
+
+<hr width="85%">
+
+<h5 align="center"><font color="#5F5F5F">Bug fixes, version 6.1</font></h5>
+
+<ul>
+  <li>Fix TFrameViewer problem when HistroyMaxCount was set to 0
+  <li>Fix some printing problems that occured when ImageCacheCount was set to 0
+  <li>Improve splitting of tables when printing
+  <li>Fix problem with printing transparent images which occured on some printers
+  <li>Remove gap from adjacent packed Tables
+  <li>Character entities
+  <ul>
+     <li>Allow in &lt;TEXTAREA&gt;...&lt;/TEXTAREA&gt;
+     <li>Add "times" and "divide"
+  </ul>
+  <li>Fix Home, End and Page keys which misbehaved in form controls
+</ul>
+
+<hr size="5">
+<h5 align="center"><font color="#5F5F5F">Additions to Version 6.01</font></h5>
+
+<ul>
+  <li>MarginHeight and MarginWidth properties for ThtmlViewer
+  <li>MarginHeight and MarginWidth attributes for &lt;FRAME&gt; tag</li>
+  <li>Base property can now be assigned a value (writable)
+  <li>New ServerRoot property
+  <li>Width attribute of &lt;img&gt; tag may now be a percentage
+</ul>
+
+<hr width="85%">
+
+<h5 align="center"><font color="#5F5F5F">Bug fixes, version 6.01</font></h5>
+
+<ul>
+  <li>Fix problem with 36 bit video mode in Delphi 2 version</li>
+  <li>TFrameViewer.ClearHistory fixed</li>
+  <li>Return value from OnBufferRequest, OnFileRequest, OnStreamRequest events
+      is now correct.
+  <li>&lt;center&gt; now works inside &lt;blockquote&gt;
+</ul>
+
+<hr size="5">
+
+<h5 align="center"><font color="#5F5F5F">Additions to Version 6</font></h5>
+
+<ul>
+  <li>Animated GIFs </li>
+  <li>Borderless Frames </li>
+  <li>Better frame history list </li>
+  <li>Form controls now print </li>
+  <li>Color printing </li>
+  <li>Access to Form Controls through FormControlList. </li>
+  <li>Access to Anchor names through NameList. </li>
+  <li>Type=&quot;image&quot; attribute for &lt;INPUT&gt; </li>
+  <li>Type and Start attributes for &lt;OL&gt; </li>
+  <li>Strike-through text. </li>
+  <li>Double click selects word. </li>
+</ul>
+
+<hr width="85%">
+
+<h5 align="center"><font color="#5F5F5F">Bug fixes, version 6</font></h5>
+
+<ul>
+  <li>Fix TFrameViewer.Clear method </li>
+  <li>Better way to shrink images. </li>
+</ul>
+
+<hr size="5">
+
+</font>
+</body>
+</html>

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+
+<aml>
+
+<productcatalog>
+
+	<category name="Books">
+	
+		<category name="Quran">	
+			<item id="SKU1" name="Arabic" pages="456" key="y" anotherkey="z">
+				This item is a blah..blah...blah...
+				<style id="sku11" binding="hard" price="$45" cost="$30"/>
+				<style id="sku12" binding="soft" price="$25" cost="$12"/>
+			</item>
+			<item id="SKU2" name="Arabic2" pages="356" binding="soft">
+				This item is also a blah..blah...blah...
+				<style id="sku22" binding="soft" price="$45" cost="$30"/>
+			</item>
+		</category>
+		
+		<category name="Specialty">	
+			<item id="SKU1" name="Arabic" pages="456" binding="hard">
+				This item is a blah..blah...blah...
+			</item>
+			<item id="SKU2" name="Arabic2" pages="356" binding="soft">
+				This item is also a blah..blah...blah...
+			</item>
+		</category>
+		
+	</category>
+	
+	<category name="Audio">
+	</category>
+	
+	<category name="Videos">
+	</category>
+
+	<category name="Computer Software">
+	</category>
+	
+</productcatalog>
+
+</aml>

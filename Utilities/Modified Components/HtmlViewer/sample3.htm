@@ -1,0 +1,278 @@
+<body  background="bkgnd.jpg" link="#3737eb" bgcolor="white" olink="red">
+<h3><font color="#373773"><a name=Highlighting>Character Highlighting</a></font></h3>
+<ul>
+<li><b>Bold Text</b><br>
+<li><i>Italicized Text</i><br>
+<li><u>Underlined Text</u><br>
+<li><em>Emphasized Text</em><br>
+<li><strong>Strong Text</strong><br>
+<li><code>Code Text</code><br>
+<li><cite>Citation Text</cite><br>
+<li><kbd>Keyboard Text</kbd><br>
+<li><samp>Sample Text</samp><br>
+<li><tt>Teletype Text</tt><br>
+<li><var>Variable Element Text</var><br>
+<li><b><i>Bold and Italicized Text</i></b><br>
+<li><strike>Struck Out Text</strike><br>
+</ul>
+<p>
+<center><img src="colorbar.gif"></center>
+<h3><font color="#373773"><a name=Headings>Headings</a></font></h3>
+<ul>
+<li><h1>Heading 1</h1>
+<li><h2>Heading 2</h2>
+<li><h3>Heading 3</h3>
+<li><h4>Heading 4</h4>
+<li><h5>Heading 5</h5>
+<li><h6>Heading 6</h6>
+</ul>
+<p>
+<center><img src="colorbar.gif"></center>
+<h3><font color="#373773"><a name=Fonts>Fonts</a></font></h3>
+Font control (Face names, color, size) may be achieved by setting VCL properties
+or through the use of tags in the HTML document.
+<p>
+<ul>
+    <li><b>Font Faces</b>
+      <ul><li><FONT FACE="Times New Roman">Times New Roman</FONT>
+          <li><FONT FACE="Arial">Arial</FONT>
+          <li><FONT SIZE=5 FACE="WingDings">ñ¸(6</FONT> (WingDings)
+      </ul>
+    <li><b>Font Sizes</b> <FONT SIZE=1>1</FONT> <FONT SIZE=2>2</FONT>
+                   <FONT SIZE=3>3</FONT> <FONT SIZE=4>4</FONT>
+                   <FONT SIZE=5>5</FONT> <FONT SIZE=6>6</FONT>
+                   <FONT SIZE=7>7</FONT> <FONT SIZE=6>6</FONT>
+                   <FONT SIZE=5>5</FONT> <FONT SIZE=4>4</FONT>
+                   <FONT SIZE=3>3</FONT> <FONT SIZE=2>2</FONT>
+                   <FONT SIZE=1>1</FONT>
+    <LI><b><FONT COLOR=#800000>F</FONT><FONT COLOR=#FFFFFF>O</FONT><FONT COLOR=#000080>N</FONT><FONT COLOR=#008000>T</FONT>
+           <FONT COLOR=#00FFFF>C</FONT><FONT COLOR=#FF0000>O</FONT><FONT COLOR=#000080>L</FONT><FONT COLOR=#800080>O</FONT><FONT COLOR=#FFFF00>R</FONT><FONT COLOR=#0000FF>S</FONT>
+        </b><p>
+    <LI><b>Subscripts and Superscripts</b>
+      <ul><li>H<sub>2</sub>SO<sub>4</sub>
+          <li>R<sup>2</sup> = X<sup>2</sup> + Y<sup>2</sup>
+      </ul>
+</ul>
+<p>
+<center><img src="colorbar.gif"></center>
+
+<h3><font color="#373773"><a name=Lists>Lists</a></font></h3>
+<b>Ordered List</b><br>
+<ol>
+<li>Line 1
+<li>Line 2
+</ol>
+<p><b>Ordered List (Lettered)</b><br>
+<ol type="a">
+<li>Line 1
+<li>Line 2
+</ol>
+<p><b>Unordered List</b><br>
+<ul>
+<li>Line 1
+<li>Line 2
+</ul>
+<p><b>Definition List</b><br>
+<dl>
+<dt>Term 1<dd>Term 1's definition
+<dt>Term 2<dd>Term 2's definition
+</dl>
+<p><b>Directory List</b> (looks just like unordered list)
+<dir>
+<li>Item 1
+<li>Item 2
+</dir>
+<p><b>Menu List</b> (looks just like unordered list)
+<menu>
+<li>Item 1
+<li>Item 2
+</menu>
+<p><b>Lists can be nested in various ways</b>
+<ol>
+<li>First Item
+   <ul>
+   <li>First Sub Item
+      <ul>
+      <li>First Sub Sub Item
+      <li>Second Sub Sub Item
+      </ul>
+   <li>Second Sub Item
+   </ul>
+<li>Second Item
+</ol>
+<p>
+<center><img src="colorbar.gif"></center>
+<h3><font color="#373773"><a name="Images">HTML Graphics</a></font></h3>
+
+<b>Inline</b> images are placed directly in text like this one. <img src=glass.bmp alt="glass.bmp">
+Inline Images may be aligned so that text is at the bottom
+(default), at the top, <img src=glass.bmp align=TOP> or in the middle.
+<img src=glass.bmp align= MIDDLE>.  The image error symbol <img src="foo.bmp" > is
+displayed if an error is encountered when displaying an image.
+
+<p>
+
+Images can be used as hotspots
+<a href="#HighLighting"><img src=contents.bmp alt="Contents"></a>
+ and work just like text links.
+<p>
+<a name="Up"><b>Transparent</b></a> images like these
+<img src=glass.bmp transp> <img src="note.gif">
+allow the background to show through.
+<p>
+<a name="FloatImage">
+<img src="arizona.jpg" alt="Arizona" align="left" height=206 width=163><a/>
+<a href="#No Connection"><img src="pyramids.jpg" alt="Pyramids" align=right
+   ismap width="138" height="109"></a>
+Left and right <b>floating</b> images, shown here, are appropriate for large
+images as text
+can flow around them automatically.
+<p>
+The image on the right has the <a name="IsMap"><b>IsMap</b></a> attribute set.
+When used as a link,
+the pixel coordinates of the click spot are transmitted with the URL. These can
+be used to direct the link to a target appropriate for that area of the image.
+<p><a name="UseMap">
+<img align=right src="arrows.gif" usemap="ArrowMap" width=84 height=46 Alt="arrows.gif">
+</a>The image with the arrows
+demonstrates client side image mapping.  The <b>UseMap</b> attribute points to an image
+map definition describing the hot areas of the image.
+<br clear>
+<map name="ArrowMap">
+  <area shape="Polygon" href="#Images" coords="6,40,21,3,36,39,21,36">
+  <area shape="Polygon" href="#Special Chars" coords="47,5,62,7,78,5,62,41">
+</map>
+<p>
+<a name="Sizing">
+<img src="pyramids.jpg" alt="Pyramids" align=left width=69 height=55></a>
+<img src="pyramids.jpg" alt="Pyramids" align=left width=35 height=27>
+Images may be sized using the <b>height</b> and <B>width</b> attributes.
+<br clear>
+
+<p>ThtmlViewer supports Bitmap, GIF, JPEG, and PNG images using a subset of
+the <a href="#ImageLib">ImageLib</a> graphics package.
+<p>
+
+<center><img src="colorbar.gif"></center>
+<h3><font color="#373773"><a name="Special Chars">Special Characters</a></font></h3>
+In an HTML document, some characters must be specially entered.
+<p><ul>
+<li>The characters &lt;, &gt;, &amp;, and &quot; have special significance
+    in the HTML language.  They can be entered as <b>&amp;lt;</b>,
+    <b>&amp;gt;</b>, <b>&amp;amp;</b>,
+    and <b>&amp;quot;</b> respectively.  (Note the semicolon in the syntax).<p>
+<li>Non keyboard characters may be entered in the form <b>&amp;#NNN;</b> where NNN is the
+    decimal number representing the character.  For instance, the
+    <b>&copy;</b> copyright symbol may be entered as <b>&amp;#169;</b>
+    (<b>&amp;copy;</b> also works).
+    <p>
+<li>Some characters in the Latin entity set also have special symbols by which
+    they may be entered.  For example, A with a grave accent, <b>&Agrave;</b>, is
+    entered as <b>&amp;Agrave;</b>.
+</ul>
+<p>
+<center><img src="colorbar.gif"></center>
+<h3><font color="#373773"><a name=Address>Address Text</a></font></h3>
+<address>
+L. David Baldwin<br>
+22 Fox Den Road<br>
+Hollis, NH 03049<br>
+</address>
+<p>
+<center><img src="colorbar.gif"></center>
+<h3><font color="#373773"><a name=Preformated>Preformated Text</a></font></h3>
+<pre>This is preformated text, <b>&lt;pre&gt;</b>.  Multiple spaces    and
+carriage returns are recognized.  Preformated text won't
+wrap.  It can have <a href="#Preformated">hot spots too.</a>
+</pre>
+<center><img src="colorbar.gif"></center>
+<h3><font color="#373773"><a name=BlockQuote>Blockquote Text</a></font></h3>
+<blockquote>
+This is blockquote text.  It is used to indicate text quoted
+from another source.  Here it is rendered as indented plain text.
+</blockquote>
+<p>
+<center><img src="colorbar.gif"></center>
+<center><h3><font color="#373773"><a name=Centered>Centered Text</a></font></h3>
+Here is a line of centered text.</center>
+<p>
+<center><img src="colorbar.gif"></center>
+
+<h3><font color="#373773"><a name=Tables>Tables</a></font></h3>
+<center><table border cellpadding=5>
+<tr><th bgcolor=#FFD0D0>Weight</th>
+    <th bgcolor=#FFD0D0>Fee</th>
+<tr><td bgcolor=#FFFFE0>Not over 10 pounds</td>
+    <td bgcolor=#FFFFE0>$1.80</td>
+<tr><td bgcolor=#FFFFE0>Over 10 pounds</td>
+    <td bgcolor=#FFFFE0>$2.50</td>
+</table></center>
+<p>
+Many other variations of Tables are shown in the <a href="tabltut1.htm" target="RightWin">
+Table Tutorial.</a>
+<P>
+<center><img src="colorbar.gif"></center>
+
+<h3><font color="#373773"><a name=Forms>HTML Forms</a></font></h3>
+<form Action="Dummy.htm" Method="Get">
+
+<table border align=center> <!This table for outside border only-->
+<tr><td bgcolor="#d0d0d0">
+
+<table align=center >
+<tr><th colspan=4>Pizza Order</th>
+<tr><th align=right width=33%>Name:</td><td width= 67% colspan=3><input size=27 Name=Name></td>
+<tr><th align=right>Address:</td><td colspan=3><input size=27 Name=Address></td>
+<tr valign=top>
+    <td widxxth=33%><b>Topping</b><br>
+
+             &#160;<input type=checkbox Name=Topping value=Cheese checked> Cheese<br>
+             &#160;<input type=checkbox Name=Topping value=Pepperoni> Pepperoni<br>
+             &#160;<input type=checkbox Name=Topping value=Onion> Onion<br>
+
+     </td>
+     <td colspan=2 wixxdth=33%><b>Size</b><br>
+
+             &#160;<input type=radio Name=Size value="10in"> 10 in<br>
+             &#160;<input type=radio Name=Size value="12in" checked> 12 in<br>
+             &#160;<input type=radio Name=Size value="16in"> 16 in<br>
+
+     </td>
+     <td width=40%><b>Payment Method</b>
+         <br>&#160;
+         <select Name="PaymentMethod" size=1>
+         <option selected>Cash
+         <option>Visa
+         <option>M/C
+         <option>Check
+         </select>   </textarea>
+     </td>
+<tr><th colspan=4 align=left>
+      Special Instructions<br>
+      <textarea name="Special" cols=40 rows=3>No Special Instructions</textarea>
+      </td>
+<tr align=center><td colspan=2 width=50%>
+    <INPUT Type=Image src="Order1.gif" Active Name="Order" align="right" ></td>
+    <td colspan=2 valign=center align=left>
+    &#160;<INPUT TYPE=reset value="Reset"></td>
+</table>
+</table>
+<P>
+
+<center><img src="colorbar.gif"></center>
+
+<h4><a Name="ImageLib">ImageLib Graphics Software</a></h4>
+Image display (<a href="readme3.htm#Unisys" >GIF</a>, JPEG, and PNG) is provided using a portion of
+ImageLib's image
+library. The full ImageLib shareware package may be downloaded from
+<b>http://www.imagelib.com/</b>.
+<p>
+For further information, contact:
+<p>
+<address>
+Skyline Tools<br>
+Compuserve: 72130,353<br>
+Internet: 72130.353@compuserve.com
+</address>
+<P>
+</body>

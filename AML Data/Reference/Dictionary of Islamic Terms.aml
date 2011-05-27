@@ -1,0 +1,543 @@
+<?xml version="1.0"?>
+<aml>
+<dictionary>
+	<catalog id="DCT">
+		<names full="Islamic Terms Dictionary" short="Dictionary"/>
+		<navigation viewer="list"/>
+		<content type="article" library="Reference">
+			<page tag="entry" attr="name" name="Entry"/>
+		</content>
+		<shortcuts type="external">
+			<category name="Reference">
+				<shortcut/>
+			</category>
+		</shortcuts>
+	</catalog>
+
+	<entry name="Abna">
+		means sons or children.  It is used for children who had Persian fathers and Arab mothers.
+	</entry>
+	<entry name="Adhan">
+		the Muslim call to prayer.  It is used to signify the time of prayer for the five obligatory prayers.
+	</entry>
+	<entry name="A.H.">
+		means After Hijrah.  It is the reference used in the Islamic calender, instead of A.D. which is used in the Christian calender.
+	</entry>
+	<entry name="Ahl ar-Ra'y">
+		means people of opinion.  It is refers to people that are consulted on Islamic matters.  These people are highly learned in Islam.
+	</entry>
+	<entry name="Ahzab">
+		means parties. Ahzab is used to describe the different tribes that fought the Muslims in the Battle of the Ditch in 627 C.E, 5 AH.
+	</entry>
+	<entry name="Al-asharatu Mubashshirun">
+		the ten people that were given the glad tiddings of assurance of entering Paradise.  They were Abu Bakr, Umar, Uthman, Ali, Abdur Rahman ibn Awf, Abu Ubaydah ibn al-Jarrah, Talhah ibn Ubaydullah, az-Zubayr ibn al-Awwam, Sa'd ibn Abi Waqqas, Sa'id ibn Zayd.
+	</entry>
+	<entry name="Alim">
+		a learned person in Islam, scholar.
+	</entry>
+	<entry name="Allahu Akbar">
+		Allah is Great (God is Great).  It was frequently used by the Muslim forces as their battle cry.
+	</entry>
+	<entry name="Amin">
+		means custodian or guardian.  Someone who is loyal or faithful.
+	</entry>
+	<entry name="Amir">
+		means leader or commander.
+	</entry>
+	<entry name="Amir al-Mumineen">
+		means commander of the belivers.  This title was given to the Khalifah.
+	</entry>
+	<entry name="Ansar">
+		means helpers.  These were the people of Madinah who responded to the Prophet's call to Islam and offered Islam a city-state power.
+	</entry>
+	<entry name="Aqabah">
+		a place just outside of Mecca, in Mina where the first Muslims from Yathrib Madinah pledged allegiance to the Prophet in the year 621 C.E..  A similar meeting took place the next year when more Muslims from Yathrib pledged their allegiance to the Prophet.
+	</entry>
+	<entry name="Arafat">
+		a plain north of Mecca.  It is on this plain that humanity will be raised on the Day of Judgement for questioning and judgement.  During the hajj on the ninth day of the month of Zhu-l-Hijjah, Muslim pilgrims gather on this plain for one day.
+	</entry>
+	<entry name="Asabiyyah">
+		means tirbal loyalty, nationalism.
+	</entry>
+	<entry name="Asr">
+		the late afternoon obligatory salat, prayer.
+	</entry>
+	<entry name="Awqiyyah">
+		means weight, like the ones used to weigh items.
+	</entry>
+	<entry name="Awrah">
+		parts of the body that are not supposed to be exposed to others.  For men this is from the navel to the knee.  For the women it is all of her body except the hands, feet, and face.
+	</entry>
+	<entry name="Ayat-ul-Kursi">
+		Surah Baqara Ayah 256 of the Quran.  It is called the throne of the Quran.
+	</entry>
+	<entry name="Ayah">
+		means a sign which leads or directs one to something important.  An individual verse in the Quran.
+	</entry>
+	<entry name="Ayat">
+		it is the plural form of ayah.
+	</entry>
+	<entry name="Badiyyah">
+		a desert or semi-arid environment.
+	</entry>
+	<entry name="Badr">
+		the first full military confrontation between the Muslims and the enemies of Allah.  The battle took place between the Muslims and the Quraysh of Mecca in the second year of Hijrah (624 CE).  Eventhough the Muslims were outnumbered, the final result was to their favor.
+	</entry>
+	<entry name="Bakka'in">
+		means weepers.  These were the people that could not accompany the Prophet on his campaign to Tabuk because they lacked the resources to do so.  They started to weep when they could not go.
+	</entry>
+	<entry name="Baqi">
+		the cemetery where a good many of the sahaba are buried.  It is in the south-east side of Madinah.
+	</entry>
+	<entry name="Barakah">
+		means blessing or Divine Grace.
+	</entry>
+	<entry name="Batil">
+		means false of falsehood.
+	</entry>
+	<entry name="Batul">
+		means ascetic.  It is ascribed to Fatimah (the Prophets daughter) and the Virgin Mary.
+	</entry>
+	<entry name="Bawadi">
+		plural form of badiyyah.
+	</entry>
+	<entry name="Bay'ah">
+		it is an oath of allegiance.  To make a pledge.
+	</entry>
+	<entry name="Bayt al-Mal">
+		the State Treasury in an Islamic State.
+	</entry>
+	<entry name="Bismillah">
+		In the name of Allah (God).
+	</entry>
+	<entry name="Bi'thah">
+		the beginning of the Prophet's mission, his call to Prophethood in 610 C.E..
+	</entry>
+	<entry name="Busr">
+		means partially ripe dates.
+	</entry>
+	<entry name="C.E.">
+		stands for Christian Era.  It is used instead of A.D. in Islamic text referring to the dates before the Hijrah.
+	</entry>
+	<entry name="Covenant">
+		a solemn agreement between two or more persons or groups, a compact between God and man. The Old Testament tells of the covenant the Jews made with Allah.
+	</entry>
+	<entry name="Daff">
+		tambourine used in Arabia.
+	</entry>
+	<entry name="Da'iy">
+		Muslim missionary involved in da'wah.  It can also have a general meaning reffering to someone who calls others to a certain belief.
+	</entry>
+	<entry name="Da'wah">
+		inviting others to Islam.  Missionary work.
+	</entry>
+	<entry name="Dhikr">
+		remembrance for the sake of Allah.
+	</entry>
+	<entry name="Dhimmi">
+		a non-Muslim living under the protection of a Muslim state.  He is exempt from duties of Islam like military and zakat but must instead pay a tax called jizyah.
+	</entry>
+	<entry name="Dirham">
+		a silver coin.
+	</entry>
+	<entry name="Dhu-n Nurayn">
+		it means 'Possessor of the Two Lights'.  It is used to refer to Uthman ibn Affan because he married two of the Prophet's daughters.
+	</entry>
+	<entry name="Din">
+		means way of life or religion.
+	</entry>
+	<entry name="Du'a">
+		a prayer.
+	</entry>
+	<entry name="Du'at">
+		plural of da'iy.
+	</entry>
+	<entry name="Dunya">
+		this world or life, as opposed to the Hereafer.
+	</entry>
+	<entry name="Fajr">
+		the obligatory salat, prayer, before sunrise.
+	</entry>
+	<entry name="Faqih">
+		a person who is an expert on Islamic jurisprudence (law), fiqh.
+	</entry>
+	<entry name="Fard">
+		something which is obligatory on a Muslim.  It is sometimes used in reference to the obligatory part of salat.
+	</entry>
+	<entry name="Faruq">
+		this was the name given to Uman ibn al-Khattab.  It means 'One who distinguishes the truth from falsehood'.
+	</entry>
+	<entry name="Fatwa">
+		legal opinion concerning Islamic Law.
+	</entry>
+	<entry name="Fiqh">
+		Islamic law.
+	</entry>
+	<entry name="Fitnah">
+		means civil strife, war, riots.
+	</entry>
+	<entry name="Fuqaha">
+		plural form of faqih.
+	</entry>
+	<entry name="Ghazi">
+		Muslim soldier, warrior.
+	</entry>
+	<entry name="Ghazwah">
+		military expedition.
+	</entry>
+	<entry name="Hadith">
+		sayings of the Prophet.
+	</entry>
+	<entry name="Hadith Qudsi">
+		the Hadith Qudsi are hadith's in which the Prophet says the Allah says so and so.  The meaning of the these hadith was revealed to the Prophet but he put them in his own words, unlike the Quran which is the word of Almighty Allah and the Prophet conveyed it exactly as it was revealed to him.
+	</entry>
+	<entry name="Hajj">
+		means effort.   The Hajj is the pilgrimage to Mecca that is obligatory on every Muslim.  It is one of the five pillars of Islam and takes place during the Islamic month of Zhul al-Hijjah. A Muslim must perform the Hajj at least once in his life.  The exception to this is financial and health reasons.
+	</entry>
+	<entry name="Halal">
+		something that is lawful and permitted in Islam.
+	</entry>
+	<entry name="Halif">
+		a person who enjoys the protection of a tribe but does not belong to it by blood.
+	</entry>
+	<entry name="Halqah">
+		a group of students involved in the study of Islam.
+	</entry>
+	<entry name="Hanif">
+		people who during the time of jahiliyyah rejected the idolatry in their society.  These people were in search for the true religion of Prophet Abraham.
+	</entry>
+	<entry name="Haqq">
+		the Truth.
+	</entry>
+	<entry name="Haraam">
+		something which is unlawful or prohibited in Islam.
+	</entry>
+	<entry name="Haram">
+		a Haram is a sanctuary, a sacred territory. Mecca has been considered a Haram since the time of Abraham.  All things within the limit of the Haram are protected and considered inviolable Madinah was also declared a Haram by the Prophet.
+	</entry>
+	<entry name="Hijrah">
+		means migration.  The Hijrah refers to the Prophet's migration from Mecca to Madinah.  This journey took place in the twelfth year of his mission (622 CE).   This is the beginning of the Muslim calendar. The word hijrah means to leave a place to seek sancturary or freedom from persecution or freedom of religion or any other purpose.  Hijrah can also mean to leave a bad way of life for a good or more righteous way.
+	</entry>
+	<entry name="Hudud">
+		the limits ordained by Allah.  This includes the punishment for crimes.
+	</entry>
+	<entry name="Imam">
+		leader of the congregational prayer, salat, that the Muslims offer five times a day.  It is sometimes used to refer to the head of an Islamic State.
+	</entry>
+	<entry name="Iman">
+		faith and trust in Allah.
+	</entry>
+	<entry name="Injil">
+		the revelations that were sent down during the time of Prophet Isa (Jesus).  It is reffered to as the New Testament.
+	</entry>
+	<entry name="Iqamah">
+		means establishing.  It is similar to the adhan with the addition of a pharse that signifies that a compulsory prayer, fard, is about to begin.
+	</entry>
+	<entry name="Isha">
+		the obligatory salat, prayer, after sunset later in the evening.
+	</entry>
+	<entry name="Istighfar">
+		to seek Allah's forgiveness.  It is something that must be done continuously in a Muslims life.
+	</entry>
+	<entry name="Jahannam">
+		means Hell.
+	</entry>
+	<entry name="Jahiliyyah">
+		means ignorant.  Jahiliyyah refers to the pre-Islamic era that existed in Arabia.  It is a combination of views, ideas, and practices that totally defy and reject the guidance sent down by God through His Prophets.
+	</entry>
+	<entry name="Jalbab">
+		this is a long loose fitting garment worn by the Arabs.
+	</entry>
+	<entry name="Jannah">
+		means Paradise.
+	</entry>
+	<entry name="Jihad">
+		means to strive.  This can be any kind of striving in the way of God which involves either spiritual or personal effort, material resources, or arms.  Jihad is also used to refer to a war waged by the Muslims for the defence or advancement of Islam; it's interests and ideals.
+	</entry>
+	<entry name="Jizyah">
+		a tax paid by non-Muslims living in a Muslim State.  Since the non-Muslims are exempt from military service and taxes imposed on Muslims, they must pay this tax to compensate.  It guarentees them security and protection.  If the State cannot protect those who paid jizyah, then the amount they paid is returned to them.
+	</entry>
+	<entry name="Ka'bah">
+		the first house of worship built for mankind.  It was originally built by Adam and later on reconstructed by Abraham and Isma'il.  It is a cubed shaped structure based in the city of Mecca to which all Muslims turn to in their five daily paryers.
+	</entry>
+	<entry name="Kafir">
+		a person who refuses to submit himself to Allah (God), a disbeliever in God.
+	</entry>
+	<entry name="Khalifah">
+		in the begining it was a reference to the successor of the Prophet.  Later on it began to take on the meaning of head of state for a Muslim nation.
+	</entry>
+	<entry name="Khandaq">
+		means ditch.
+	</entry>
+	<entry name="Khatib">
+		orator, speaker.
+	</entry>
+	<entry name="Khutbah">
+		a speech or sermon.  It is sometimes used to refer to the sermon given during the Friday cogregational prayer.
+	</entry>
+	<entry name="Kuffar">
+		plural form of kafir.
+	</entry>
+	<entry name="Kufr">
+		to show ungratefulness to Allah and not to believe in Him and His religion.
+	</entry>
+	<entry name="Laat">
+		a chief goddess in the religion of the pre-Islamic Arabs during the days of jahiliyyah.
+	</entry>
+	<entry name="Madinah">
+		the first city-state that came under the banner of Islam.  It is where the Prophet's masjid and grave are situated.
+	</entry>
+	<entry name="Maghazi">
+		the military campaigns of the Prophet.
+	</entry>
+	<entry name="Maghrib">
+		the obligatory salat, prayer, that is performed right after the sun sets over the horizon.
+	</entry>
+	<entry name="Mahr">
+		a dowry given by the man to the woman he is about to marry.  It is part of the Muslim marriage contract.  It can never be demanded back under any circumstances.
+	</entry>
+	<entry name="Marwah">
+		a mound near the Ka'bah that is referred to in the Quran as one of the symbols of Allah. It is in conjuction with safa.
+	</entry>
+	<entry name="Masjid">
+		a place of worship and salat.  The life of the early Muslims used to revolve around the masjid.  Meetings would be held there, discussions would take place there.  It is called a 'mosque' in English.
+	</entry>
+	<entry name="Mawla">
+		a person of slave origin who does not have tribal protection.  It is a word with dual meaning. It can mean either master or servant.
+	</entry>
+	<entry name="Mawlaya">
+		a form of address to a ruler implying protector.
+	</entry>
+	<entry name="Mihrab">
+		a recess in the masjid that indicates the direction of salat.
+	</entry>
+	<entry name="Mina">
+		a plain within the bounds of the haram of Mecca, within five kilometers outside the city.  During the hajj the pilgrims pass the night between the eighth and ninth day proceed to Arafat on the ninth day.
+	</entry>
+	<entry name="Minbar">
+		a pulpit.
+	</entry>
+	<entry name="Muadh-dhin">
+		the person who calls the adhan.
+	</entry>
+	<entry name="Muhajir">
+		a person who does hijrah.
+	</entry>
+	<entry name="Mujahid">
+		someone who is active and fights for Islam.  A Muslim fighter.  The opposite of qaideen.
+	</entry>
+	<entry name="Mu'min">
+		a person who has deep faith in Allah and is a righteous and obedient servant of His.
+	</entry>
+	<entry name="Munafiq">
+		a hypocrite, more dangerous and worse than a kafir.
+	</entry>
+	<entry name="Murabit">
+		a person who is on the road spreading Islam.
+	</entry>
+	<entry name="Musalaymah">
+		Undefined.
+	</entry>
+	<entry name="Musad'afin">
+		a weak and oppressed person.
+	</entry>
+	<entry name="Mushaf">
+		a copy of the Quran.
+	</entry>
+	<entry name="Mushawarah">
+		means consultation.
+	</entry>
+	<entry name="Mushrik">
+		a polythiest.  A person who ascribes partners to Allah.
+	</entry>
+	<entry name="Nasab">
+		means lineage or geneology.
+	</entry>
+	<entry name="Nasihah">
+		means sincere good advice.
+	</entry>
+	<entry name="Qadi">
+		judge.
+	</entry>
+	<entry name="Qaideen">
+		people who remain inactive and do not actively fight.  The opposit of mujahid.
+	</entry>
+	<entry name="Qard">
+		a loan given for a good cause in the name of Allah, in hopes of repayment or reward in the Hereafter.
+	</entry>
+	<entry name="Qari">
+		someone who recites the Quran.
+	</entry>
+	<entry name="Qiblah">
+		it is the direction that Muslims face when they do their salat.  It is in the direction of the Ka'bah in Mecca.
+	</entry>
+	<entry name="Qisas">
+		retaliation in kind (eye for an eye).  In Islam though, retaliation should be forgone as an act of charity sura 5, ayah 48.
+	</entry>
+	<entry name="Qiyamah">
+		Day of Judgement, resurrection.
+	</entry>
+	<entry name="Qudah">
+		plural form of qadi.
+	</entry>
+	<entry name="Quraysh">
+		the most powerful and prominent tribe in all of Arabia in the Prophet's era.  The Quraysh were the keepers of the Ka'bah  and therefore one of the wealthiest and most powerful tribes. The Prophet was from among the Quraysh.  When he started to preach the True religion of Allah, the Quraysh violently persecuted him and his followers.  They were badly defeated at the battle of Badr by the Muslims and their days of jahiliyyah were finally ended when the Muslims liberated Mecca and destroyed all the idols in the Ka'bah in the year 630 CE
+	</entry>
+	<entry name="Ra'kat">
+		an individual unit of salat.
+	</entry>
+	<entry name="Ramadan">
+		the holy month of prescribed fasting for the Muslims.  It was during this month that the Quranic revelations began.
+	</entry>
+	<entry name="Rasulullah">
+		the Messenger of Allah (God).
+	</entry>
+	<entry name="Ruku">
+		the position in salat in which the person prostrates himself in a standing position with his body bent forward at the waist and his hands on his knees.
+	</entry>
+	<entry name="Rutb">
+		ripe dates, opposite busr.
+	</entry>
+	<entry name="Sabirin">
+		people who are patient and steadfast.
+	</entry>
+	<entry name="Sabr">
+		patience, steadfastness.
+	</entry>
+	<entry name="Sadaq">
+		same meaning as mahr.
+	</entry>
+	<entry name="Sadaqah">
+		means charity.
+	</entry>
+	<entry name="Safa">
+		a mound near the Ka'bah that is referred to in the Quran as one of the symbols of Allah. It is in conjuction with marwah.
+	</entry>
+	<entry name="Sahabah">
+		companions of the Prophet.
+	</entry>
+	<entry name="Sahifah">
+		a page or manuscript.
+	</entry>
+	<entry name="Salat">
+		the five obligatory prayers that a Muslim must perform everyday.
+	</entry>
+	<entry name="Saqifah">
+		a shelter with a roof.  The companions of the Prophet met in a Saqifah in Madinah to pledge their loyalty to Abu Bakr after the death of the Prophet.
+	</entry>
+	<entry name="Sa'yee">
+		the going back and forth seven times between safa and marwah that is done during the hajj or the umrah.  It is done to symbolize Hajar's search for water for her son Ismael.
+	</entry>
+	<entry name="Sayyid">
+		leader or chief.
+	</entry>
+	<entry name="Seerah">
+		biography of the Prophet.
+	</entry>
+	<entry name="Shahadah">
+		declaration of faith.  A person must recite the shahadah to convert to Islam.  The shahadah in Islam is:: "I testify that there is no god but Allah and I testify that Muhammad is the Messenger of Allah."
+	</entry>
+	<entry name="Shaheed">
+		a martyr.  Someone who dies in the way of Allah.
+	</entry>
+	<entry name="Shahid">
+		means a witness or martyr.
+	</entry>
+	<entry name="Shariah">
+		Islamic law.
+	</entry>
+	<entry name="Shirk">
+		associating partners with Allah.  Shirk can also encompase any object that a person may hold in regard higher than Allah.  It is the most severe of sins and will not be forgiven.
+	</entry>
+	<entry name="Shura">
+		consultation.
+	</entry>
+	<entry name="Sirwal">
+		long under garment worn by the Arabs.
+	</entry>
+	<entry name="Siwak">
+		a piece of a branch or root of a tree that is used as a toothbrush.   Also called a miswak.
+	</entry>
+	<entry name="Suffah">
+		a raised platform that was used by the Prophet as a welcomming point for newcomers or destitute people.  It was part of his masjid.
+	</entry>
+	<entry name="Suhuf">
+		pages or manuscripts.
+	</entry>
+	<entry name="Sujud">
+		the position in salat in which the person prostrates on the ground with his hands, knees, feet, and face touching the ground.
+	</entry>
+	<entry name="Sunnah">
+		the examples of the Prophet's life what he said, did, implemented, how he implemented...  Almost the same as the hadith.
+	</entry>
+	<entry name="Surah">
+		a chapter in the Quran.
+	</entry>
+	<entry name="Tahajjud">
+		the Tahajjud prayer is an optional prayer that is supposed to be performed in the middle of the night.  It is required that a person sleep a little before he gets up for the Tahajjud prayer. It can be performed anytime between Isha and Fajr.
+	</entry>
+	<entry name="Talbiyah">
+		Undefined.
+	</entry>
+	<entry name="Tamr">
+		means dates.
+	</entry>
+	<entry name="Taqwa">
+		the love and fear that a Muslim feels for Allah.  A person with taqwa desires to be in the good pleasures of Allah and to stay away from those things that would displease Allah.  He is careful not to go beyond the bouds and limits set by Allah.
+	</entry>
+	<entry name="Tayammum">
+		Undefined.
+	</entry>
+	<entry name="Tawaf">
+		the circumfering of the Ka'bah seven times.  People usually do this during umrah or hajj.
+	</entry>
+	<entry name="Tauhid">
+		confirming the Oneness of Allah.  It is the basis of Islam.
+	</entry>
+	<entry name="Thawab">
+		reward of blessing.
+	</entry>
+	<entry name="Torah">
+		the Revelation that Allah sent down to Moses.  It is the Jewish Holy Book
+	</entry>
+	<entry name="Ulama">
+		the learned, knowledgeble people in Islam.  Plural form of alim.
+	</entry>
+	<entry name="Ummah">
+		an ummah is a community or a people.  It is used in reference to the community of Believers or Muslims.
+	</entry>
+	<entry name="Umm al-Mu'mineen">
+		means 'Mother of the Believers'.  This was the title of the Prophet's wives; (sura 33 ayah 6 stipulated that they could not marry after the Prophet's death because all of the believers were their spiritual children.
+	</entry>
+	<entry name="Umrah">
+		this is the lesser pilgrimage which is optional and can be performed at any time.
+	</entry>
+	<entry name="Urdu">
+		the official language of Pakistan.
+	</entry>
+	<entry name="Uzzah">
+		a chief goddess in the religion of the pre-Islamic Arabs during the days of jahiliyyah.
+	</entry>
+	<entry name="Wakil">
+		a person who is an authorized repesentative or proxy.  Also can mean lawyer in Urdu.
+	</entry>
+	<entry name="Wali">
+		legal guardian.  A friend or protector.  Someone who is supposed to look out for your interest.
+	</entry>
+	<entry name="Walimah">
+		a feast after the wedding.  The reception.
+	</entry>
+	<entry name="Wudu">
+		a purification (abulution) that must be performed before someone does their salat or reads the Quran.
+	</entry>
+	<entry name="Yathrib">
+		the area where the city of Madinah is situated.
+	</entry>
+	<entry name="Zakat">
+		the obligatory tax that every Muslim must give.  It is one of the five pillars of Islam.  The zakat is used to provide for the poor and destitute.
+	</entry>
+	<entry name="Zuhr">
+		the obligatory salat, prayer, that is performed in the afternoon right after the sun moves away from it's zenith.
+	</entry>
+</dictionary>
+</aml>

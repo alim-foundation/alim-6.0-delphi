@@ -1,0 +1,139 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\Software\CLASSES\CLSID\{32CB4536-2EB2-11D1-BD46-00C04FB6B4CA}]
+@="PN Wrap Filter"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Classes\CLSID\{083863F1-70DE-11d0-BD40-00A0C911CE86}\Instance\{32CB4536-2EB2-11D1-BD46-00C04FB6B4CA}]
+"FriendlyName"="PN Wrap filter"
+"CLSID"="{32CB4536-2EB2-11D1-BD46-00C04FB6B4CA}"
+"FilterData"=hex:02,00,00,00,00,00,40,00,02,00,00,00,00,00,00,00,30,70,69,33,\
+  09,00,00,00,00,00,00,00,01,00,00,00,00,00,00,00,00,00,00,00,30,74,79,33,00,\
+  00,00,00,60,00,00,00,70,00,00,00,31,70,69,33,09,00,00,00,00,00,00,00,01,00,\
+  00,00,00,00,00,00,00,00,00,00,30,74,79,33,00,00,00,00,80,00,00,00,70,00,00,\
+  00,76,69,64,73,00,00,10,00,80,00,00,aa,00,38,9b,71,00,00,00,00,00,00,00,00,\
+  00,00,00,00,00,00,00,00,64,6d,63,73,00,00,10,00,80,00,00,aa,00,38,9b,71
+  
+[HKEY_LOCAL_MACHINE\Software\CLASSES\CLSID\{32CB4536-2EB2-11D1-BD46-00C04FB6B4CA}\InprocServer32]
+@="h:\\projects\\alim\\setup\\install image\\pnwrap.dll"
+"ThreadingModel"="Both"
+
+[HKEY_LOCAL_MACHINE\Software\CLASSES\CLSID\{5E544444-764E-11D1-BD5E-00C04FB6B4CA}]
+@="PN Transport Property Page"
+
+[HKEY_LOCAL_MACHINE\Software\CLASSES\CLSID\{5E544444-764E-11D1-BD5E-00C04FB6B4CA}\InprocServer32]
+@="h:\\projects\\alim\\setup\\install image\\pnwrap.dll"
+"ThreadingModel"="Both"
+
+[HKEY_LOCAL_MACHINE\Software\CLASSES\CLSID\{7AEDD30C-7682-11D1-BD5E-00C04FB6B4CA}]
+@="PN Proxy Property Page"
+
+[HKEY_LOCAL_MACHINE\Software\CLASSES\CLSID\{7AEDD30C-7682-11D1-BD5E-00C04FB6B4CA}\InprocServer32]
+@="h:\\projects\\alim\\setup\\install image\\pnwrap.dll"
+"ThreadingModel"="Both"
+
+[HKEY_LOCAL_MACHINE\Software\CLASSES\CLSID\{7AEDD30D-7682-11D1-BD5E-00C04FB6B4CA}]
+@="PN Advanced Property Page"
+
+[HKEY_LOCAL_MACHINE\Software\CLASSES\CLSID\{7AEDD30D-7682-11D1-BD5E-00C04FB6B4CA}\InprocServer32]
+@="h:\\projects\\alim\\setup\\install image\\pnwrap.dll"
+"ThreadingModel"="Both"
+
+[HKEY_LOCAL_MACHINE\Software\CLASSES\CLSID\{7AEDD30E-7682-11D1-BD5E-00C04FB6B4CA}]
+@="PN General Property Page"
+
+[HKEY_LOCAL_MACHINE\Software\CLASSES\CLSID\{7AEDD30E-7682-11D1-BD5E-00C04FB6B4CA}\InprocServer32]
+@="h:\\projects\\alim\\setup\\install image\\pnwrap.dll"
+"ThreadingModel"="Both"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\MediaPlayer\Player\Extensions]
+"RealMedia files (*.ra;*.rm;*.ram;*.rmm)"="*.ra;*.rm;*.ram;*.rmm"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Extensions\.ra]
+"MediaType.Icon"="c:\\windows\\SYSTEM\\quartz.dll,-201"
+"MediaType.Description"="RealMedia files"
+"Extension.MIME"="audio/x-pn-realaudio"
+"Extension.Handler"="ramFile"
+"MCISupport"="no"
+"ReplaceApps"="mplayer2.exe|rvplayer.exe|raplayer.exe|pnclient.exe"
+"open=play"="yes"
+"ReuseExtHandler"="yes"
+"RequiredFile"="h:\\projects\\alim\\setup\\install image\\pnwrap.dll"
+"MCIHandler"="MPEGVideo2"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Extensions\.ram]
+"MediaType.Icon"="c:\\windows\\SYSTEM\\quartz.dll,-201"
+"MediaType.Description"="RealMedia files"
+"Extension.MIME"="audio/x-pn-realaudio"
+"Extension.Handler"="ramFile"
+"MCISupport"="no"
+"ReplaceApps"="mplayer2.exe|rvplayer.exe|raplayer.exe|pnclient.exe"
+"open=play"="yes"
+"ReuseExtHandler"="yes"
+"RequiredFile"="h:\\projects\\alim\\setup\\install image\\pnwrap.dll"
+"MCIHandler"="MPEGVideo2"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Extensions\.rm]
+"MediaType.Icon"="c:\\windows\\SYSTEM\\quartz.dll,-201"
+"MediaType.Description"="RealMedia files"
+"Extension.MIME"="audio/x-pn-realaudio"
+"Extension.Handler"="ramFile"
+"MCISupport"="no"
+"ReplaceApps"="mplayer2.exe|rvplayer.exe|raplayer.exe|pnclient.exe"
+"open=play"="yes"
+"ReuseExtHandler"="yes"
+"RequiredFile"="h:\\projects\\alim\\setup\\install image\\pnwrap.dll"
+"MCIHandler"="MPEGVideo2"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Extensions\.rmm]
+"MediaType.Icon"="c:\\windows\\SYSTEM\\quartz.dll,-201"
+"MediaType.Description"="RealMedia files"
+"Extension.MIME"="audio/x-pn-realaudio"
+"Extension.Handler"="ramFile"
+"MCISupport"="no"
+"ReplaceApps"="mplayer2.exe|rvplayer.exe|raplayer.exe|pnclient.exe"
+"open=play"="yes"
+"ReuseExtHandler"="yes"
+"RequiredFile"="h:\\projects\\alim\\setup\\install image\\pnwrap.dll"
+"MCIHandler"="MPEGVideo2"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\MIME Types\audio/x-pn-realaudio]
+@="RealMedia files"
+"Extensions.CommaSep"="ra,ram,rm,rmm"
+"Extensions.SpaceSep"=".ra .ram .rm .rmm"
+"Extension.Key"=".ra"
+"ReplaceApps"="mplayer2.exe|rvplayer.exe|raplayer.exe|pnclient.exe"
+"NavPrereg"="No"
+"RequiredFile"="h:\\projects\\alim\\setup\\install image\\pnwrap.dll"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Groups\Video\RA]
+"Protocols"="pnm"
+"MIME Types"="audio/x-pn-realaudio"
+"Extensions"=".ra .ram .rm .rmm"
+"RequiredFile"="h:\\projects\\alim\\setup\\install image\\pnwrap.dll"
+@="RealMedia file"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Protocols\pnm]
+"MIMEType"="audio/x-pn-realaudio"
+"RequiredFile"="h:\\projects\\alim\\setup\\install image\\pnwrap.dll"
+"Source Filter"="{32CB4536-2EB2-11d1-BD46-00C04FB6B4CA}"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\CLASSES\CLSID\{22D6F312-B0F6-11D0-94AB-0080C74C7E95}\EnablePlugin\.rm]
+
+[HKEY_LOCAL_MACHINE\Software\CLASSES\http\AnimExtensions]
+".ra"="dxmasf.dll,150"
+".ram"="dxmasf.dll,150"
+".rm"="dxmasf.dll,150"
+".rmm"="dxmasf.dll,150"
+
+[HKEY_LOCAL_MACHINE\Software\CLASSES\Media Type\Extensions\.rm]
+"Animation"="dxmasf.dll,150"
+
+[HKEY_LOCAL_MACHINE\Software\CLASSES\.rm]
+@="RealMedia File"
+"Content Type"="audio/x-pn-realaudio"

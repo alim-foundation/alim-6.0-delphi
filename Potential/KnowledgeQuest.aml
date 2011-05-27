@@ -1,0 +1,187 @@
+<?xml version="1.0"?>
+<aml>
+
+<category name="Prophet Muhammad">
+
+	<question choiceseq="numeric">
+		Why is the 10th year of Prophethood called the year of grief?
+		<choice>
+			His house burned down.
+			<incorrect>
+				Fire had not been invented.
+			</incorrect>
+			<seealso caption="Surah 4 Ayat 5" href="qa:4.5"/>
+			<seealso caption="Sahih Bukhari Hadith 45 Volume 3" href="shb:45.3"/>
+		</choice>
+		<choice type="answer">
+			Abu Talib (his uncle) and Khadijah (his wife) passed away.
+			<seealso caption=Sahih Bukhari Hadith 12 Volume 1" href="shb:12.1"/>
+		</choice>
+		<choice>
+			There was a terrible blizzard that wiped out all of the citrus crop.
+			<incorrect>
+				It does not snow in Mecca.
+			</incorrect>
+		</choice>
+	</question>
+
+	<question choiceseq="numeric">
+		Who accompanied the Prophet on his journey to Tiaf?
+		<choice type="answer">
+			Zaid bin Haritha
+			<seealso caption="Surah 16 Ayah 12" href="qa:16.12"/>
+		</choice>
+		<choice>
+			Abu Bakr
+			<incorrect>
+				Abu Bakr did not accompany the Prophet to Tiaf.
+			</incorrect>
+			<seealso caption="Fiqh-us-Sunnah Volume 1 Fiqh 3" href="fqs:3.1"/>
+			<seealso caption="Sahih Muslim Hadith 445" href="shm:445"/>
+		</choice>
+		<choice>
+			Shahid Shah
+			<incorrect>
+				Please! Shahid doesn't go anywhere. What makes you think he was any different 1400 years ago.	
+			</incorrect>
+			<seealso caption="Surah 45 Ayah 17" href="qa:45.17"/>
+			<seealso caption="Khalifah Uthman bin Ghani" href="kut:Conversion to Islam and After/Marriage with Hadrat Ruqayya"/>
+			<seealso caption="19th Century History" href="chr:19th Century (1800-1899) C.E."/>
+		</choice>
+	</question>
+
+	<question choiceseq="numeric">
+		What was the First Aqaba Pledge?
+		<choice>
+			I pledge alegiance to the flag of the United States of America; And to the Republic for which it stands. One nation under God, indivisible, with liberty and justice for all white men.		
+			<incorrect>
+				This is the pledge of America, not Aqaba.	
+			</incorrect>
+			<seealso caption="Khalifa Uthman bin Ghani" href="kut:Hadrat Uthman Disertations/His surprise at the conduct of persons"/>
+		</choice>
+		<choice>
+			The pledge the Quraish took to diassociate themselves with the Prophet and his tribe. The Quraish agreed not to trade, marry, or have any relationships with the Prophet and his tribe.
+			<incorrect>
+				The Quraish declared a social boycott against the Prophet and Bani Hashim and Bani Muttalib and signed a contract that was hung in the Ka'bah. The contract was eaten up by worms except for the words "In the name of Allah".
+			</incorrect>
+			<seealso caption="Frequently Asked Questions About Islam" href="woi:Frequently Asked Questions about Islam"/>
+		</choice>
+		<choice type="answer">
+			On their return to Yathrib, six persons of the Khazraj tribe told the people what they had seen and heard. Durring the next season of pilgrimage a deputation came from Yathrib purposely to meet the Prophet. They swore allegiance to him.
+			<seealso caption="Islam in the modern world: revival and reassertation" href="woi:Islam In The Modern World/Revival and Reassertation of Islam"/>
+			<seealso caption="M. Asad Quran Translation Surah 2 Ayah 3 Comment 3" href="asd:2.3.3"/>
+		</choice>
+	</question>
+</category>
+
+<category name="Islamic History">
+	<question choiceseq="alpha">
+		After the death of the last Rightly Guided Khalifa, Ali, what is the most significant date in Islamic history?
+		<choice type="answer"
+			May 7, 1986. The formation of ISL Software.
+		</choice>
+		<choice>
+			July 4, 1776. The formation of the United States.
+			<incorrect>
+				The formation of the United States is insignificant without ISL Software.
+			</incorrect>
+		</choice>
+		<choice>
+			April 22, 1966. My birthday.
+			<incorrect>
+				Close but no cigar. My birthday is meaningless without ISL Software (don't tell may mother).
+			</incorrect>
+		</choice>
+		<choice>
+			The conquest of Constantinople by the Ottoman Empire.
+			<incorrect>
+				ISL Software is more important.
+			</incorrect>
+			<seealso caption="15th Century (1400-1499) C.E." href="chr:15th Century (1400-1499) C.E./1453"/>
+		</choice>
+	</question>
+	
+	<question choiceseq="alpha">
+		When did the Ottoman Empire finally fall apart?
+		<choice>
+			After World War II.
+			<incorrect>
+				No.	
+			</incorrect>
+		</choice>
+		<choice type="answer">
+			After World War I.
+		</choice>
+	</question>
+</category>
+
+<category name="Geography"	
+	<question>
+		What is the capital of Malaysia?
+		<choice>
+			Singapore
+			<incorrect>
+				Singapore is a British Protectorate.
+			</incorrect>
+			<seealso caption="Suarh 112 Ayah 2" href="qa:112.3"/>
+		</choice>
+		<choice type="answer">
+			Kuala Lumpur
+		</choice>
+		<choice>
+			Moscow
+			<incorrect>
+				Moscow is the capital of the drunk Russians.
+			</incorrect>
+		</choice>
+	</question>
+	
+	<question>
+		What country is directly to the west of Iran?
+		<choice type="answer">
+			Iraq
+			<seealso caption="Sahih Muslim Hadith 233" href="shm:233"/>
+		</choice>
+		<choice>
+			West Iran
+			<incorrect>
+				Does not exist.
+			</incorrect>
+		</choice>
+	</question>
+	
+	<question choiceseq="alpha">
+		Alexandria, named after Alexander the Great, is in what modern day country?
+		<choice>
+			Afghanistan
+		</choice>
+		<choice>
+			Greece
+			<incorrect>
+				Nope!
+			</incorrect>
+		</choice>
+		<choice type="answer">
+			Egypt
+		</choice>
+	</question>
+	
+	<question choiceseq="numeric">
+		Where is the Maghrib?
+		<choice type="answer">
+			Western Africa
+		</choice>
+		<choice>
+			The time to break your fast and do your prayers.
+			<seealso caption="Surah 5, Ayah 76" href="qa:5.76"/>
+		</choice>
+		<choice>
+			A masjid in Laaloo Khaith.
+		</choice>
+		<choice>
+			A gasseous nebula in the Orion cluster.
+		</choice>
+	</question>
+</category>
+
+</aml>

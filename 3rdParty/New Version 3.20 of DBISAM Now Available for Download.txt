@@ -1,0 +1,248 @@
+From: Sales - Elevate Software [sales@elevatesoft.com]
+Sent: Friday, November 15, 2002 5:25 AM
+To: snshah@islsoftware.com
+Subject: New Version 3.20 of DBISAM Now Available for Download
+
+We are pleased to announce that the 3.20 version of DBISAM is now available for download at: 
+
+http://www.elevatesoft.com/download.htm
+
+If you are using an HTML-enabled email program such as Outlook Express you may click on the link above to go directly to the download page.
+
+The following is information about the 3.20 version of DBISAM: 
+
+Changes from version 3.19:
+
+• Bug fixes - specifically one that fixed a problem with getting a "Page buffers corrupt #8965" error when trying to delete a record in a table that contained fields that were full text indexed
+
+Changes from version 3.18:
+
+• Bug fixes - specifically a bad one where un-optimized string field comparisons were doing the equivalent of a partial-length search
+
+Changes from version 3.17:
+
+• Bug fixes.
+
+• Added a Cancel button in SQL Query window in the Database System Utility.
+
+Changes from version 3.16:
+
+• Bug fixes.
+
+• Delphi 7 Support
+
+Changes from version 3.15:
+
+• Made some compatibility changes in the engine for the ODBC driver.
+
+• Added the ability to default the full text indexing parameters in the DBSYS utility's create/restructure dialog.
+
+• Minor bug fixes
+
+Changes from version 3.14:
+
+• Changed the server so that it no longer converts relative path names to full path names (including drive) at the time of the database addition or modification.  Instead, it now performs the conversion at runtime as needed, thus allowing relative path names to be used in cases where the server is moved to different drives on different machines without having to re-configure the database paths.
+
+• Bug fixes, specifically the server callback error bug - please see the version history for more information.
+
+Changes from version 3.13:
+
+• Bug fixes, no enhancements - please see the version history for more information.
+
+Changes from version 3.12:
+
+• Bug fixes, no enhancements - please see the version history for more information.
+
+Changes from version 3.11:
+
+• Fixed some showstopper bugs introduced in 3.11 - please see the version history for more information.
+
+Changes from version 3.10:
+
+• There is a new GetRemoteEngineVersion method of the TDBISAMSession component that returns the remote server's version as a string in the form of "3.11" (example).
+
+• The BLOB buffering and loading performance has been improved dramatically for the C/S version.  DBISAM now can buffer BLOBs client-side, thus improving performance quite a bit when BLOBs are manipulated by the client.
+
+• The ImportTable method will now ignore any non-existent field names in the FieldsToImport parameter, thus making it possible to only extract a portion of the available fields from a delimited text file.
+
+• The LoadFromStream and SaveToStream methods of the TDBISAMTable component are now available for the TDBISAMQuery component also.  The query component must be open in order to use these methods.
+
+• The default ports for the server (12001 for main and 12002 for admin) have been changed due to approval from IANA (Internet Assigned Numbers Authority) for named services for DBISAM server ports.  The new default ports are 12005 for the main port and 12006 for the admin port.  The IANA assignments are as follows:
+
+dbisamserver1      12005/tcp      DBISAM Database Server - Regular
+dbisamserver1      12005/udp      DBISAM Database Server - Regular
+dbisamserver2      12006/tcp      DBISAM Database Server - Admin
+dbisamserver2      12006/udp      DBISAM Database Server - Admin
+
+• There are new START TRANSACTION / COMMIT [WORK] [FLUSH] / ROLLBACK [WORK] SQL statements available to use with SQL scripts.  You need to update both the client applications and database server to 3.11 in order to use this functionality. Please see the SQL Reference in the Online Manual for more information.
+
+• The IF NOT EXISTS clause has been moved for the CREATE INDEX SQL statement to make it more consistent with the DROP INDEX SQL statement.  The syntax is now:
+
+CREATE [UNIQUE] [ASC or ASCENDING | DESC or DESCENDING] [NOCASE] INDEX [IF NOT EXISTS] index_name ON [MEMORY] table_reference (column_name [,column_name...]) [COMPRESS DUPBYTE | TRAILBYTE | FULL | NONE]]
+
+• Ability to bind the server to a specific data and admin IP address. Please see the database server help file for more information on using these parameters for the server.
+
+• Ability to set the server name for a server. Please see the database server help file for more information on using these parameters for the server.
+
+• Additional DAYOFYEAR keyword for the EXTRACT function.
+
+• New LASTAUTOINC([TableName]) and IDENT_CURR([TableName]) functions (same function, different name).  Please see the SQL Reference in the Online Manual for more information.
+
+• New COALESCE() AND IFNULL() functions.  Please see the SQL Reference in the Online Manual for more information.
+
+• The UNION functionality for SELECT statements has been changed.  You may no longer use GROUP BY clauses for the entire set of UNIONed statements.  You may only use an ORDER BY and/or TOP clause for the entire set of UNIONed statements.  However, you may use any valid SQL SELECT clause in each UNIONed SELECT statement, such as GROUP BY and HAVING.  Please see the SQL Reference in the Online Manual for more information.
+
+• There are new public properties at the TDBISAMSession level to control amount of buffering done per table for a given session.  These properties express the amount of buffering as a maximum amount of memory.  The minimums are set by the engine and cannot be changed.  The properties are:
+
+	MaxTableDataBufferSize
+	MaxTableDataBufferCount
+	MaxTableIndexBufferSize
+	MaxTableBlobBufferSize
+	MaxTableBlobBufferCount
+
+These properties only apply to a single-user or multi-user application and have no effect upon a remote DBISAM database server. In some cases, some significant performance improvements can be obtained by doubling the default values for these properties.  However, this comes at the added expense of more memory consumption on the client workstation.
+
+• LoadFromStream and SaveToStream now work with disk-based tables also in addition to in-memory tables, so you can now pump (small) tables back and forth to the server for synchronization purposes.
+
+• The CAST SQL and filter function now returns all date and time conversions to strings as 24-hour time instead of 12-hour time.  This is to facilitate easier parsing of the resultant string.
+
+• The ImportTable and ExportTable methods are now available for both the TDBISAMTable and TDBISAMQuery components.  In addition, you may now specify a nil FieldsList for the ExportTable method in order to allow all fields to be exported.  Also, both the ImportTable and ExportTable method now have optional ReadHeaders and WriteHeaders parameters that control:
+
+a) Whether the ImportTable method reads the field names to import from the first line of the import file, thus permitting the import of files without specifying the mapping of fields.
+
+b) Whether the ExportTable method writes the field names that were exported to the first line of the exported file.
+
+Please see the Getting Started section of the Online Manual for more information.
+
+• The StartTransaction, Commit, and Rollback methods of the TDBISAMDatabase component are now all declared as virtual.
+
+• The ExecSQL method of the TDBISAMQuery component can now handle scripts that end with a SELECT statement, dynamically opening up a query result set if the last statement in the script is a SELECT statement.  This also allows for the proper identification of the last statement type in the script via the SQLStatementType property of the TDBISAMQuery component.  Previously there were problems with properly identifying the statement type in a way that allowed the proper use of either the Open (Active:=True) or ExecSQL method to run an SQL script that mixed non-SELECT statements with SELECT statements.  Due to these changes, you should always use ExecSQL to execute SQL scripts.
+
+• You may now use relative path names in the temporary directory setting and database directory settings on a DBISAM database server and the server will convert the relative path into a full path internally.  For example, suppose the server EXE resides in the c:\dbisamserver directory.  Adding a database with the database directory set to data will result in DBISAM creating the directory c:\dbisamserver\data for the new database.
+
+• The installation program has now been modified to use the major version number in the installation path.  For example, for the version 3.11 beta it will default to installing in c:\dbisambt\ver3.
+
+Changes from version 3.09:
+
+• This version was released correct a major problem with parameters not being set properly with the local engine.  The remote access to a database server was fine in this respect.
+
+Changes from version 3.08:
+
+• There is a new /NOINTERACT command-line parameter that can be used with the database server when installing it as a Windows NT/2000/XP service.  If this parameter is used then the service will be installed with the "Allow Service to Interact with Desktop" option set to False. In addition, the database server now reads this setting whenever it is started as a service and will automatically suppress it's UI if it is False.  There is no longer a need to use the /NI (No User Interface) command-line parameter with the database server when it is running as a service because of these changes.
+
+• Query result set information (fields structure, etc.) is returned on preparation now and not on every execution.  You must update both the client and the server to version 3.09 in order to get this improvement.
+
+• Executing a parameterized SQL statement against a remote server is now more efficient and performs the entire operation in one call.  You must update both the client and the server to version 3.09 in order to get this improvement.
+
+Changes from version 3.07:
+
+• RepairTable method now includes an optional ForceIndexRebuild parameter to cover instances where DBISAM cannot accurately detect index corruption.
+
+• The TDBISAMSession.GetRemoteSessionInfo method has an additional parameter now called LastUserAddress that specifies the last IP address used by the session.
+
+Changes from version 3.06:
+
+• C++Builder 6 support is now included in this release.
+
+Changes from version 3.05:
+
+• The full text searching capabilities have been enhanced to allow for the use of partial word searches in the TEXTSEARCH() and TEXTOCCURS() SQL and filter functions.  Simply tag an asterisk at the end of a partial word in the search words string to cause DBISAM to find all records where the first part of a word in the specified column matches the partial word specified in the search string.  Example:
+
+TEXTSEARCH('perform*' IN TextBody)
+
+will return all records that have "perform", "performs", "performance", etc. in the column TextBody.  If the column being searched is text indexed, then the search will still be completely optimized.  Please note that the search is only performed from left to right and only from the *beginning* of a given word, not in the middle.
+
+Changes from version 3.04:
+
+• Support for the BlockReadSize property of the TDataSet component has been added.  This can significantly improve the performance of batch operations for a remote session connected to a DBISAM Database Server.  Previously DBISAM attempted to determine the ideal number of read-ahead records but was pretty much "guessing" since the information needed to determine this has to come from the developer of the application.  You can set BlockReadSize to the number of records that you would like to read at one time from the remote database server.  Using BlockReadSize disables all data-aware control updates, so please be sure to read about how this property setting behaves in the standard Delphi help file.  Please note that DBISAM no longer does automatic read-ahead for remote sessions except in the case where DBISAM needs to populate x number of rows in a grid.  And don't be afraid to set this value fairly high since it can result in some pretty good performance improvements.  In such a case DBISAM now more accurately performs the correct read-ahead for the exact number of records required to fill the grid, or any multi-record control for that matter.
+
+• DBISAM now more efficiently opens up tables for a remote session, greatly reducing the number of messages sent and the amount of data transferred.  This is especially true for multiple opens of the same physical table and opening up TDBISAMTable components that have their IndexName property set to a secondary index.
+
+Changes from version 3.03:
+
+• The InMemory property of the TDBISAMTable component has been removed.  In it's place we have changed the functionality of the table component so that it's only necessary to specify the DatabaseName as "Memory" in order to make the table an in-memory table.  We apologize for any inconvenience this may cause since you will get missing property errors when you open up any forms or data modules that use the TDBISAMTable component.  Also, you should make sure to open and save any forms or data modules that *do* use TDBISAMTable components or you will get runtime errors in your application about this missing property.
+
+A WORD OF WARNING - the MEMORY keyword in the SQL will be the next thing to be removed, although it will not occur until 3.05 or 3.06.  In it's place will be the requirement that you use the "Memory" database name when specifying a table in an SQL statement.  This is an example:
+
+SELECT *
+FROM "Memory\MyTable"
+
+The whole idea behind these changes is to start treating all in-memory tables as residing in a special database called "Memory".  We've modified DBSYS to allow developers/users to work with in-memory tables and you'll notice that it's much easier to deal with, especially when it comes to the code in DBSYS.
+
+• Full text indexing functionality has been added to DBISAM.  Please see the Online Manual topic Full Text Indexing for more information on this functionality.
+
+• The ImportTable and ExportTable methods of the TDBISAMTable component now include parameters for specifying the date format, time format, and decimal separator for the data being imported/exported.  The date and time formats can be any value that you wish using the M, D, and Y characters to specify the date formatting and H, M, S, Z, and AMPM characters for the time formatting.  However, they *must* include a separator of some sort between the different characters.  For example, you can use:
+
+dd/mm/yyyy
+mm/dd/yyyy
+yyyy-mm-dd
+dd.mm.yyyy
+
+but you cannot use:
+
+mmddyyyy
+
+The time formatting has the same requirements. Also, when specifying the AMPM switch for a 12-hour clock instead of a 24-hour clock, you must specify AMPM without any slashes in between the AM and PM.  All formatting is case-insensitive.
+
+In addition to the date/time/number formatting, DBISAM no longer requires quotes around string, date, or time data, and will properly handle such data in imported text files.  DBISAM still adds quotes around all string data when exporting text files, but that should not pose a problem.
+
+• The TDBISAMSession component has a new property called LockProtocol.  This property can be set to either lpPessimistic or lpOptimistic.  The default is lpPessimistic and will conform to the existing pessmistic locking model used by DBISAM.  The lpOptimistic setting is used to tell DBISAM to use an optimistic locking model, which differs from the pessimistic locking model in that it only locks records being edited during the Post method call as opposed to locking a records in the Edit method call and keeping the records locked until after the Post method call.  With optimistic locking, if the record being edited has changed by another user since the Edit occurred, then the Post will be rejected with an #8708 DBISAM engine error.  This also holds true for SQL UPDATE statements, except that the Edit..Post sequence occurs internally at the engine level.  The benefit of the optimistic locking model is that it will not leave dangling record locks present on the file server or a DBISAM Database Server if the client crashes after calling the Edit method but before calling the Post method.
+
+• Other miscellaneous enhancements have been made in 3.04.  Please see the Version History for more information.
+
+Additional Notes:
+
+The utilities and their respective source code have been split into a separate installation download for the purposes of reducing the likelihood of a connection timeout or interrupted download when downloading a new version from our web site.  Also, the Customer Support Utility (DBCUST.EXE) and the Trial Version Survey Utility (DBTRIAL.EXE) have been removed from the installations completely, also to trim down the download size.  Both of these utilities have been (or will be) replaced by a web-based alternative. You can submit incident reports currently on our web site at:
+
+http://www.elevatesoft.com/scripts/incidentsubmit
+
+and you can view all past incident reports and their status at:
+
+http://www.elevatesoft.com/scripts/history
+
+We will shortly be making available a page on the web site for responding to our trial version survey.
+
+More Upgrade Options:
+
+You may purchase the source code version of DBISAM for an additional charge of $159.00 US.  Please use the following link if you are interested in purchasing the source code version:
+
+http://www.nstarsolutions.com/cgi-local/purchase.cgi?acctid=1116&prodid=4645&prodname=DBISAM_Database_Sys_-_With_Source_-_Upgrade_From_Non-Source&price=$159.00
+
+You may purchase the DBISAM ODBC driver for an additional charge of $199.00 US.  Please use the following link if you are interested in purchasing the ODBC driver:
+
+http://www.nstarsolutions.com/cgi-local/purchase.cgi?acctid=1116&prodid=7280&prodname=ODBC_Driver_-_without_Source_Code&price=$199.00
+
+You may purchase the DBISAM ODBC driver with complete source code for an additional charge of $599.00 US.  Please use the following link if you are interested in purchasing the ODBC driver with complete source code:
+
+http://www.nstarsolutions.com/cgi-local/purchase.cgi?acctid=1116&prodid=7281&prodname=ODBC_Driver_-_with_Source_Code&price=$599.00
+
+Verification of customer information is performed at the time of download.  The following information will be needed in order to download any release of DBISAM so please keep this information handy. All of this information is specific to your license and will not change for future releases.
+
+User ID: Shahid N. Shah
+Password: IB-Bg7J-Lfba-s57u-f8qR-4X
+
+Please use this information exactly as shown in order to avoid any problems while downloading.
+
+Just a reminder, if you have any DBISAM-based code or utilities that might be useful to other DBISAM users, please send us an email and we'll be sure to post it on our user-contributed code page on the web site.
+
+As always, if you have any problems with DBISAM at all or need technical support please contact us at: 
+
+support@elevatesoft.com
+
+We would also like to take this time to confirm your customer information that we have on file at Elevate Software.  We do this so as to make sure that we keep on top of changing email addresses, etc. If the following information is correct there is no need to contact us. However, if any of the following information is incorrect, please reply to this email message with the corrected information so that we may make the appropriate changes here at Elevate Software. Please note that all customer information is held in the strictest confidence and is used for the sole purpose of maintaining a high level of quality in our customer service at Elevate Software. 
+
+For future reference and any customer support inquiries, please use the following customer number so that we may better serve your needs. 
+
+Customer #: 000198
+Company Name: 
+Contact: Shahid N. Shah
+Address: 2136 Kings Garden Way
+
+City: Falls Church
+State/Province: VA
+Zip/Postal Code: 22043
+Country: United States
+Email: snshah@islsoftware.com
+Phone: 703 333-2953
+Fax: 703 333-2954
+

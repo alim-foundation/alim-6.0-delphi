@@ -1,0 +1,678 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2]
+"Text.OpenVerb"="&Open"
+"Text.PlayVerb"="&Play"
+"Player.Path"="C:\\Program Files\\Windows Media Player\\mplayer2.exe"
+"Player.Name"="mplayer2.exe"
+"Shell.Open"=" /Play \"%L\""
+"Shell.Play"=" /Play \"%L\""
+"StandardVerb"="open"
+"CLSID"="{05589fa1-c356-11ce-bf01-00aa0055595a}"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Extensions]
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Extensions\.aif]
+"MediaType.Icon"="C:\\WINDOWS\\SYSTEM\\quartz.dll,-202"
+"MediaType.Description"="AIFF Format Sound"
+"Extension.MIME"="audio/aiff"
+"Extension.Handler"="AIFFFile"
+"ReplaceApps"="mplayer2.exe|amovie.ocx|iexplore.exe"
+"open=play"="yes"
+"CLSID"="{22d6f312-b0f6-11d0-94ab-0080c74c7e95}"
+"MCIHandler"="MPEGVideo"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Extensions\.aifc]
+"MediaType.Icon"="C:\\WINDOWS\\SYSTEM\\quartz.dll,-202"
+"MediaType.Description"="AIFF Format Sound"
+"Extension.MIME"="audio/aiff"
+"Extension.Handler"="AIFFFile"
+"ReplaceApps"="mplayer2.exe|amovie.ocx|iexplore.exe"
+"open=play"="yes"
+"CLSID"="{22d6f312-b0f6-11d0-94ab-0080c74c7e95}"
+"MCIHandler"="MPEGVideo"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Extensions\.aiff]
+"MediaType.Icon"="C:\\WINDOWS\\SYSTEM\\quartz.dll,-202"
+"MediaType.Description"="AIFF Format Sound"
+"Extension.MIME"="audio/aiff"
+"Extension.Handler"="AIFFFile"
+"ReplaceApps"="mplayer2.exe|amovie.ocx|iexplore.exe"
+"open=play"="yes"
+"CLSID"="{22d6f312-b0f6-11d0-94ab-0080c74c7e95}"
+"MCIHandler"="MPEGVideo"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Extensions\.asf]
+"MediaType.Icon"="dxmasf.dll,-500"
+"MediaType.Description"="Streaming Audio / Video file"
+"MCISupport"="no"
+"Extension.MIME"="video/x-ms-asf"
+"Extension.Handler"="ASFFile"
+"ReplaceApps"="*.*"
+"CLSID"="{22d6f312-b0f6-11d0-94ab-0080c74c7e95}"
+"MCIHandler"="MPEGVideo2"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Extensions\.asx]
+"MediaType.Icon"="dxmasf.dll,-501"
+"MediaType.Description"="Streaming Audio / Video shortcut"
+"MCISupport"="no"
+"Extension.MIME"="video/x-ms-asf"
+"Extension.Handler"="ASXFile"
+"ReplaceApps"="*.*"
+"CLSID"="{22d6f312-b0f6-11d0-94ab-0080c74c7e95}"
+"MCIHandler"="MPEGVideo2"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Extensions\.au]
+"MediaType.Icon"="C:\\WINDOWS\\SYSTEM\\quartz.dll,-201"
+"MediaType.Description"="AU Format Sound"
+"Extension.MIME"="audio/basic"
+"Extension.Handler"="AUFile"
+"ReplaceApps"="mplayer2.exe|amovie.ocx|sndrec32.exe|mplay32.exe|mplayer.exe|iexplore.exe"
+"MCIHandler"="MPEGVideo"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Extensions\.avi]
+"MediaType.Icon"="C:\\WINDOWS\\SYSTEM\\quartz.dll,-100"
+"MediaType.Description"="Video Clip"
+"Extension.MIME"="video/avi"
+"Extension.Handler"="avifile"
+"ReplaceApps"="mplayer2.exe|amovie.ocx|mplay32.exe|mplayer.exe|iexplore.exe"
+"MCIHandler"="MPEGVideo"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Extensions\.ivf]
+"MediaType.Icon"="C:\\WINDOWS\\SYSTEM\\ivfsrc.ax,0"
+"MediaType.Description"="Indeo Video File"
+"Extension.MIME"="video/x-ivf"
+"Extension.Handler"="IVFFile"
+"MCISupport"="no"
+"RequiredFile"="C:\\WINDOWS\\SYSTEM\\ivfsrc.ax"
+"ReplaceApps"="mplayer2.exe|msdxm.ocx|amovie.ocx|iexplore.exe"
+"CLSID"="{22d6f312-b0f6-11d0-94ab-0080c74c7e95}"
+"MCIHandler"="MPEGVideo2"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Extensions\.lsf]
+"MediaType.Icon"="dxmasf.dll,-500"
+"MediaType.Description"="Streaming Audio / Video file"
+"MCISupport"="no"
+"Extension.MIME"="video/x-la-asf"
+"Extension.Handler"="ASFFile"
+"ReplaceApps"="mplayer2.exe|amovie.ocx"
+"open=play"="yes"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Extensions\.lsx]
+"MediaType.Icon"="dxmasf.dll,-501"
+"MediaType.Description"="Streaming Audio / Video shortcut"
+"MCISupport"="no"
+"Extension.MIME"="video/x-la-asf"
+"Extension.Handler"="ASXFile"
+"ReplaceApps"="mplayer2.exe|amovie.ocx"
+"open=play"="yes"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Extensions\.m1v]
+"MediaType.Icon"="C:\\WINDOWS\\SYSTEM\\quartz.dll,-103"
+"MediaType.Description"="Movie Clip"
+"Extension.MIME"="video/mpeg"
+"Extension.Handler"="mpegfile"
+"ReplaceApps"="mplayer2.exe|amovie.ocx|mplay32.exe|mplayer.exe|iexplore.exe"
+"MCIHandler"="MPEGVideo"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Extensions\.m3u]
+"MediaType.Icon"="C:\\WINDOWS\\SYSTEM\\quartz.dll,-103"
+"MediaType.Description"="M3U file"
+"Extension.MIME"="audio/x-mpegurl"
+"Extension.Handler"="m3ufile"
+"ReplaceApps"="mplayer2.exe|amovie.ocx"
+"CLSID"="{22d6f312-b0f6-11d0-94ab-0080c74c7e95}"
+"MCIHandler"="MPEGVideo"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Extensions\.mid]
+"MediaType.Icon"="C:\\WINDOWS\\SYSTEM\\quartz.dll,-300"
+"MediaType.Description"="MIDI Sequence"
+"Extension.MIME"="audio/mid"
+"Extension.Handler"="midfile"
+"ReplaceApps"="mplayer2.exe|amovie.ocx|sndrec32.exe|mplay32.exe|mplayer.exe|iexplore.exe"
+"MCIHandler"="Sequencer"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Extensions\.midi]
+"MediaType.Icon"="C:\\WINDOWS\\SYSTEM\\quartz.dll,-300"
+"MediaType.Description"="MIDI Sequence"
+"Extension.MIME"="audio/mid"
+"Extension.Handler"="midfile"
+"ReplaceApps"="mplayer2.exe|amovie.ocx|sndrec32.exe|mplay32.exe|mplayer.exe|iexplore.exe"
+"MCIHandler"="Sequencer"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Extensions\.mov]
+"MediaType.Icon"="C:\\WINDOWS\\SYSTEM\\quartz.dll,-101"
+"MediaType.Description"="Video Clip"
+"Extension.MIME"="video/quicktime"
+"Extension.Handler"="movfile"
+"ReplaceApps"="amovie.ocx|mplayer2.exe|iexplore.exe"
+"MCIHandler"="MPEGVideo"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Extensions\.mp2]
+"MediaType.Icon"="C:\\WINDOWS\\SYSTEM\\quartz.dll,-103"
+"MediaType.Description"="Movie Clip"
+"Extension.MIME"="video/mpeg"
+"Extension.Handler"="mpegfile"
+"ReplaceApps"="mplayer2.exe|amovie.ocx|iexplore.exe"
+"MCIHandler"="MPEGVideo"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Extensions\.mp3]
+"MediaType.Icon"="C:\\WINDOWS\\SYSTEM\\quartz.dll,-103"
+"MediaType.Description"="MP3 file"
+"Extension.MIME"="audio/mpeg"
+"Extension.Handler"="mp3file"
+"ReplaceApps"="mplayer2.exe|amovie.ocx"
+"CLSID"="{22d6f312-b0f6-11d0-94ab-0080c74c7e95}"
+"MCIHandler"="MPEGVideo"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Extensions\.mpa]
+"MediaType.Icon"="C:\\WINDOWS\\SYSTEM\\quartz.dll,-103"
+"MediaType.Description"="Movie Clip"
+"Extension.MIME"="video/mpeg"
+"Extension.Handler"="mpegfile"
+"ReplaceApps"="mplayer2.exe|amovie.ocx|iexplore.exe"
+"MCIHandler"="MPEGVideo"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Extensions\.mpe]
+"MediaType.Icon"="C:\\WINDOWS\\SYSTEM\\quartz.dll,-103"
+"MediaType.Description"="Movie Clip"
+"Extension.MIME"="video/mpeg"
+"Extension.Handler"="mpegfile"
+"ReplaceApps"="mplayer2.exe|amovie.ocx|iexplore.exe"
+"MCIHandler"="MPEGVideo"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Extensions\.mpeg]
+"MediaType.Icon"="C:\\WINDOWS\\SYSTEM\\quartz.dll,-103"
+"MediaType.Description"="Movie Clip"
+"Extension.MIME"="video/mpeg"
+"Extension.Handler"="mpegfile"
+"ReplaceApps"="mplayer2.exe|amovie.ocx|iexplore.exe"
+"MCIHandler"="MPEGVideo"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Extensions\.mpg]
+"MediaType.Icon"="C:\\WINDOWS\\SYSTEM\\quartz.dll,-103"
+"MediaType.Description"="Movie Clip"
+"Extension.MIME"="video/mpeg"
+"Extension.Handler"="mpegfile"
+"ReplaceApps"="mplayer2.exe|amovie.ocx|iexplore.exe"
+"MCIHandler"="MPEGVideo"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Extensions\.mpv2]
+"MediaType.Icon"="C:\\WINDOWS\\SYSTEM\\quartz.dll,-103"
+"MediaType.Description"="Movie File (MPEG)"
+"Extension.MIME"="video/mpeg"
+"Extension.Handler"="mpegfile"
+"ReplaceApps"="mplayer2.exe|amovie.ocx|iexplore.exe"
+"CLSID"="{22d6f312-b0f6-11d0-94ab-0080c74c7e95}"
+"MCIHandler"="MPEGVideo"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Extensions\.qt]
+"MediaType.Icon"="C:\\WINDOWS\\SYSTEM\\quartz.dll,-101"
+"MediaType.Description"="Video Clip"
+"Extension.MIME"="video/quicktime"
+"Extension.Handler"="movfile"
+"ReplaceApps"="amovie.ocx|mplayer2.exe|iexplore.exe"
+"MCIHandler"="MPEGVideo"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Extensions\.rmi]
+"MediaType.Icon"="C:\\WINDOWS\\SYSTEM\\quartz.dll,-301"
+"MediaType.Description"="MIDI Sequence"
+"Extension.MIME"="audio/mid"
+"Extension.Handler"="midfile"
+"ReplaceApps"="mplayer2.exe|amovie.ocx|sndrec32.exe|mplay32.exe|mplayer.exe|iexplore.exe"
+"MCIHandler"="Sequencer"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Extensions\.snd]
+"MediaType.Icon"="C:\\WINDOWS\\SYSTEM\\quartz.dll,-201"
+"MediaType.Description"="AU Format Sound"
+"Extension.MIME"="audio/basic"
+"Extension.Handler"="AUFile"
+"ReplaceApps"="mplayer2.exe|amovie.ocx|sndrec32.exe|mplay32.exe|mplayer.exe|iexplore.exe"
+"MCIHandler"="MPEGVideo"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Extensions\.wav]
+"MediaType.Icon"="C:\\WINDOWS\\SYSTEM\\quartz.dll,-200"
+"MediaType.Description"="Wave Sound"
+"Extension.MIME"="audio/wav"
+"Extension.Handler"="soundrec"
+"ReplaceApps"="mplayer2.exe|amovie.ocx|sndrec32.exe|mplay32.exe|mplayer.exe|iexplore.exe"
+"MCIHandler"="MPEGVideo"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Extensions\.ra]
+"MediaType.Icon"="c:\\windows\\SYSTEM\\quartz.dll,-201"
+"MediaType.Description"="RealMedia files"
+"Extension.MIME"="audio/x-pn-realaudio"
+"Extension.Handler"="ramFile"
+"MCISupport"="no"
+"ReplaceApps"="mplayer2.exe|rvplayer.exe|raplayer.exe|pnclient.exe"
+"open=play"="yes"
+"ReuseExtHandler"="yes"
+"RequiredFile"="C:\\PROGRA~1\\WINDOW~2\\pnwrap.dll"
+"MCIHandler"="MPEGVideo2"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Extensions\.ram]
+"MediaType.Icon"="c:\\windows\\SYSTEM\\quartz.dll,-201"
+"MediaType.Description"="RealMedia files"
+"Extension.MIME"="audio/x-pn-realaudio"
+"Extension.Handler"="ramFile"
+"MCISupport"="no"
+"ReplaceApps"="mplayer2.exe|rvplayer.exe|raplayer.exe|pnclient.exe"
+"open=play"="yes"
+"ReuseExtHandler"="yes"
+"RequiredFile"="C:\\PROGRA~1\\WINDOW~2\\pnwrap.dll"
+"MCIHandler"="MPEGVideo2"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Extensions\.rm]
+"MediaType.Icon"="c:\\windows\\SYSTEM\\quartz.dll,-201"
+"MediaType.Description"="RealMedia files"
+"Extension.MIME"="audio/x-pn-realaudio"
+"Extension.Handler"="ramFile"
+"MCISupport"="no"
+"ReplaceApps"="mplayer2.exe|rvplayer.exe|raplayer.exe|pnclient.exe"
+"open=play"="yes"
+"ReuseExtHandler"="yes"
+"RequiredFile"="C:\\PROGRA~1\\WINDOW~2\\pnwrap.dll"
+"MCIHandler"="MPEGVideo2"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Extensions\.rmm]
+"MediaType.Icon"="c:\\windows\\SYSTEM\\quartz.dll,-201"
+"MediaType.Description"="RealMedia files"
+"Extension.MIME"="audio/x-pn-realaudio"
+"Extension.Handler"="ramFile"
+"MCISupport"="no"
+"ReplaceApps"="mplayer2.exe|rvplayer.exe|raplayer.exe|pnclient.exe"
+"open=play"="yes"
+"ReuseExtHandler"="yes"
+"RequiredFile"="C:\\PROGRA~1\\WINDOW~2\\pnwrap.dll"
+"MCIHandler"="MPEGVideo2"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Extensions\.wax]
+"MediaType.Icon"="dxmasf.dll,-501"
+"MediaType.Description"="Windows Media Audio shortcut"
+"Extension.MIME"="audio/x-ms-wax"
+"Extension.Handler"="WAXFile"
+"ReplaceApps"="mplayer2.exe|msdxm.ocx"
+"MCIHandler"="MPEGVideo2"
+"CLSID"="{22d6f312-b0f6-11d0-94ab-0080c74c7e95}"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Extensions\.wm]
+"MediaType.Icon"="dxmasf.dll,-500"
+"MediaType.Description"="Windows Media Audio / Video file"
+"Extension.MIME"="video/x-ms-wm"
+"Extension.Handler"="ASFFile"
+"ReplaceApps"="*.*"
+"MCIHandler"="MPEGVideo2"
+"CLSID"="{22d6f312-b0f6-11d0-94ab-0080c74c7e95}"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Extensions\.wma]
+"MediaType.Icon"="dxmasf.dll,-500"
+"MediaType.Description"="Windows Media Audio file"
+"Extension.MIME"="audio/x-ms-wma"
+"Extension.Handler"="WMAFile"
+"ReplaceApps"="mplayer2.exe|msdxm.ocx"
+"MCIHandler"="MPEGVideo2"
+"CLSID"="{22d6f312-b0f6-11d0-94ab-0080c74c7e95}"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Groups]
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Groups\Audio]
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Groups\Audio\AIFF]
+@="AIFF Format Sound"
+"Extensions"=".aif .aifc .aiff"
+"MIME Types"="audio/aiff audio/x-aiff"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Groups\Audio\AU]
+@="AU Format Sound"
+"Extensions"=".au .snd"
+"MIME Types"="audio/basic"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Groups\Audio\MIDI]
+@="MIDI file"
+"Extensions"=".mid .midi .rmi"
+"MIME Types"="audio/mid audio/midi audio/x-midi"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Groups\Audio\MP3]
+@="MP3 file"
+"Extensions"=".mp3 .m3u"
+"MIME Types"="audio/mpeg audio/x-mpegurl"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Groups\Audio\WAV]
+@="Audio file"
+"Extensions"=".wav"
+"MIME Types"="audio/wav audio/x-wav"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Groups\Audio\WMA]
+@="Windows Media audio file"
+"Extensions"=".wma .wax"
+"MIME Types"="audio/x-ms-wma audio/x-ms-wax"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Groups\Video]
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Groups\Video\ASF]
+@="Microsoft streaming media file"
+"Extensions"=".asf .asx .lsf .lsx"
+"MIME Types"="application/x-mplayer2 video/x-ms-asf video/x-la-asf video/x-ms-asf-plugin"
+"Protocols"="mms mmst mmsu msbd"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Groups\Video\AVI]
+@="Video file"
+"Extensions"=".avi"
+"MIME Types"="video/avi video/msvideo video/x-msvideo"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Groups\Video\IVF]
+@="Indeo Video File"
+"Extensions"=".ivf"
+"MIME Types"="video/x-ivf"
+"RequiredFile"="C:\\WINDOWS\\SYSTEM\\ivfsrc.ax"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Groups\Video\MPEG]
+@="Movie File (MPEG)"
+"Extensions"=".mpeg .mpg .mpe .mpv .m1v .mp2 .mpv2 .mp2v .mpa"
+"MIME Types"="video/mpeg video/x-mpeg video/x-mpeg2a"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Groups\Video\QT]
+@="QuickTime file"
+"Extensions"=".mov .qt"
+"MIME Types"="video/quicktime"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Groups\Video\RA]
+"Protocols"="pnm"
+"MIME Types"="audio/x-pn-realaudio"
+"Extensions"=".ra .ram .rm .rmm"
+"RequiredFile"="C:\\PROGRA~1\\WINDOW~2\\pnwrap.dll"
+@="RealMedia file"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\MIME Types]
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\MIME Types\audio/mpeg]
+@="MP3 file"
+"Extensions.CommaSep"="mp3"
+"Extensions.SpaceSep"=".mp3"
+"Extension.Key"=".mp3"
+"ReplaceApps"="mplayer2.exe|amovie.ocx"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\MIME Types\audio/x-mpegurl]
+@="M3U file"
+"Extensions.CommaSep"="m3u"
+"Extensions.SpaceSep"=".m3u"
+"Extension.Key"=".m3u"
+"ReplaceApps"="mplayer2.exe|amovie.ocx"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\MIME Types\audio/basic]
+@="Audio file"
+"Extensions.CommaSep"="au,snd"
+"Extensions.SpaceSep"=".au .snd"
+"Extension.Key"=".au"
+"ReplaceApps"="mplayer2.exe|amovie.ocx"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\MIME Types\audio/mid]
+@="MIDI file"
+"Extensions.CommaSep"="mid,midi,rmi"
+"Extensions.SpaceSep"=".mid .midi .rmi"
+"Extension.Key"=".mid"
+"ReplaceApps"="mplayer2.exe|amovie.ocx"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\MIME Types\audio/midi]
+@="MIDI file"
+"Extensions.CommaSep"="mid,midi,rmi"
+"Extensions.SpaceSep"=".mid .midi .rmi"
+"Extension.Key"=".mid"
+"ReplaceApps"="mplayer2.exe|amovie.ocx"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\MIME Types\audio/x-midi]
+@="MIDI file"
+"Extensions.CommaSep"="mid,midi,rmi"
+"Extensions.SpaceSep"=".mid .midi .rmi"
+"Extension.Key"=".mid"
+"ReplaceApps"="mplayer2.exe|amovie.ocx"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\MIME Types\audio/x-aiff]
+@="Audio file"
+"Extensions.CommaSep"="aif,aifc,aiff"
+"Extensions.SpaceSep"=".aif .aifc .aiff"
+"Extension.Key"=".aiff"
+"NavPrereg"="No"
+"ReplaceApps"="mplayer2.exe|amovie.ocx|iexplore.exe"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\MIME Types\audio/aiff]
+@="Audio file"
+"Extensions.CommaSep"="aif,aifc,aiff"
+"Extensions.SpaceSep"=".aif .aifc .aiff"
+"Extension.Key"=".aiff"
+"NavPrereg"="No"
+"ReplaceApps"="mplayer2.exe|amovie.ocx|iexplore.exe"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\MIME Types\audio/x-wav]
+@="Audio file"
+"Extensions.CommaSep"="wav"
+"Extensions.SpaceSep"=".wav"
+"Extension.Key"=".wav"
+"ReplaceApps"="mplayer2.exe|amovie.ocx"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\MIME Types\audio/wav]
+@="Audio file"
+"Extensions.CommaSep"="wav"
+"Extensions.SpaceSep"=".wav"
+"Extension.Key"=".wav"
+"ReplaceApps"="mplayer2.exe|amovie.ocx"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\MIME Types\video/mpeg]
+@="Movie File (MPEG)"
+"Extensions.CommaSep"="mpeg,mpg,mpe,mpv,m1v"
+"Extensions.SpaceSep"=".mpeg .mpg .mpe .mpv .m1v"
+"Extension.Key"=".mpeg"
+"ReplaceApps"="mplayer2.exe|amovie.ocx"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\MIME Types\video/quicktime]
+@="QuickTime file"
+"Extensions.CommaSep"="mov,qt"
+"Extensions.SpaceSep"=".mov .qt"
+"Extension.Key"=".mov"
+"NavPrereg"="No"
+"ReplaceApps"="amovie.ocx|mplayer2.exe|iexplore.exe"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\MIME Types\video/msvideo]
+@="Video file"
+"Extensions.CommaSep"="avi"
+"Extensions.SpaceSep"=".avi"
+"Extension.Key"=".avi"
+"ReplaceApps"="mplayer2.exe|amovie.ocx"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\MIME Types\video/avi]
+@="Video file"
+"Extensions.CommaSep"="avi"
+"Extensions.SpaceSep"=".avi"
+"Extension.Key"=".avi"
+"ReplaceApps"="mplayer2.exe|amovie.ocx"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\MIME Types\video/x-ivf]
+@="Video file"
+"Extensions.CommaSep"="ivf"
+"Extensions.SpaceSep"=".ivf"
+"RequiredFile"="C:\\WINDOWS\\SYSTEM\\ivfsrc.ax"
+"Extension.Key"=".ivf"
+"ReplaceApps"="mplayer2.exe|msdxm.ocx|amovie.ocx"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\MIME Types\video/x-la-asf]
+@="Microsoft streaming media file"
+"Extensions.CommaSep"="lsf,lsx"
+"Extensions.SpaceSep"=".lsf .lsx"
+"Extension.Key"=".lsx"
+"ReplaceApps"="mplayer2.exe|amovie.ocx|iexplore.exe"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\MIME Types\video/x-ms-asf]
+@="Microsoft streaming media file"
+"Extensions.CommaSep"="asf,asx"
+"Extensions.SpaceSep"=".asf .asx"
+"Extension.Key"=".asx"
+"ReplaceApps"="*.*"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\MIME Types\video/x-ms-asf-plugin]
+@="Microsoft streaming media file"
+"Extensions.CommaSep"="asf,asx"
+"Extensions.SpaceSep"=".asf .asx"
+"Extension.Key"=".asx"
+"ReplaceApps"="*.*"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\MIME Types\application/x-mplayer2]
+@="Microsoft streaming media file"
+"Extensions.CommaSep"="asf,asx"
+"Extensions.SpaceSep"=".asf .asx"
+"Extension.Key"=".asx"
+"ReplaceApps"="*.*"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\MIME Types\video/x-mpeg]
+@="Movie File (MPEG)"
+"Extensions.CommaSep"="mp2,mpa"
+"Extensions.SpaceSep"=".mp2 .mpa"
+"Extension.Key"=".mp2"
+"ReplaceApps"="mplayer2.exe|amovie.ocx"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\MIME Types\video/x-mpeg2a]
+@="Movie File (MPEG)"
+"Extensions.CommaSep"="mp2,mpv2,mp2v"
+"Extensions.SpaceSep"=".mp2 .mpv2 .mp2v"
+"Extension.Key"=".mp2"
+"ReplaceApps"="mplayer2.exe|amovie.ocx"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\MIME Types\video/x-msvideo]
+@="Video file"
+"Extensions.CommaSep"="avi"
+"Extensions.SpaceSep"=".avi"
+"Extension.Key"=".avi"
+"ReplaceApps"="mplayer2.exe|amovie.ocx"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\MIME Types\audio/x-pn-realaudio]
+@="RealMedia files"
+"Extensions.CommaSep"="ra,ram,rm,rmm"
+"Extensions.SpaceSep"=".ra .ram .rm .rmm"
+"Extension.Key"=".ra"
+"ReplaceApps"="mplayer2.exe|rvplayer.exe|raplayer.exe|pnclient.exe"
+"NavPrereg"="No"
+"RequiredFile"="C:\\Program Files\\Windows Media Player\\pnwrap.dll"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\MIME Types\audio/x-mid]
+@="MIDI file"
+"Extensions.CommaSep"="mid,midi,rmi"
+"Extensions.SpaceSep"=".mid .midi .rmi"
+"Extension.Key"=".mid"
+"ReplaceApps"="mplayer2.exe|amovie.ocx"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\MIME Types\audio/x-ms-wma]
+@="Windows Media audio file"
+"Extensions.CommaSep"="wma"
+"Extensions.SpaceSep"=".wma"
+"Extension.Key"=".wma"
+"ReplaceApps"="mplayer2.exe|msdxm.ocx"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\MIME Types\audio/x-ms-wax]
+@="Windows Media audio file"
+"Extensions.CommaSep"="wax"
+"Extensions.SpaceSep"=".wax"
+"Extension.Key"=".wax"
+"ReplaceApps"="mplayer2.exe|msdxm.ocx"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\MIME Types\midi/mid]
+@="MIDI file"
+"Extensions.CommaSep"="mid,midi,rmi"
+"Extensions.SpaceSep"=".mid .midi .rmi"
+"Extension.Key"=".mid"
+"ReplaceApps"="mplayer2.exe|amovie.ocx"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\MIME Types\video/x-ms-wm]
+@="Windows Media audio/video file"
+"Extensions.CommaSep"="asf,asx,wm"
+"Extensions.SpaceSep"=".asf .asx .wm"
+"Extension.Key"=".asx"
+"ReplaceApps"="*.*"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Protocols]
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Protocols\mms]
+"MIMEType"="video/x-ms-asf"
+"Source Filter"="{6B6D0800-9ADA-11d0-A520-00A0D10129C0}"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Protocols\mmst]
+"MIMEType"="video/x-ms-asf"
+"Source Filter"="{6B6D0800-9ADA-11d0-A520-00A0D10129C0}"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Protocols\mmsu]
+"MIMEType"="video/x-ms-asf"
+"Source Filter"="{6B6D0800-9ADA-11d0-A520-00A0D10129C0}"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Protocols\msbd]
+"MIMEType"="video/x-ms-asf"
+"Source Filter"="{6B6D0800-9ADA-11d0-A520-00A0D10129C0}"
+"AlreadyRegistered"="yes"
+
+[HKEY_LOCAL_MACHINE\Software\Microsoft\Multimedia\MPlayer2\Protocols\pnm]
+"MIMEType"="audio/x-pn-realaudio"
+"RequiredFile"="C:\\PROGRA~1\\WINDOW~2\\pnwrap.dll"
+"Source Filter"="{32CB4536-2EB2-11d1-BD46-00C04FB6B4CA}"
+"AlreadyRegistered"="yes"
+

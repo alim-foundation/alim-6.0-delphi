@@ -1,0 +1,267 @@
+<html>
+
+<head>
+<title>Summary of Supported Tags and Attributes</title>
+</head>
+
+<body background="bkgnd.jpg" link="#3737eb" bgcolor="white">
+
+<p align="center"><b><font SIZE="+2" color="#a53737">HTML
+  Components</font><br>
+<font SIZE="-2" color="733737">Version 7.01</font><br>
+<font color="#737373">Summary of Supported Tags and Attributes</font><br>
+<font Size="2" color="373737">Version 7 additions shown in <font color="red">red</font></font> </b><br>
+
+<hr color="#808080" size=2 width=60%>
+<p>
+<ul>
+  <li><a HREF="#Document">Document Tags</a> </li>
+  <li><a HREF="#Physical">Physical Phrase Markup Tags</a> </li>
+  <li><a HREF="#Logical">Logical Phrase Markup Tags</a> </li>
+  <li><a HREF="#Block">Block Tags</a> </li>
+  <li><a HREF="#Lists">Lists</a> </li>
+  <li><a HREF="#Description">Description List</a> </li>
+  <li><a HREF="#Tables">Tables</a> </li>
+  <li><a HREF="#Forms">Forms</a> </li>
+  <li><a HREF="#Character">Character Level Elements</a> </li>
+  <li><a HREF="#Anchors">Anchors</a> </li>
+  <li><a HREF="#Maps">Client Side Image Maps</a> </li>
+  <li><a HREF="#Miscellaneous">Miscellaneous</a> </li>
+  <li><a HREF="#Frames">TFrameViewer Frame Syntax</a> </li>
+</ul>
+
+<hr color="#808080" size=2 width=95%>
+
+<h4><a NAME="Document"><font color="#737373">Document Tags</font></a></h4>
+
+<pre>&lt;HTML&gt;...&lt;/HTML&gt;
+&lt;HEAD&gt;...&lt;/HEAD&gt;
+&lt;BASE&gt;
+   HREF=base
+&lt;TITLE&gt;...&lt;/TITLE&gt;
+&lt;BODY&gt;...&lt;/BODY&gt;
+   BACKGROUND=bitmap
+   TEXT=<a
+HREF="#Colors">color</a>
+   BGCOLOR=<a HREF="#Colors">color</a>
+   LINK=<a HREF="#Colors">color</a>
+   <font color="red"><b>VLINK</b></font>=<a HREF="#Colors">color</a>
+   <font color="red"><b>OLINK</b></font>=<a HREF="#Colors">color</a></pre>
+
+<hr color="#808080" size=2 width=95%>
+
+<h4><font color="#737373"><a NAME="Physical">Physical Phrase Markup Tags</a></font></h4>
+
+<pre>&lt;B&gt;...&lt;/B&gt;
+&lt;I&gt;...&lt;/I&gt;
+&lt;U&gt;...&lt;/U&gt;
+&lt;TT&gt;...&lt;/TT&gt;
+&lt;S&gt;...&lt;/S&gt;
+&lt;FONT&gt;...&lt;/FONT&gt;
+   SIZE=n  (n=1..7) or SIZE=+-n (incremental change)
+   COLOR=<a
+HREF="#Colors">color</a>
+   FACE=facename
+&lt;SUB&gt;...&lt;/SUB&gt;
+&lt;SUP&gt;...&lt;/SUP&gt;
+&lt;BIG&gt;...&lt;/BIG&gt;
+&lt;SMALL&gt;...&lt;/SMALL&gt;
+&lt;STRIKE&gt;...&lt;/STRIKE&gt;
+</pre>
+
+<hr color="#808080" size=2 width=95%>
+
+<h4><font color="#737373"><a NAME="Logical">Logical Phrase Markup Tags</a></font></h4>
+
+<pre>&lt;EM&gt;...&lt;/EM&gt;
+&lt;STRONG&gt;...&lt;/STRONG&gt;
+&lt;CITE&gt;...&lt;/CITE&gt;
+&lt;VAR&gt;...&lt;/VAR&gt;
+&lt;CODE&gt;...&lt;/CODE&gt;
+&lt;KBD&gt;...&lt;/KBD&gt;
+&lt;SAMP&gt;...&lt;/SAMP&gt;</pre>
+
+<hr color="#808080" size=2 width=95%>
+
+<h4><font color="#737373"><a NAME="Block">Block Tags</a></font></h4>
+
+<pre>&lt;P&gt;...(&lt;/P&gt;)
+    ALIGN=left|center|right
+&lt;ADDRESS&gt;...&lt;/ADDRESS&gt;
+&lt;BLOCKQUOTE&gt;...&lt;/BLOCKQUOTE&gt;
+&lt;PRE&gt;...&lt;/PRE&gt;
+&lt;CENTER&gt;...&lt;/CENTER&gt;
+&lt;DIV&gt;...&lt;/DIV&gt;
+    ALIGN=left|center|right</pre>
+
+<hr color="#808080" size=2 width=95%>
+
+<h4><font color="#737373"><a NAME="Lists">Lists</a></font></h4>
+
+<pre>&lt;OL&gt;...&lt;/OL&gt;
+   START=value
+   TYPE=1|a|A|i|I
+&lt;UL&gt;...&lt;/UL&gt;
+   PLAIN
+&lt;DIR&gt;...&lt;/DIR&gt;
+&lt;MENU&gt;...&lt;/MENU&gt;
+  &lt;LI&gt;...(&lt;/LI&gt;)</pre>
+
+<hr color="#808080" size=2 width=95%>
+
+<h4><font color="#737373"><a NAME="Description">Description List</a></font></h4>
+
+<pre>&lt;DL&gt;...&lt;/DL&gt;
+  &lt;DD&gt;...&lt;/DD&gt;
+  &lt;DT&gt;...&lt;/DT&gt;</pre>
+
+<hr color="#808080" size=2 width=95%>
+
+<h4><font color="#737373"><a NAME="Tables">Tables</a></font></h4>
+
+<pre>&lt;TABLE&gt;...&lt;TABLE&gt;
+   BORDER or BORDER=0
+   ALIGN=left|center|right
+   CELLSPACING=value
+   CELLPADDING=value
+   WIDTH=n|n%
+   BGCOLOR=<a
+HREF="#Colors">color</a>
+   BORDERCOLOR=<a HREF="#Colors">color</a>
+&lt;CAPTION&gt;...&lt;/CAPTION&gt;
+   ALIGN=top|bottom
+&lt;TR&gt;...&lt;/TR&gt;
+   VALIGN=top|center|bottom
+   ALIGN=left|center|right
+   BGCOLOR=<a
+HREF="#Colors">color</a>
+&lt;TH&gt;...&lt;/TH&gt;, &lt;TD&gt;...&lt;/TD&gt;
+   ROWSPAN=n
+   COLSPAN=n
+   WIDTH=n|n%
+   HEIGHT=n
+   VALIGN=top|center|bottom
+   ALIGN=left|center|right
+   BGCOLOR=<a
+HREF="#Colors">color</a></pre>
+
+<hr color="#808080" size=2 width=95%>
+
+<h4><font color="#737373"><a NAME="Forms">Forms</a></font></h4>
+
+<pre>&lt;FORM&gt;...&lt;/FORM&gt;
+   METHOD=post|get
+   ACTION=url
+&lt;INPUT&gt;...&lt;/INPUT&gt;
+   TYPE=text|password|submit|reset|radio|checkbox|hidden|image|button
+   NAME=string
+   VALUE=string
+   SIZE=chars       (text, password)
+   MAXLENGTH=chars  (text, password)
+   CHECKED          (radio, checkbox)
+   ONCLICK=string   (button, radio, checkbox)
+&lt;SELECT&gt;...&lt;/SELECT&gt;
+   NAME=string
+   MULTIPLE
+   SIZE=lines
+   &lt;OPTION&gt;...(&lt;/OPTION&gt;)
+      SELECTED
+      VALUE=string
+&lt;TEXTAREA&gt;...&lt;/TEXTAREA&gt;
+   NAME=string
+   ROWS=n
+   COLS=n
+   WRAP=off|soft|hard
+&lt;OPTION&gt;...&lt;/OPTION&gt;</pre>
+
+<hr color="#808080" size=2 width=95%>
+
+<h4><font color="#737373"><a NAME="Character">Character Level Elements</a></font></h4>
+
+<pre>&lt;BR&gt;
+   CLEAR=left|right
+&lt;IMG&gt;
+   SRC=image
+   ALT=string
+   ALIGN=top|middle|bottom|left|right
+   BORDER=0
+   WIDTH=n,n%
+   HEIGHT=n
+   TRANSP   (non-standard, Lower Left pixel defines transparent color
+   IMAGEMAP
+   USEMAP=url (local URL only)
+   <font color="red"><b>ACTIVE</b></font>
+   </pre>
+
+<hr color="#808080" size=2 width=95%>
+
+<h4><font color="#737373"><a NAME="Anchors">Anchors</a></font></h4>
+
+<pre>&lt;A&gt;...&lt;/A&gt;
+   HREF=url
+   NAME=string </pre>
+
+<hr color="#808080" size=2 width=95%>
+
+<h4><font color="#737373"><a NAME="Maps">Client Side Image Maps</a></font></h4>
+
+<pre>&lt;MAP&gt;...&lt;/MAP&gt;
+   NAME=string
+&lt;AREA&gt;
+   SHAPE=RECT|CIRC|CIRCLE|POLY|POLYGON
+   COORDS=&quot;n1, n2, ...., nn&quot;
+   HREF=url
+   NOHREF
+</pre>
+
+<hr color="#808080" size=2 width=95%>
+
+<h4><font color="#737373"><a NAME="Miscellaneous">Miscellaneous</a></font></h4>
+
+<pre>&lt;Hn&gt;...&lt;/Hn&gt;   n = 1..6
+   ALIGN=left|center|right
+&lt;HR&gt;
+   SIZE=n
+   WIDTH=n|n%
+   COLOR=<a href="#colors">color</a>
+   ALIGN=left|center|right
+   NOSHADE
+&lt;BASEFONT&gt;
+   SIZE=n  (n=1..7) or SIZE=+-n (incremental change)
+&lt;BGSOUND&gt;
+   SRC=filename
+   LOOP=n
+</pre>
+
+<hr color="#808080" size=2 width=95%>
+
+<h4><font color="#737373"><a NAME="Frames">TFrameViewer Frame Syntax</a></font></h4>
+
+<pre>&lt;FRAMESET&gt;...&lt;/FRAMESET&gt;
+   ROWS|COLS=n1, n2, .., nn  (absolute, %, or *)
+   BORDER=n    (Main FRAMSET only)
+   FRAMEBORDER=n    (Main FRAMSET only)
+&lt;FRAME&gt;
+   SRC=filename
+   NAME=windowname
+   SCROLLING=yes|no|auto
+   NORESIZE
+   MARGINHEIGHT=n
+   MARGINWIDTH=n
+&lt;NOFRAMES&gt;...&lt;/NOFRAMES&gt;
+</pre>
+
+<hr color="#808080" size=2 width=95%>
+
+<h4><font color="#737373"><a NAME="colors">Color Syntax</a></font></h4>
+
+<p>Color information may consist of a hexidecimal red, green, and blue value such as
+FF8000 or be one of the following identifiers: </p>
+
+<pre>
+   Black, Maroon, Green, Olive, Navy, Purple, Teal, Gray,
+   Silver, Red, Lime, Yellow, Blue, Fuchsia, Aqua, White
+</pre>
+
+</body>
+</html>

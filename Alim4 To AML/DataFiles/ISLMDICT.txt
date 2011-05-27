@@ -1,0 +1,705 @@
+.Title Islamic Terms Dictionary
+.shortName Dictionary
+.bookID DCT
+.makeContentsPage Index of Terms
+.haveNonScrollRegion 0
+;----------------------------------------------------------------------------
+.Topic diAbna "Abna"
+means sons or children.  It is used for children who had Persian fathers and Arab mothers.
+.EndTopic
+;--------------------------------
+.Topic diAdhan "Adhan"
+the Muslim call to prayer.  It is used to signify the time of prayer for the five obligatory prayers.
+.EndTopic
+;----------------------------
+.Topic diAh "A.H."
+means After {Hijrah::diHijrah}.  It is the reference used in the Islamic calender, instead of A.D. which is used in the Christian calender.
+.EndTopic
+;-----------------------
+.Topic diAhlray "Ahl ar-Ra'y"
+means people of opinion.  It is refers to people that are consulted on Islamic matters.  These people are highly learned in Islam.
+.EndTopic
+;-------------------------------
+.Topic diAhzab "Ahzab"
+means parties. Ahzab is used to describe the different tribes that fought the Muslims in the Battle of the Ditch in {627::date627} {C.E::diCe}, 5 {AH::diAh}.
+.EndTopic
+;-------------------------------.
+.Topic diMubashir "Al-asharatu Mubashshirun"
+the ten people that were given the glad tiddings of assurance of entering Paradise.  They were {Abu Bakr::biBakr}, {Umar::biUmar}, {Uthman::biUthman}, {Ali::biAli}, {Abdur Rahman ibn Awf::biAwf}, {Abu Ubaydah ibn al-Jarrah::biUbaydah}, {Talhah ibn Ubaydullah::biTalhah}, {az-Zubayr ibn al-Awwam::biAwwam}, {Sa'd ibn Abi Waqqas::biWaqqas}, {Sa'id ibn Zayd::biZayd}.
+.EndTopic
+;-------------------------------
+.Topic diAlim "Alim"
+a learned person in Islam, scholar.
+.EndTopic
+;----------------------------------
+.Topic diAllahu "Allahu Akbar"
+Allah is Great (God is Great).  It was frequently used by the Muslim forces as their battle cry.
+.EndTopic
+;---------------------------------
+.Topic diAmin "Amin"
+means custodian or guardian.  Someone who is loyal or faithful.
+.EndTopic
+;--------------------------
+.Topic diAmir "Amir"
+means leader or commander.
+.EndTopic
+;---------------------------
+.Topic diMumineen "Amir al-Mumineen"
+means commander of the belivers.  This title was given to the {Khalifah::diKhalifa}.
+.EndTopic
+;--------------------------------
+.Topic diAnsar "Ansar"
+means helpers.  These were the people of {Madinah::diMadinah} who responded to the Prophet's call to Islam and offered Islam a city-state power.
+.EndTopic
+;--------------------------------
+.Topic diAqabah "Aqabah"
+a place just outside of Mecca, in {Mina::diMina} where the first Muslims from {Yathrib::diYathrib} {Madinah::diMadinah} pledged allegiance to the Prophet in the year {621::date621} {C.E.::diCe}.  A similar meeting took place the next year when more Muslims from {Yathrib::diYathrib} pledged their allegiance to the Prophet.
+.EndTopic
+;----------------------------------
+.Topic diArafat "Arafat"
+a plain north of Mecca.  It is on this plain that humanity will be raised on the Day of Judgement for questioning and judgement.  During the {hajj::diHajj} on the ninth day of the month of Zhu-l-Hijjah, Muslim pilgrims gather on this plain for one day.
+.EndTopic
+;----------------------------
+.Topic diAsabiya "Asabiyyah"
+means tirbal loyalty, nationalism.
+.EndTopic
+;---------------------------
+.Topic diAsr "Asr"
+the late afternoon obligatory {salat::diSalat}, prayer.
+.EndTopic
+;---------------------------
+.Topic diAwqiyyah "Awqiyyah"
+means weight, like the ones used to weigh items.
+.EndTopic
+;-----------------------------------------
+.Topic diAwrah "Awrah"
+parts of the body that are not supposed to be exposed to others.  For men this is from the navel to the knee.  For the women it is all of her body except the hands, feet, and face.
+.EndTopic
+;-------------------------------
+.Topic diKursi "Ayat-ul-Kursi"
+Surah {Baqara Ayah 256:>qs2.256} of the Quran.  It is called the throne of the Quran.
+.EndTopic
+;----------------------------------
+.Topic diAyah "Ayah"
+means a sign which leads or directs one to something important.  An individual verse in the Quran.
+.EndTopic
+;--------------------------------------
+.Topic diAyat "Ayat"
+it is the plural form of {ayah::diAyah}.
+.EndTopic
+;--------------------------------------
+.Topic diBadiyyah "Badiyyah"
+a desert or semi-arid environment.
+.EndTopic
+;--------------------------------------
+.Topic diBadr "Badr"
+the first full military confrontation between the Muslims and the enemies of Allah.  The battle took place between the Muslims and the {Quraysh::diQuraish} of Mecca in the second year of {Hijrah::diHijrah} ({624::date624} {CE::diCE}).  Eventhough the Muslims were outnumbered, the final result was to their favor.
+.EndTopic
+;--------------------------------------
+.Topic diBakkain "Bakka'in"
+means weepers.  These were the people that could not accompany the Prophet on his campaign to Tabuk because they lacked the resources to do so.  They started to weep when they could not go.
+.EndTopic
+;----------------------------------
+.Topic diBaqi "Baqi"
+the cemetery where a good many of the {sahaba::diSahabah} are buried.  It is in the south-east side of Madinah.
+.EndTopic
+;------------------------------------
+.Topic diBarakah "Barakah"
+means blessing or Divine Grace.
+.EndTopic
+;------------------------------------
+.Topic diBatil "Batil"
+means false of falsehood.
+.EndTopic
+;--------------------------------------
+.Topic diBatul "Batul"
+means ascetic.  It is ascribed to Fatimah (the Prophets daughter) and the Virgin Mary.
+.EndTopic
+;------------------------------------
+.Topic diBawadi "Bawadi"
+plural form of {badiyyah::diBadiyyah}.
+.EndTopic
+;---------------------------------
+.Topic diBayah "Bay'ah"
+it is an oath of allegiance.  To make a pledge.
+.EndTopic
+;------------------------------
+.Topic diBaytmal "Bayt al-Mal"
+the State Treasury in an Islamic State.
+.EndTopic
+;------------------------------------
+.Topic diBismilah "Bismillah"
+In the name of Allah (God).
+.EndTopic
+;--------------------------------------
+.Topic diBithah "Bi'thah"
+the beginning of the Prophet's mission, his call to Prophethood in {610::date610} {C.E.::diCe}.
+.EndTopic
+;-------------------------------
+.Topic diBusr "Busr"
+means partially ripe dates.
+.EndTopic
+;------------------------------------------
+.Topic diCe "C.E."
+stands for Christian Era.  It is used instead of A.D. in Islamic text referring to the dates before the {Hijrah::diHijrah}.
+.EndTopic
+;------------------------------------
+.Topic diCovenant "Covenant"
+a solemn agreement between two or more persons or groups, a compact between God and man. The Old Testament tells of the covenant the Jews made with Allah.
+.EndTopic
+;----------------------------------
+.Topic diDaff "Daff"
+tambourine used in Arabia.
+.EndTopic
+;---------------------------------
+.Topic diDaiy "Da'iy"
+Muslim missionary involved in {da'wah::diDawah}.  It can also have a general meaning reffering to someone who calls others to a certain belief.
+.EndTopic
+;---------------------------------------
+.Topic diDawah "Da'wah"
+inviting others to Islam.  Missionary work.
+.EndTopic
+;----------------------------------------------
+.Topic diDhikr "Dhikr"
+remembrance for the sake of Allah.
+.EndTopic
+;-------------------------------------
+.Topic diDhimmi "Dhimmi"
+a non-Muslim living under the protection of a Muslim state.  He is exempt from duties of Islam like military and {zakat::diZakat} but must instead pay a tax called {jizyah::diJizyah}.
+.EndTopic
+;------------------------------------
+.Topic diDirham "Dirham"
+a silver coin.
+.EndTopic
+;----------------------------------------
+.Topic diNurayn "Dhu-n Nurayn"
+it means 'Possessor of the Two Lights'.  It is used to refer to {Uthman ibn Affan::biUthman} because he married two of the Prophet's daughters.
+.EndTopic
+;-----------------------------------
+.Topic diDin "Din"
+means way of life or religion.
+.EndTopic
+;----------------------------------
+.Topic diDua "Du'a"
+a prayer.
+.EndTopic
+;-----------------------------------------
+.Topic diDuat "Du'at"
+plural of {da'iy::diDaiy}.
+.EndTopic
+;----------------------------------------
+.Topic diDunya "Dunya"
+this world or life, as opposed to the Hereafer.
+.EndTopic
+;-------------------------------------
+.Topic diFajr "Fajr"
+the obligatory {salat::diSalat}, prayer, before sunrise.
+.EndTopic
+;-----------------------------------
+.Topic diFaqih "Faqih"
+a person who is an expert on Islamic jurisprudence (law), fiqh.
+.EndTopic
+;------------------------------------
+.Topic diFard "Fard"
+something which is obligatory on a Muslim.  It is sometimes used in reference to the obligatory part of {salat::diSalat}.
+.EndTopic
+;------------------------------------------------------
+.Topic diFaruq "Faruq"
+this was the name given to {Uman ibn al-Khattab::biUmar}.  It means 'One who distinguishes the truth from falsehood'.
+.EndTopic
+;------------------------------------
+.Topic diFatwa "Fatwa"
+legal opinion concerning Islamic Law.
+.EndTopic
+;---------------------------------
+.Topic diFiqh "Fiqh"
+Islamic law.
+.EndTopic
+;---------------------------------------
+.Topic diFitnah "Fitnah"
+means civil strife, war, riots.
+.EndTopic
+;------------------------------------
+.Topic diFuqaha "Fuqaha"
+plural form of {faqih::diFaqih}.
+.EndTopic
+;-----------------------------------------
+.Topic diGhazi "Ghazi"
+Muslim soldier, warrior.
+.EndTopic
+;---------------------------------------
+.Topic diGhazwah "Ghazwah"
+military expedition.
+.EndTopic
+;--------------------------------------
+.Topic diHadith "Hadith"
+sayings of the Prophet.
+.EndTopic
+;---------------------------------------
+.Topic diHadithq "Hadith Qudsi"
+the Hadith Qudsi are hadith's in which the Prophet says the Allah says so and so.  The meaning of the these {hadith::diHadith} was revealed to the Prophet but he put them in his own words, unlike the Quran which is the word of Almighty Allah and the Prophet conveyed it exactly as it was revealed to him.
+.EndTopic
+;-----------------------------------
+.Topic diHajj "Hajj"
+means effort.   The Hajj is the pilgrimage to Mecca that is obligatory on every Muslim.  It is one of the five pillars of Islam and takes place during the Islamic month of Zhul al-Hijjah. A Muslim must perform the Hajj at least once in his life.  The exception to this is financial and health reasons.
+.EndTopic
+;-----------------------------------------
+.Topic diHalal "Halal"
+something that is lawful and permitted in Islam.
+.EndTopic
+;----------------------------------------------------
+.Topic diHalif "Halif"
+a person who enjoys the protection of a tribe but does not belong to it by blood.
+.EndTopic
+;---------------------------------------
+.Topic diHalqah "Halqah"
+a group of students involved in the study of Islam.
+.EndTopic
+;-------------------------------------
+.Topic diHanif "Hanif"
+people who during the time of {jahiliyyah::diJahil} rejected the idolatry in their society.  These people were in search for the true religion of Prophet Abraham.
+.EndTopic
+;--------------------------------
+.Topic diHaqq "Haqq"
+the Truth.
+.EndTopic
+;------------------------------
+.Topic diHaraam "Haraam"
+something which is unlawful or prohibited in Islam.
+.EndTopic
+;-----------------------------------
+.Topic diMasjidHaram "Haram"
+a Haram is a sanctuary, a sacred territory. Mecca has been considered a Haram since the time of Abraham.  All things within the limit of the Haram are protected and considered inviolable {Madinah::diMadinah} was also declared a Haram by the Prophet.
+.EndTopic
+;-----------------------------------
+.Topic  diHijrah "Hijrah"
+means migration.  The Hijrah refers to the Prophet's migration from Mecca to Madinah.  This journey took place in the twelfth year of his mission ({622::date622} {CE::diCe}).   This is the beginning of the Muslim calendar. The word hijrah means to leave a place to seek sancturary or freedom from persecution or freedom of religion or any other purpose.  Hijrah can also mean to leave a bad way of life for a good or more righteous way.
+.EndTopic
+;--------------------------------------
+.Topic diHudud "Hudud"
+the limits ordained by Allah.  This includes the punishment for crimes.
+.EndTopic
+;-------------------------------
+.Topic diImam "Imam"
+leader of the congregational prayer, {salat::diSalat}, that the Muslims offer five times a day.  It is sometimes used to refer to the head of an Islamic State.
+.EndTopic
+;--------------------------------
+.Topic diIman "Iman"
+faith and trust in Allah.
+.EndTopic
+;---------------------------------
+.Topic diInjil "Injil"
+the revelations that were sent down during the time of Prophet Isa (Jesus).  It is reffered to as the New Testament.
+.EndTopic
+;---------------------------------
+.Topic diIqamah "Iqamah"
+means establishing.  It is similar to the {adhan::diAdhan} with the addition of a pharse that signifies that a compulsory prayer, {fard::diFard}, is about to begin.
+.EndTopic
+;---------------------------------
+.Topic diIsha "Isha"
+the obligatory {salat::diSalat}, prayer, after sunset later in the evening.
+.EndTopic
+;----------------------------------
+.Topic diIstighfa "Istighfar"
+to seek Allah's forgiveness.  It is something that must be done continuously in a Muslims life.
+.EndTopic
+;---------------------------------
+.Topic diJahannam "Jahannam"
+means Hell.
+.EndTopic
+;-----------------------------------
+.Topic diJahil "Jahiliyyah"
+means ignorant.  Jahiliyyah refers to the pre-Islamic era that existed in Arabia.  It is a combination of views, ideas, and practices that totally defy and reject the guidance sent down by God through His Prophets.
+.EndTopic
+;--------------------------------------
+.Topic diJalbab "Jalbab"
+this is a long loose fitting garment worn by the Arabs.
+.EndTopic
+;---------------------------------
+.Topic diJannah "Jannah"
+means Paradise.
+.EndTopic
+;-----------------------------------
+.Topic diJihad "Jihad"
+means to strive.  This can be any kind of striving in the way of God which involves either spiritual or personal effort, material resources, or arms.  Jihad is also used to refer to a war waged by the Muslims for the defence or advancement of Islam; it's interests and ideals.
+.EndTopic
+;--------------------------------------
+.Topic diJizyah "Jizyah"
+a tax paid by non-Muslims living in a Muslim State.  Since the non-Muslims are exempt from military service and taxes imposed on Muslims, they must pay this tax to compensate.  It guarentees them security and protection.  If the State cannot protect those who paid jizyah, then the amount they paid is returned to them.
+.EndTopic
+;----------------------------------
+.Topic diKabah "Ka'bah"
+the first house of worship built for mankind.  It was originally built by Adam and later on reconstructed by Abraham and Isma'il.  It is a cubed shaped structure based in the city of Mecca to which all Muslims turn to in their five daily paryers.
+.EndTopic
+;--------------------------------------
+.Topic diKafir "Kafir"
+a person who refuses to submit himself to Allah (God), a disbeliever in God.
+.EndTopic
+;------------------------------
+.Topic diKhalifa "Khalifah"
+in the begining it was a reference to the successor of the Prophet.  Later on it began to take on the meaning of head of state for a Muslim nation.
+.EndTopic
+;----------------------------
+.Topic diKhandaq "Khandaq"
+means ditch.
+.EndTopic
+;------------------------
+.Topic diKhatib "Khatib"
+orator, speaker.
+.EndTopic
+;-------------------
+.Topic diKhutbah "Khutbah"
+a speech or sermon.  It is sometimes used to refer to the sermon given during the Friday cogregational prayer.
+.EndTopic
+;-----------------------
+.Topic diKuffar "Kuffar"
+plural form of {kafir::diKafir}.
+.EndTopic
+;---------------------------------
+.Topic diKufr "Kufr"
+to show ungratefulness to Allah and not to believe in Him and His religion.
+.EndTopic
+;-------------------------
+.Topic diLaat "Laat"
+a chief goddess in the religion of the pre-Islamic Arabs during the days of {jahiliyyah::diJahil}.
+.EndTopic
+;--------------------------------
+.Topic diMadinah "Madinah"
+the first city-state that came under the banner of Islam.  It is where the Prophet's {masjid::diMasjid} and grave are situated.
+.EndTopic
+;--------------------------------------
+.Topic diMaghazi "Maghazi"
+the military campaigns of the Prophet.
+.EndTopic
+;-----------------------------------
+.Topic diMaghrib "Maghrib"
+the obligatory {salat::diSalat}, prayer, that is performed right after the sun sets over the horizon.
+.EndTopic
+;-----------------------------
+.Topic diMahr "Mahr"
+a dowry given by the man to the woman he is about to marry.  It is part of the Muslim marriage contract.  It can never be demanded back under any circumstances.
+.EndTopic
+;--------------------------------------
+.Topic diMarwah "Marwah"
+a mound near the {Ka'bah::diKabah} that is referred to in the Quran as one of the symbols of Allah. It is in conjuction with {safa::diSafa}.
+.EndTopic
+;------------------------------------
+.Topic diMasjid "Masjid"
+a place of worship and {salat::diSalat}.  The life of the early Muslims used to revolve around the masjid.  Meetings would be held there, discussions would take place there.  It is called a 'mosque' in English.
+.EndTopic
+;-----------------------------------
+.Topic diMawla "Mawla"
+a person of slave origin who does not have tribal protection.  It is a word with dual meaning. It can mean either master or servant.
+.EndTopic
+;-------------------------------
+.Topic diMawlaya "Mawlaya"
+a form of address to a ruler implying protector.
+.EndTopic
+;-------------------------------
+.Topic diMihrab "Mihrab"
+a recess in the {masjid::diMasjid} that indicates the direction of {salat::diSalat}.
+.EndTopic
+;-----------------------------
+.Topic diMina "Mina"
+a plain within the bounds of the {haram::diMasjidHaram} of Mecca, within five kilometers outside the city.  During the {hajj::diHajj} the pilgrims pass the night between the eighth and ninth day proceed to {Arafat::diArafat} on the ninth day.
+.EndTopic
+;----------------------------
+.Topic diMinbar "Minbar"
+a pulpit.
+.EndTopic
+;------------------------------
+.Topic diMuadhdhin "Muadh-dhin"
+the person who calls the {adhan::diAdhan}.
+.EndTopic
+;------------------------------
+.Topic diMuhajir "Muhajir"
+a person who does {hijrah::diHijrah}.
+.EndTopic
+;---------------------------------
+.Topic diMujahid "Mujahid"
+someone who is active and fights for Islam.  A Muslim fighter.  The opposite of {qaideen::diQaideen}.
+.EndTopic
+;-----------------------------------
+.Topic diMumin "Mu'min"
+a person who has deep faith in Allah and is a righteous and obedient servant of His.
+.EndTopic
+;--------------------------------
+.Topic diMunafiq "Munafiq"
+a hypocrite, more dangerous and worse than a {kafir::diKafir}.
+.EndTopic
+;--------------------------------
+.Topic diMurabit "Murabit"
+a person who is on the road spreading Islam.
+.EndTopic
+;-----------------------------
+.Topic diMusalaymah "Musalaymah"
+Undefined.
+.EndTopic
+;--------------------------------
+.Topic diMusadfin "Musad'afin"
+a weak and oppressed person.
+.EndTopic
+;--------------------------
+.Topic diMushaf "Mushaf"
+a copy of the Quran.
+.EndTopic
+;---------------------------
+.Topic diMushawa "Mushawarah"
+means consultation.
+.EndTopic
+;----------------------------------
+.Topic diMushrik "Mushrik"
+a polythiest.  A person who ascribes partners to Allah.
+.EndTopic
+;--------------------------------
+.Topic diNasab "Nasab"
+means lineage or geneology.
+.EndTopic
+;-----------------------------
+.Topic diNasihah "Nasihah"
+means sincere good advice.
+.EndTopic
+;-----------------------------
+.Topic diQadi "Qadi"
+judge.
+.EndTopic
+;--------------------------------
+.Topic diQaideen "Qaideen"
+people who remain inactive and do not actively fight.  The opposit of {mujahid::diMujahid}.
+.EndTopic
+;----------------------------------
+.Topic diQard "Qard"
+a loan given for a good cause in the name of Allah, in hopes of repayment or reward in the Hereafter.
+.EndTopic
+;----------------------------
+.Topic diQari "Qari"
+someone who recites the Quran.
+.EndTopic
+;---------------------------------
+.Topic diQiblah "Qiblah"
+it is the direction that Muslims face when they do their {salat::diSalat}.  It is in the direction of the {Ka'bah::diKabah} in Mecca.
+.EndTopic
+;--------------------------------
+.Topic diQisas "Qisas"
+retaliation in kind (eye for an eye).  In Islam though, retaliation should be forgone as an act of charity {sura::diSura} 5, {ayah::diAyah} 48.
+.EndTopic
+;-----------------------------------
+.Topic diQiyamah "Qiyamah"
+Day of Judgement, resurrection.
+.EndTopic
+;-----------------------------------
+.Topic diQudah "Qudah"
+plural form of {qadi::diQadi}.
+.EndTopic
+;---------------------------------
+.Topic diQuraish "Quraysh"
+the most powerful and prominent tribe in all of Arabia in the Prophet's era.  The Quraysh were the keepers of the {Ka'bah::diKabah}  and therefore one of the wealthiest and most powerful tribes. The Prophet was from among the Quraysh.  When he started to preach the True religion of Allah, the Quraysh violently persecuted him and his followers.  They were badly defeated at the battle of {Badr::diBadr} by the Muslims and their days of {jahiliyyah::diJahil} were finally ended when the Muslims liberated Mecca and destroyed all the idols in the {Ka'bah::diKabah} in the year {630::date630} {CE::diCE}
+.EndTopic
+;----------------------------
+.Topic diRakat "Ra'kat"
+an individual unit of {salat::diSalat}.
+.EndTopic
+;-----------------------------
+.Topic diRamadan "Ramadan"
+the holy month of prescribed fasting for the Muslims.  It was during this month that the Quranic revelations began.
+.EndTopic
+;--------------------------
+.Topic diRasul "Rasulullah"
+the Messenger of Allah (God).
+.EndTopic
+;-----------------------------
+.Topic diRuku "Ruku"
+the position in {salat::diSalat} in which the person prostrates himself in a standing position with his body bent forward at the waist and his hands on his knees.
+.EndTopic
+;-------------------------------
+.Topic diRutb "Rutb"
+ripe dates, opposite {busr::diBusr}.
+.EndTopic
+;------------------------------
+.Topic diSabirin "Sabirin"
+people who are patient and steadfast.
+.EndTopic
+;-----------------------------
+.Topic diSabr "Sabr"
+patience, steadfastness.
+.EndTopic
+;-----------------------------
+.Topic diSadaq "Sadaq"
+same meaning as {mahr::diMahr}.
+.EndTopic
+;--------------------------------
+.Topic diSadaqah "Sadaqah"
+means charity.
+.EndTopic
+;----------------------------------
+.Topic diSafa "Safa"
+a mound near the {Ka'bah::diKabah} that is referred to in the Quran as one of the symbols of Allah. It is in conjuction with {marwah::diMarwah}.
+.EndTopic
+;----------------------------------
+.Topic diSahabah "Sahabah"
+companions of the Prophet.
+.EndTopic
+;--------------------------------
+.Topic diSahifah "Sahifah"
+a page or manuscript.
+.EndTopic
+;------------------------------
+.Topic diSalat "Salat"
+the five obligatory prayers that a Muslim must perform everyday.
+.EndTopic
+;-------------------------------
+.Topic diSaqifah "Saqifah"
+a shelter with a roof.  The companions of the Prophet met in a Saqifah in Madinah to pledge their loyalty to {Abu Bakr::biBakr} after the death of the Prophet.
+.EndTopic
+;------------------------------
+.Topic diSayee "Sa'yee"
+the going back and forth seven times between {safa::diSafa} and {marwah::diMarwah} that is done during the {hajj::diHajj} or the {umrah::diUmrah}.  It is done to symbolize Hajar's search for water for her son Ismael.
+.EndTopic
+;-------------------------
+.Topic diSayyid "Sayyid"
+leader or chief.
+.EndTopic
+;----------------------------
+.Topic diSeerah "Seerah"
+biography of the Prophet.
+.EndTopic
+;---------------------------
+.Topic diShahadah "Shahadah"
+declaration of faith.  A person must recite the shahadah to convert to Islam.  The shahadah in Islam is:: "I testify that there is no god but Allah and I testify that Muhammad is the Messenger of Allah."
+.EndTopic
+;-----------------------------------
+.Topic diShaheed "Shaheed"
+a martyr.  Someone who dies in the way of Allah.
+.EndTopic
+;---------------------------------------
+.Topic diShahid "Shahid"
+means a witness or martyr.
+.EndTopic
+;--------------------------------------
+.Topic diShariah "Shariah"
+Islamic law.
+.EndTopic
+;--------------------------------
+.Topic diShirk "Shirk"
+associating partners with Allah.  Shirk can also encompase any object that a person may hold in regard higher than Allah.  It is the most severe of sins and will not be forgiven.
+.EndTopic
+;------------------------------------
+.Topic diShura "Shura"
+consultation.
+.EndTopic
+;----------------------------------
+.Topic diSirwal "Sirwal"
+long under garment worn by the Arabs.
+.EndTopic
+;---------------------------------
+.Topic diSiwak "Siwak"
+a piece of a branch or root of a tree that is used as a toothbrush.   Also called a miswak.
+.EndTopic
+;------------------------------------
+.Topic diSuffah "Suffah"
+a raised platform that was used by the Prophet as a welcomming point for newcomers or destitute people.  It was part of his {masjid::diMasjid}.
+.EndTopic
+;----------------------------------
+.Topic diSuhuf "Suhuf"
+pages or manuscripts.
+.EndTopic
+;------------------------------------
+.Topic diSujud "Sujud"
+the position in {salat::diSalat} in which the person prostrates on the ground with his hands, knees, feet, and face touching the ground.
+.EndTopic
+;----------------------------------
+.Topic diSunnah "Sunnah"
+the examples of the Prophet's life what he said, did, implemented, how he implemented...  Almost the same as the {hadith::diHadith}.
+.EndTopic
+;-----------------------------------
+.Topic diSura "Surah"
+a chapter in the Quran.
+.EndTopic
+;---------------------------------
+.Topic diTahajjud "Tahajjud"
+the Tahajjud prayer is an optional prayer that is supposed to be performed in the middle of the night.  It is required that a person sleep a little before he gets up for the Tahajjud prayer. It can be performed anytime between {Isha::diIsha} and {Fajr::diFajr}.
+.EndTopic
+;--------------------------
+.Topic diTalbiyah "Talbiyah"
+Undefined.
+.EndTopic
+;-----------------------------------
+.Topic diTamr "Tamr"
+means dates.
+.EndTopic
+;--------------------------------
+.Topic diTaqwa "Taqwa"
+the love and fear that a Muslim feels for Allah.  A person with taqwa desires to be in the good pleasures of Allah and to stay away from those things that would displease Allah.  He is careful not to go beyond the bouds and limits set by Allah.
+.EndTopic
+;----------------------------------
+.Topic diTayammum "Tayammum"
+Undefined.
+.EndTopic
+;-------------------------------------
+.Topic diTawaf "Tawaf"
+the circumfering of the {Ka'bah::diKabah} seven times.  People usually do this during {umrah::diUmrah} or {hajj::diHajj}.
+.EndTopic
+;----------------------------
+.Topic diTauhid "Tauhid"
+confirming the Oneness of Allah.  It is the basis of Islam.
+.EndTopic
+;----------------------------------
+.Topic diThawab "Thawab"
+reward of blessing.
+.EndTopic
+;------------------------
+.Topic diTorah "Torah"
+the Revelation that Allah sent down to Moses.  It is the Jewish Holy Book
+.EndTopic
+;------------------------------
+.Topic diUlama "Ulama"
+the learned, knowledgeble people in Islam.  Plural form of {alim::diAlim}.
+.EndTopic
+;-------------------------
+.Topic diUmmah "Ummah"
+an ummah is a community or a people.  It is used in reference to the community of Believers or Muslims.
+.EndTopic
+;----------------------------------
+.Topic diUmmum "Umm al-Mu'mineen"
+means 'Mother of the Believers'.  This was the title of the Prophet's wives; ({sura::diSura} 33 {ayah::diAyah} 6 stipulated that they could not marry after the Prophet's death because all of the believers were their spiritual children.
+.EndTopic
+;--------------------------------
+.Topic diUmrah "Umrah"
+this is the lesser pilgrimage which is optional and can be performed at any time.
+.EndTopic
+;------------------------------
+.Topic diUrdu "Urdu"
+the official language of Pakistan.
+.EndTopic
+;-------------------------------
+.Topic diUzza "Uzzah"
+a chief goddess in the religion of the pre-Islamic Arabs during the days of {jahiliyyah::diJahil}.
+.EndTopic
+;-----------------------------
+.Topic diWakil "Wakil"
+a person who is an authorized repesentative or proxy.  Also can mean lawyer in {Urdu::diUrdu}.
+.EndTopic
+;-------------------------------
+.Topic diWali "Wali"
+legal guardian.  A friend or protector.  Someone who is supposed to look out for your interest.
+.EndTopic
+;-------------------------
+.Topic diWalimah "Walimah"
+a feast after the wedding.  The reception.
+.EndTopic
+;----------------------
+.Topic diWudu "Wudu"
+a purification (abulution) that must be performed before someone does their {salat::diSalat} or reads the Quran.
+.EndTopic
+;----------------------------
+.Topic diYathrib "Yathrib"
+the area where the city of {Madinah::diMadinah} is situated.
+.EndTopic
+;---------------------------------
+.Topic diZakat "Zakat"
+the obligatory tax that every Muslim must give.  It is one of the five pillars of Islam.  The zakat is used to provide for the poor and destitute.
+.EndTopic
+;-------------------------------
+.Topic diZuhr "Zuhr"
+the obligatory {salat::diSalat}, prayer, that is performed in the afternoon right after the sun moves away from it's zenith.
+.EndTopic

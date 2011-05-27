@@ -1,0 +1,66 @@
+HTMLViewer:
+
+1. Added to public section in HtmlView.THTMLViewer class:
+
+  property VertPixels : LongInt read MaxVertical;
+
+
+2. Added the follwing to const section in HtmlSubs.pas
+  RtlFontNames : TStringList = Nil;
+  RtlFontDefault : String = '';
+  RtlFontDefaultSize : Word = 18;
+
+3. Added the following function as a local function to procedure 
+   DrawTheText in TSection.Draw method
+
+    function Reverse(const S : String) : String;
+    var
+      I : Cardinal;
+    begin
+      Result := '';
+      for I := Length(S) downto 1 do
+        Result := Result + S[I];
+    end;
+
+
+4. Added the following code in DrawTheText
+
+	---OLD---
+
+      if Self is TPreformated then
+        begin   {so will clip in Table cells}
+        ARect := Rect(X, Y-LR.LineHt-LR.SpaceBefore-YOffset, X+IMgr.ClipWidth, Y-YOffset);
+        ExtTextOut(Canvas.Handle, XX-OHang div 2, Y - Descent -YOffset, ETO_CLIPPED,
+               @ARect, Start, I, Nil);
+        end
+      else
+        begin
+        with FO do
+          if SScript = Normal then Addon := 0
+            else if SScript = SupSc then Addon := -(FontHeight div 3)
+            else Addon := Descent div 2 +1;
+
+>>>          TextOut(Canvas.Handle, XX-OHang div 2, Y - Descent + Addon - YOffset, Start, I);
+        end;
+
+	---END OLD---
+
+
+	---NEW---
+
+          if (RtlFontNames <> Nil) and (RtlFontNames.IndexOf(FO.TheFont.Name) >= 0) and
+            (Justify = Right) then begin
+            SetLength(Reversed, I);
+            StrMove(PChar(Reversed), Start, I);
+            Reversed := Reverse(Reversed);
+            TextOut(Canvas.Handle, XX-OHang div 2, Y - Descent + Addon - YOffset, PChar(Reversed), I);
+          end else
+            TextOut(Canvas.Handle, XX-OHang div 2, Y - Descent + Addon - YOffset, Start, I);
+
+	---END NEW---
+
+
+Money:
+
+0. HtmlViewer now a prerequisite to using MoneyControls
+1. Changed all Paint routines to use ThePalette in HtmlUn2

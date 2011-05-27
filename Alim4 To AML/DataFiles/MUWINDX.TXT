@@ -1,0 +1,893 @@
+.Title Al-Muwatta Subjects
+.bookID AMS
+.topicTitlesAsKeywords T
+.cleanupTopicCtxName 1
+.fixupTitleCapitalization 1
+.makeContentsPage Index of Subjects
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Prayer_Times "Prayer Times"
+1.	The Times of Prayer |{1.1:>hdMuwatta1.1}, {1.2:>hdMuwatta1.2}, {1.3:>hdMuwatta1.3}, {1.4:>hdMuwatta1.4}, {1.5:>hdMuwatta1.5}, {1.6:>hdMuwatta1.6}, {1.7:>hdMuwatta1.7}, {1.8:>hdMuwatta1.8}, {1.9:>hdMuwatta1.9}, {1.10:>hdMuwatta1.10}, {1.11:>hdMuwatta1.11}, {1.12:>hdMuwatta1.12}
+2.	The Time of the Jumu'a Prayer |{1.13:>hdMuwatta1.13}, {1.14:>hdMuwatta1.14}
+3.	Catching a Rak'a of the Prayer |{1.15:>hdMuwatta1.15}, {1.16:>hdMuwatta1.16}, {1.17:>hdMuwatta1.17}, {1.18:>hdMuwatta1.18}
+4.	Duluk ash-Shams and Ghazaq al-Layl |{1.19:>hdMuwatta1.19}, {1.20:>hdMuwatta1.20}
+5.	The Times of Prayer in General |{1.21:>hdMuwatta1.21}, {1.22:>hdMuwatta1.2}, {1.23:>hdMuwatta1.23}, {1.24:>hdMuwatta1.24}
+6.	Sleeping Through the Prayer |{1.25:>hdMuwatta1.25}, {1.26:>hdMuwatta1.26}
+7.	Prohibition against Doing the Prayer at the Hottest Hour of the Day |{1.27:>hdMuwatta1.27}, {1.28:>hdMuwatta1.28}, {1.29:>hdMuwatta1.29}
+8.	Prohibition against Entering the Mosque Smelling of Garlic and Prohibition against Covering the Mouth in Prayer |{1.30:>hdMuwatta1.30}, {1.31:>hdMuwatta1.31}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Purity "Purity"
+1.	How to Do Wudu |{2.1:>hdMuwatta2.1}, {2.2:>hdMuwatta2.2}, {2.3:>hdMuwatta2.3}, {2.4:>hdMuwatta2.4}, {2.5:>hdMuwatta2.5}, {2.6:>hdMuwatta2.6}, {2.7:>hdMuwatta2.7}, {2.8:>hdMuwatta2.8}
+2.	The Wudu of a Man who has been Asleep when He Gets Up to Pray |{2.9:>hdMuwatta2.9}, {2.10:>hdMuwatta2.10}, {2.11:>hdMuwatta2.11}
+3.	What is Pure for Wudu |{2.12:>hdMuwatta2.12}, {2.13:>hdMuwatta2.13}, {2.14:>hdMuwatta2.14}, {2.15:>hdMuwatta2.15}
+4.	Things which do Not Break Wudu |{2.16:>hdMuwatta2.16}, {2.17:>hdMuwatta2.17}, {2.18:>hdMuwatta2.18}
+5.	Discontinuing Doing Wudu on Account of Eating Cooked Food |{2.19:>hdMuwatta2.19}, {2.20:>hdMuwatta2.20}, {2.21:>hdMuwatta2.21}, {2.22:>hdMuwatta2.22}, {2.23:>hdMuwatta2.23}, {2.24:>hdMuwatta2.24}, {2.25:>hdMuwatta2.25}, {2.26:>hdMuwatta2.26}, {2.27:>hdMuwatta2.27}
+6.	On Wudu in General |{2.28:>hdMuwatta2.28}, {2.29:>hdMuwatta2.29}, {2.30:>hdMuwatta2.30}, {2.31:>hdMuwatta2.31}, {2.32:>hdMuwatta2.32}, {2.33:>hdMuwatta2.33}, {2.34:>hdMuwatta2.34}, {2.35:>hdMuwatta2.35}, {2.36:>hdMuwatta2.36}, {2.37:>hdMuwatta2.37}
+7.	Wiping the Head and Ears |{2.38:>hdMuwatta2.38}, {2.39:>hdMuwatta2.39}, {2.40:>hdMuwatta2.40}, {2.41:>hdMuwatta2.41}
+8.	Wiping over Leather Socks |{2.42:>hdMuwatta2.42}, {2.43:>hdMuwatta2.43}, {2.44:>hdMuwatta2.44}, {2.45:>hdMuwatta2.45}
+9.	How to Wipe over Leather Socks |{2.46:>hdMuwatta2.46}, {2.47:>hdMuwatta2.47}
+10.	Nose-Bleeds |{2.48:>hdMuwatta2.48}, {2.49:>hdMuwatta2.49}, {2.50:>hdMuwatta2.50}
+11.	What to Do in the Event of a Nose-Bleed |{2.51:>hdMuwatta2.51}, {2.52:>hdMuwatta2.52}
+12.	What to Do in the Event of Bleeding from a Wound or a Nose-Bleed |{2.53:>hdMuwatta2.53}, {2.54:>hdMuwatta2.54}
+13.	Wudu on Account of Prostatic Fluid |{2.55:>hdMuwatta2.55}, {2.56:>hdMuwatta2.56}, {2.57:>hdMuwatta2.57}
+14.	Indulgence in Not Having to Do Wudu for Prostatic Fluid |{2.58:>hdMuwatta2.58}, {2.59:>hdMuwatta2.59}
+15.	Wudu on Account of Touching the Genitals |{2.60:>hdMuwatta2.60}, {2.61:>hdMuwatta2.61}, {2.62:>hdMuwatta2.62}, {2.63:>hdMuwatta2.63}, {2.64:>hdMuwatta2.64}, {2.65:>hdMuwatta2.65}
+16.	Wudu on Account of a Man Kissing His Wife |{2.66:>hdMuwatta2.66}, {2.67:>hdMuwatta2.67}, {2.68:>hdMuwatta2.68}
+17.	How to Do Ghusl for Major Ritual Impurity |{2.69:>hdMuwatta2.69}, {2.70:>hdMuwatta2.70}, {2.71:>hdMuwatta2.71}, {2.72:>hdMuwatta2.72}
+18.	Obligation to Do Ghusl when the Two Circumcised Parts Meet |{2.73:>hdMuwatta2.73}, {2.74:>hdMuwatta2.74}, {2.75:>hdMuwatta2.75}, {2.76:>hdMuwatta2.76}, {2.77:>hdMuwatta2.77}
+19.	Wudu of a Person in a State of Major Ritual Impurity (Janaba) |{2.78:>hdMuwatta2.78}, {2.79:>hdMuwatta2.79}, {2.80:>hdMuwatta2.80}
+20.	Repetition of the Prayer by a Person in a State of Major Ritual Impurity, his Doing Ghusl when He has Prayed without Remembering It, and his Washing his Garments |{2.81:>hdMuwatta2.81}, {2.82:>hdMuwatta2.82}, {2.831:>hdMuwatta2.83}, {2.84:>hdMuwatta2.84}, {2.85:>hdMuwatta2.85}
+21.	Ghusl of a Woman when She Experiences the Same as a Man in Her Sleep |{2.86:>hdMuwatta2.86}, {2.87:>hdMuwatta2.87}
+22.	Ghusl for Major Ritual Impurity |{2.88:>hdMuwatta2.88}, {2.89:>hdMuwatta2.89}, {2.90:>hdMuwatta2.90}
+23.	Tayammum |{2.91:>hdMuwatta2.91}
+24.	How to Do Tayammum |{2.92:>hdMuwatta2.92}, {2.93:>hdMuwatta2.93}
+25.	Tayammum of Someone in a State of Major Ritual Impurity |{2.94:>hdMuwatta2.94}
+26.	What is Permitted a Man from his Wife when She is Menstruating |{2.95:>hdMuwatta2.95}, {2.96:>hdMuwatta2.96}, {2.97:>hdMuwatta2.97}, {2.98:>hdMuwatta2.98}
+27.	The Purity of a Menstruating Woman |{2.99:>hdMuwatta2.99}, {2.100:>hdMuwatta2.100}, {2.101:>hdMuwatta2.101}
+28.	Menstruation in General |{2.102:>hdMuwatta2.102}, {2.103:>hdMuwatta2.103}, {2.104:>hdMuwatta2.104}, {2.105:>hdMuwatta2.105}
+29.	Bleeding as if Menstruating |{2.106:>hdMuwatta2.106}, {2.107:>hdMuwatta2.107}, {2.108:>hdMuwatta2.108}, {2.109:>hdMuwatta2.109}, {2.110:>hdMuwatta2.110}
+30.	The Urine of an Infant Boy |{2.111:>hdMuwatta2.111}, {2.112:>hdMuwatta2.112}
+31.	Urinating Standing and Otherwise |{2.113:>hdMuwatta2.113}, {2.114:>hdMuwatta2.114}
+32.	The Tooth-Stick (Siwak) |{2.115:>hdMuwatta2.115}, {2.116:>hdMuwatta2.116}, {2.117:>hdMuwatta2.117}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Prayer "Prayer"
+1.	The Call to Prayer |{3.1:>hdMuwatta3.1}, {3.2:>hdMuwatta3.2}, {3.3:>hdMuwatta3.3}, {3.4:>hdMuwatta3.4}, {3.5:>hdMuwatta3.5}, {3.6:>hdMuwatta3.6}, {3.7:>hdMuwatta3.7}, {3.8:>hdMuwatta3.8}, {3.9:>hdMuwatta3.9}, {3.10:>hdMuwatta3.10}
+2.	The Adhan During a Journey and Without Wudu |{3.11:>hdMuwatta3.11}, {3.12:>hdMuwatta3.12}, {3.13:>hdMuwatta3.13}, {3.14:>hdMuwatta3.14}
+3.	The Duration of the Meal before Dawn (Sahur) in Relation to the Adhan |{3.15:>hdMuwatta3.15}, {3.16:>hdMuwatta3.16}, {3.17:>hdMuwatta3.17}, {3.18:>hdMuwatta3.18}
+4.	The Opening of the Prayer |{3.19:>hdMuwatta3.19}, {3.20:>hdMuwatta3.20}, {3.21:>hdMuwatta3.21}, {3.22:>hdMuwatta3.22}, {3.23:>hdMuwatta3.23}
+5.	The Recitation of Qur'an in the Maghrib and Isha Prayers |{3.24:>hdMuwatta3.24}, {3.25:>hdMuwatta3.25}, {3.26:>hdMuwatta3.26}, {3.27:>hdMuwatta3.27}, {3.28:>hdMuwatta3.28}
+6.	Behaviour in Recitation |{3.29:>hdMuwatta3.29}, {3.30:>hdMuwatta3.30}, {3.31:>hdMuwatta3.31}, {3.32:>hdMuwatta3.32}, {3.33:>hdMuwatta3.33}, {3.34:>hdMuwatta3.34}
+7.	Recitation in the Subh Prayer |{3.35:>hdMuwatta3.35}, {3.36:>hdMuwatta3.36}, {3.37:>hdMuwatta3.37}, {3.38:>hdMuwatta3.38}
+8.	The Umm al-Qur'an |{3.39:>hdMuwatta3.39}, {3.40:>hdMuwatta3.40}
+9.	Reciting to Oneself behind the Imam when He does not Recite Aloud |{3.41:>hdMuwatta3.41}, {3.42:>hdMuwatta3.42}, {3.43:>hdMuwatta3.43}, {3.44:>hdMuwatta3.44}
+10.	Not Reciting behind the Imam when He Recites Aloud |{3.45:>hdMuwatta3.45}, {3.46:>hdMuwatta3.46}
+11.	Saying 'Amin' behind the Imam |{3.47:>hdMuwatta3.47}, {3.48:>hdMuwatta3.48}, {3.49:>hdMuwatta3.49}, {3.50:>hdMuwatta3.50}
+12.	Behaviour in the Sitting in the Prayer |{3.51:>hdMuwatta3.51}, {3.52:>hdMuwatta3.52}, {3.53:>hdMuwatta3.53}, {3.54:>hdMuwatta3.54}, {3.55:>hdMuwatta3.55}
+13.	Tashahhud in the Prayer |{3.56:>hdMuwatta3.56}, {3.57:>hdMuwatta3.57}, {3.58:>hdMuwatta3.58}, {3.59:>hdMuwatta3.59}, {3.60:>hdMuwatta3.60}
+14.	What to Do if One Raises One's Head Before the Imam |{3.61:>hdMuwatta3.61}
+15.	What to Do if through Forgetfulness One Says the Taslim after Two Rakas |{3.62:>hdMuwatta3.62}, {3.63:>hdMuwatta3.63}, {3.64:>hdMuwatta3.64}, {3.65:>hdMuwatta3.65}
+16.	Completing What is Recalled when Uncertain How Much has been Prayed |{3.66:>hdMuwatta3.66}, {3.67:>hdMuwatta3.67}, {3.68:>hdMuwatta3.68}, {3.69:>hdMuwatta3.69}
+17.	What to Do if One Stands Atter the Completion of the Prayer or After Two RakCas |{3.70:>hdMuwatta3.70}, {3.71:>hdMuwatta3.71}
+18.	Looking in the Prayer at What Distracts You trom It |{3.72:>hdMuwatta3.72}, {3.73:>hdMuwatta3.73}, {3.74:>hdMuwatta3.74}, {3.75:>hdMuwatta3.75}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Prayer_Forgetfulness "Prayer, Forgetfulness"
+1.	What to Do if One Forgets in Prayer |{4.1:>hdMuwatta4.1}, {4.2:>hdMuwatta4.2}, {4.3:>hdMuwatta4.3}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Prayer_Friday "Prayer, Friday (Jumua)"
+1.	Doing Ghusl on the Day of Jumua |{5.1:>hdMuwatta5.1}, {5.2:>hdMuwatta5.2}, {5.3:>hdMuwatta5.3}, {5.4:>hdMuwatta5.4}, {5.5:>hdMuwatta5.5}
+2.	Paying Attention when the Imam is Giving the Khutba on the Day of Jumua |{5.6:>hdMuwatta5.6}, {5.7:>hdMuwatta5.7}, {5.8:>hdMuwatta5.8}, {5.9:>hdMuwatta5.9}, {5.10:>hdMuwatta5.10}, {5.11:>hdMuwatta5.11}
+3.	Catching a Raka of the Jumua Prayer |{5.12:>hdMuwatta5.12}
+4.	Nose Bleeds on the Day of Jumua |{5.13:>hdMuwatta5.13}
+5.	Making Haste on the Day of Jumua |{5.14:>hdMuwatta5.14}
+6.	The Imam's Stopping Off in a Town on the Day of Jumua |{5.15:>hdMuwatta5.15}
+7.	The Special Time in the Day of Jumua |{5.16:>hdMuwatta5.16}, {5.17:>hdMuwatta5.17}
+8.	Good Appearance and Not Stepping Over People and Facing the Imam on the Day of Jumua |{5.18:>hdMuwatta5.18}, {5.19:>hdMuwatta5.19}, {5.20:>hdMuwatta5.20}
+9.	The Recitation in the Jumua Prayer, the Sitting, and Missing the Prayer Without a Reason |{5.21:>hdMuwatta5.21}, {5.22:>hdMuwatta5.22}, {5.23:>hdMuwatta5.23}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Prayer_Ramadan "Prayer, Ramadan"
+1.	Stimulation of Desire for Prayer in Ramadan |{6.1:>hdMuwatta6.1}, {6.2:>hdMuwatta6.2}
+2.	Watching the Night in Prayer |{6.3:>hdMuwatta6.3}, {6.4:>hdMuwatta6.4}, {6.5:>hdMuwatta6.5}, {6.6:>hdMuwatta6.6}, {6.7:>hdMuwatta6.7}, {6.8:>hdMuwatta6.8}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Prayer_Tahajjud "Prayer, Tahajjud"
+1.	Concerning Prayer in the Night |{7.1:>hdMuwatta7.1}, {7.2:>hdMuwatta7.2}, {7.3:>hdMuwatta7.3}, {7.4:>hdMuwatta7.4}, {7.5:>hdMuwatta7.5}, {7.6:>hdMuwatta7.6}, {7.7:>hdMuwatta7.7}
+2.	How the Prophet, may Allah Bless Him and Grant Him Peace, Prayed the Witr |{7.8:>hdMuwatta7.8}, {7.9:>hdMuwatta7.9}, {7.10:>hdMuwatta7.10}, {7.11:>hdMuwatta7.11}, {7.12:>hdMuwatta7.12}
+3.	The Command to Pray the Witr |{7.13:>hdMuwatta7.13}, {7.14:>hdMuwatta7.14}, {7.15:>hdMuwatta7.15}, {7.16:>hdMuwatta7.16}, {7.17:>hdMuwatta7.17}, {7.18:>hdMuwatta7.18}, {7.19:>hdMuwatta7.19}, {7.20:>hdMuwatta7.20}, {7.21:>hdMuwatta7.21}, {7.22:>hdMuwatta7.22}
+4.	Praying Witr After the Break of Dawn |{7.23:>hdMuwatta7.23}, {7.24:>hdMuwatta7.24}, {7.25:>hdMuwatta7.25}, {7.26:>hdMuwatta7.26}, {7.27:>hdMuwatta7.27},{7.28:>hdMuwatta7.28}
+5.	The Two Rakas of Fajr |{7.29:>hdMuwatta7.29}, {7.30:>hdMuwatta7.30}, {73.1:>hdMuwatta7.31}, {7.32:>hdMuwatta7.32}, {7.33:>hdMuwatta7.33}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Prayer_Congregation "Prayer, Congregation"
+1.	The Superiority of Prayer in Congregation over Prayer Done Alone |{8.1:>hdMuwatta8.1}, {8.2:>hdMuwatta8.2}, {8.3:>hdMuwatta8.3}, {8.4:>hdMuwatta8.4}
+2.	The Isha and Subh Prayers |{8.5:>hdMuwatta8.5}, {8.6:>hdMuwatta8.6}, {8.7:>hdMuwatta8.7}, {8.8:>hdMuwatta8.8}
+3.	Doing the Prayer Again with the Imam |{8.9:>hdMuwatta8.9}, {8.10:>hdMuwatta8.10}, {8.11:>hdMuwatta8.11}, {8.12:>hdMuwatta8.12}, {8.13:>hdMuwatta8.13}
+4.	Praying in a Group of People |{8.14:>hdMuwatta8.14}, {8.15:>hdMuwatta8.15}, {8.16:>hdMuwatta8.16}
+5.	Prayer Behind an Imam when He Prays Sitting |{8.17:>hdMuwatta8.17}, {8.18:>hdMuwatta8.18}, {8.19:>hdMuwatta8.19}
+6.	The Excellence of the Prayer of Someone Standing over the Prayer of Someone Sitting |{8.20:>hdMuwatta8.20}, {8.21:>hdMuwatta8.21}
+7.	Praying Voluntary Prayers (Nawafil) Sitting |{8.22:>hdMuwatta8.22}, {8.23:>hdMuwatta8.23}, {8.24:>hdMuwatta8.24}, {8.25:>hdMuwatta8.25}
+8.	The Middle Prayer |{8.26:>hdMuwatta8.26}, {8.27:>hdMuwatta8.27}, {8.28:>hdMuwatta8.28}, {8.29:>hdMuwatta8.29}
+9.	Permission to Pray in One Garment |{8.30:>hdMuwatta8.30}, {8.31:>hdMuwatta8.31}, {8.32:>hdMuwatta8.32}, {8.33:>hdMuwatta8.33}, {8.34:>hdMuwatta8.34}, {8.35:>hdMuwatta8.35}
+10.	Permission for a Woman to Pray in a Shift and Head-Covering |{8.36:>hdMuwatta8.36}, {8.37:>hdMuwatta8.37}, {8.38:>hdMuwatta8.38}, {8.39:>hdMuwatta8.39}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Prayer_Shortening "Prayer, Shortening"
+1.	Joining Two Prayers when Settled and when Traveling |{9.1:>hdMuwatta9.1}, {9.2:>hdMuwatta9.2}, {9.3:>hdMuwatta9.3}, {9.4:>hdMuwatta9.4}, {9.51:>hdMuwatta9.5}, {9.6:>hdMuwatta9.6}, {9.7:>hdMuwatta9.7}
+2.	Shortening the Prayer in Travel |{9.8:>hdMuwatta9.8}, {9.9:>hdMuwatta9.9}, {9.10:>hdMuwatta9.10}
+3.	Circumstances in Which the Prayer Has to Be Shortened |{9.11:>hdMuwatta9.11}, {9.12:>hdMuwatta9.12}, {9.13:>hdMuwatta9.13}, {9.14:>hdMuwatta9.14}, {9.15:>hdMuwatta9.15}, {9.16:>hdMuwatta9.16}, {9.17:>hdMuwatta9.17}
+4.	The Prayer of a Traveler when Undecided whether to Remain in a Place or Not |{9.18:>hdMuwatta9.18}, {9.19:>hdMuwatta9.19}
+5.	Doing the Full Prayer when One Decides to Remain in a Place |{9.20:>hdMuwatta9.20}
+6.	The Prayer of a Traveler when Imam, or Behind an Imam |{9.21:>hdMuwatta9.21}, {9.22:>hdMuwatta9.22}, {9.23:>hdMuwatta9.23}
+7.	Voluntary Prayers while Traveling, by Day and at Night, and Praying on a Riding Beast |{9.24:>hdMuwatta9.24}, {9.25:>hdMuwatta9.25}, {9.26:>hdMuwatta9.26}, {9.27:>hdMuwatta9.27}, {9.28:>hdMuwatta9.28}, {9.29:>hdMuwatta9.29}
+8.	The Prayer of Duha |{9.30:>hdMuwatta9.30}, {9.31:>hdMuwatta9.31}, {9.32:>hdMuwatta9.32}, {9.33:>hdMuwatta9.33}
+9.	General Remarks concerning the Voluntary Prayer of Duha |{9.34:>hdMuwatta9.34}, {9.35:>hdMuwatta9.35}
+10.	Warning against Passing in Front of Someone Praying |{9.36:>hdMuwatta9.36}, {9.37:>hdMuwatta9.37}, {9.38:>hdMuwatta9.38}, {9.39:>hdMuwatta9.39}, {9.40:>hdMuwatta9.40}
+11.	Permission to Pass in Front of Someone Praying |{9.41:>hdMuwatta9.41}, {9.42:>hdMuwatta9.42}, {9.43:>hdMuwatta9.43}
+12.	The Sutra of a Man Praying on a Journey |{9.44:>hdMuwatta9.44}
+13.	Brushing Away Small Stones in the Prayer |{9.45:>hdMuwatta9.45}, {9.46:>hdMuwatta9.46}
+14.	Straightening the Rows |{9.47:>hdMuwatta9.47}, {9.48:>hdMuwatta9.48}
+15.	Placing One Hand on the Other in the Prayer |{9.49:>hdMuwatta9.49}, {9.50:>hdMuwatta9.50}
+16.	aunut in the Subh Prayer |{9.51:>hdMuwatta9.51}
+17.	Prohibition against a Man Praying when Wishing to Relieve Himself |{9.52:>hdMuwatta9.52}, {9.53:>hdMuwatta9.53}
+18.	Waiting for the Prayer and Walking to It |{9.54:>hdMuwatta9.54}, {9.55:>hdMuwatta9.55}, {9.56:>hdMuwatta9.56}, {9.57:>hdMuwatta9.57}, {9.58:>hdMuwatta9.58}, {9.59:>hdMuwatta9.59},{9.60:>hdMuwatta9.60}, {9.61:>hdMuwatta9.61}
+19.	Placing the Hands Flat on the Surface by the Face when Prostrating |{9.62:>hdMuwatta9.62}, {9.63:>hdMuwatta9.63}
+20.	Turning and Clapping when Necessary during the |{9.64:>hdMuwatta9.64}, {9.65:>hdMuwatta9.65}, {9.66:>hdMuwatta9.66}
+21.	What to Do when Entering while the Imam is in Ruku |{9.67:>hdMuwatta9.67}, {9.68:>hdMuwatta9.68}
+22.	Prayer on the Prophet, may Allah Bless Him and Grant Him Peace |{9.69:>hdMuwatta9.69}, {9.70:>hdMuwatta9.70}, {9.71:>hdMuwatta9.71}
+23.	How to Do the Prayer in General |{9.72:>hdMuwatta9.72}, {9.73:>hdMuwatta9.73}, {9.74:>hdMuwatta9.74}, {9.75:>hdMuwatta9.75}, {9.76:>hdMuwatta9.76}, {9.77:>hdMuwatta9.77}, {9.78:>hdMuwatta9.78}, {9.79:>hdMuwatta9.79}, {9.80:>hdMuwatta9.80}, {9.81:>hdMuwatta9.81}, {9.82:>hdMuwatta9.82}, {9.83:>hdMuwatta9.83}
+24.	Prayer in General |{9.84:>hdMuwatta9.84}, {9.85:>hdMuwatta9.85}, {9.86:>hdMuwatta9.86}, {9.87:>hdMuwatta9.87}, {9.88:>hdMuwatta9.88}, {9.891:>hdMuwatta9.89}, {9.90:>hdMuwatta9.90}, {9.91:>hdMuwatta9.91}, {9.92:>hdMuwatta9.92}, {9.93:>hdMuwatta9.93}, {9.941:>hdMuwatta9.94}, {9.95:>hdMuwatta9.95}, {9.961:>hdMuwatta9.96}
+25.	Stimulation of Desire for Prayer in General |{9.97:>hdMuwatta9.97}, {9.98:>hdMuwatta9.98}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Prayer_Id "Prayer, Id"
+1.	The Ghusl of the Two 'Ids, the Call to Prayer for Them, and the Iqama |{10.1:>hdMuwatta10.1}, {10.21:>hdMuwatta10.2}
+2.	The Order to Pray Before the Khutba on the Two 'Ids |{10.3:>hdMuwatta10.3}, {10.4:>hdMuwatta10.4}, {10.5:>hdMuwatta10.5}
+3.	The Order to Eat Before Going Out on the Morning of the 'Id |{10.6:>hdMuwatta10.6}, {10.7:>hdMuwatta10.7}
+4.	The Takbir and the Recitation in the Prayer of the Two 'Ids |{10.8:>hdMuwatta10.8}, {10.9:>hdMuwatta10.9}
+5.	Refraining from Prayer Before the Two 'Ids and After Them |{10.10:>hdMuwatta10.10}, {10.11:>hdMuwatta10.11}
+6.	Permission to Pray Before the Two 'Ids and After Them |{10.12:>hdMuwatta10.12}, {10.13:>hdMuwatta10.13}
+7.	The Coming of the Imam on the Day of the 'Id and Waiting for the Khutba |{10.14:>hdMuwatta10.14}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Prayer_Fear "Prayer, Fear"
+1.	The Fear Prayer |{11.1:>hdMuwatta11.1}, {11.2:>hdMuwatta11.2}, {11.3:>hdMuwatta11.3}, {11.4:>hdMuwatta11.4}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Prayer_Eclipse "Prayer, Eclipse"
+1.	How to Pray the Eclipse Prayer |{12.1:>hdMuwatta12.1}, {12.2:>hdMuwatta12.2}, {12.3:>hdMuwatta12.3}
+2.	About the Eclipse Prayer |{12.4:>hdMuwatta12.4}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Prayer_Rain "Prayer, Rain"
+1.	How to Ask for Rain |{13.1:>hdMuwatta13.1}
+2.	About Asking for Rain |{13.2:>hdMuwatta13.2}, {13.3:>hdMuwatta13.3}
+3.	About Asking the Stars for Rain |{13.4:>hdMuwatta13.4}, {13.5:>hdMuwatta13.5}, {13.6:>hdMuwatta13.6}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Qibla "Qibla (Direction of Prayer)"
+1.	The Prohibition against Relieving Oneself Facing the Qibla |{14.1:>hdMuwatta14.1}, {14.2:>hdMuwatta14.2}
+2.	Permission to Face the Qibla when Urinating or Defecating |{14.3:>hdMuwatta14.3}
+3.	The Prohibition against Spitting towards the Qibla |{14.4:>hdMuwatta14.4}, {14.5:>hdMuwatta14.5}
+4.	About the Qibla |{14.6:>hdMuwatta14.6}, {14.7:>hdMuwatta14.7}, {14.8:>hdMuwatta14.8}
+5.	Concerning the Mosque of the Prophet, may Allah Bless Him and Grant Him Peace |{14.9:>hdMuwatta14.9}, {14.10:>hdMuwatta14.10}, {14.11:>hdMuwatta14.11}
+6.	Concerning Women Going Out to the Mosque |{14.12:>hdMuwatta14.12}, {14.13:>hdMuwatta14.13}, {14.14:>hdMuwatta14.14}, {14.15:>hdMuwatta14.15}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Quran "Quran"
+1.	The Order to Be in Wudu when Touching the Qur'an |{15.1:>hdMuwatta15.1}
+2.	Permission to Recite the Qur'an when Not in Wudu |{15.2:>hdMuwatta15.2}
+3.	About the Division of the Qur'an in Sections (Hizbs) |{15.3:>hdMuwatta15.3}, {15.4:>hdMuwatta15.4}
+4.	About the Qur'an |{15.5:>hdMuwatta15.5}, {15.6:>hdMuwatta15.6}, {15.71:>hdMuwatta15.7}, {15.8:>hdMuwatta15.8}, {15.9:>hdMuwatta15.9}, {15.10:>hdMuwatta15.10}, {15.11:>hdMuwatta15.11}
+5.	The Prostration of the Qur'an |{15.12:>hdMuwatta15.12}, {15.13:>hdMuwatta15.13}, {15.14:>hdMuwatta15.14}, {15.15:>hdMuwatta15.15}, {15.16:>hdMuwatta15.16}
+6.	About Reciting Surat al-Ikhlas and Surat al-Mulk |{15.17:>hdMuwatta15.17}, {15.18:>hdMuwatta15.18}, {15.19:>hdMuwatta15.19}
+7.	Dhikr (Remembrance) of Allah, the Blessed and Exalted |{15.20:>hdMuwatta15.20}, {15.21:>hdMuwatta15.21}, {15.22:>hdMuwatta15.22}, {15.23:>hdMuwatta15.23}, {15.24:>hdMuwatta15.24}, {15.25:>hdMuwatta15.251}
+8.	Du'a (Supplication) |{15.26:>hdMuwatta15.26}, {15.27:>hdMuwatta15.27}, {15.28:>hdMuwatta15.28}, {15.29:>hdMuwatta15.29}, {15.30:>hdMuwatta15.30}, {15.31:>hdMuwatta15.31}, {15.32:>hdMuwatta15.32}, {15.33:>hdMuwatta15.33}, {15.34:>hdMuwatta15.34}, {15.35:>hdMuwatta15.35}, {15.36:>hdMuwatta15.36}
+9.	Making Du'a |{15.37:>hdMuwatta15.37}, {15.38:>hdMuwatta15.38}, {15.39:>hdMuwatta15.39}, {15.40:>hdMuwatta15.40}, {15.41:>hdMuwatta15.41}, {15.42:>hdMuwatta15.42}, {15.43:>hdMuwatta15.43}
+10.	Forbidding Prayer After Subh and After Asr |{15.44:>hdMuwatta15.44}, {15.45:>hdMuwatta15.45}, {15.46:>hdMuwatta15.46}, {15.47:>hdMuwatta15.47}, {15.48:>hdMuwatta15.48}, {15.49:>hdMuwatta15.49}, {15.50:>hdMuwatta15.50}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Burials "Burials"
+1.	Washing the Dead |{16.1:>hdMuwatta16.1}, {16.2:>hdMuwatta16.2}, {16.3:>hdMuwatta16.3}, {16.4:>hdMuwatta16.4}
+2.	Shrouding the Dead |{16.5:>hdMuwatta16.5}, {16.6:>hdMuwatta16.6}, {16.7:>hdMuwatta16.7}
+3.	Walking in Front of the Bier |{16.8:>hdMuwatta16.8}, {16.9:>hdMuwatta16.9}, {16.10:>hdMuwatta16.10}, {16.11:>hdMuwatta16.11}
+4.	Prohibition against Following the Bier with a Burning Torch |{16.12:>hdMuwatta16.12}, {16.13:>hdMuwatta16.13}
+5.	The Takbir over a Dead Man |{16.14:>hdMuwatta16.14}, {16.15:>hdMuwatta16.15}, {16.16:>hdMuwatta16.16}
+6.	What to Say in the Prayer for the Dead |{16.17:>hdMuwatta16.17}, {16.18:>hdMuwatta16.18}, {16.19:>hdMuwatta16.19}
+7.	Permission to Pray for the Dead After Subh until the Dawn is very Clear and After Asr until the Sun Becomes Yellow |{16.20:>hdMuwatta16.20}, {16.21:>hdMuwatta16.21}
+8.	Doing the Prayer for the Dead in Mosques |{16.22:>hdMuwatta16.22}, {16.23:>hdMuwatta16.23}
+9.	The Prayer over the Dead in General |{16.24:>hdMuwatta16.24}, {16.25:>hdMuwatta16.25}, {16.26:>hdMuwatta16.26}
+10.	Burying the Dead |{16.27:>hdMuwatta16.27}, {16.28:>hdMuwatta16.28}, {16.29:>hdMuwatta16.29}, {16.30:>hdMuwatta16.30}, {16.31:>hdMuwatta16.31}, {16.32:>hdMuwatta16.32}
+11.	Stopping for Funerals and Sitting in Graveyards |{16.33:>hdMuwatta16.33}, {16.341:>hdMuwatta16.34}, {16.35:>hdMuwatta16.35}
+12.	The Prohibition against Weeping over the Dead |{16.36:>hdMuwatta16.36}, {16.37:>hdMuwatta16.37}
+13.	Contentment in the Face of Misfortune |{16.38:>hdMuwatta16.38}, {16.39:>hdMuwatta16.39}, {16.40:>hdMuwatta16.40}
+14.	Contentment in the Face of Misfortune Generally |{16.41:>hdMuwatta16.41}, {16.42:>hdMuwatta16.42}, {16.43:>hdMuwatta16.43}
+15.	Digging Up Graves |{16.44:>hdMuwatta16.44}, {16.45:>hdMuwatta16.45}
+16.	Burial in General |{16.46:>hdMuwatta16.46}, {16.47:>hdMuwatta16.47}, {16.48:>hdMuwatta16.48}, {16.49:>hdMuwatta16.49}, {16.50:>hdMuwatta16.50}, {16.51:>hdMuwatta16.51}, {16.52:>hdMuwatta16.52}, {16.53:>hdMuwatta16.53}, {16.54:>hdMuwatta16.54}, {16.55:>hdMuwatta16.55}, {16.56:>hdMuwatta16.56}, {16.57:>hdMuwatta16.57}, {16.58:>hdMuwatta16.58}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Zakat "Zakat"
+1.	Things on which Zakat must be Paid |{17.1:>hdMuwatta17.1}, {17.2:>hdMuwatta17.2}, {17.3:>hdMuwatta17.3}
+2.	The Zakat on Gold and Silver Coin |{17.4:>hdMuwatta17.4}, {17.5:>hdMuwatta17.5}, {17.6:>hdMuwatta17.6}, {17.7:>hdMuwatta17.7}
+3.	The Zakat on Mines |{17.8:>hdMuwatta17.8}
+4.	The Zakat on Buried Treasure (Rikaz) |{17.9:>hdMuwatta17.9}
+5.	Things on Which there is No Zakat, in the Way of Jewelry, Bits of Gold and Silver, and Amber |{17.10:>hdMuwatta17.10}, {17.11:>hdMuwatta17.11}
+6.	The Zakat on the Property of Orphans and Trading on their Behalf |{17.12:>hdMuwatta17.12}, {17.13:>hdMuwatta17.13}, {17.14:>hdMuwatta17.14}, {17.15:>hdMuwatta17.15}
+7.	The Zakat on Inheritance |{17.16:>hdMuwatta17.16}
+8.	The Zakat on Debts |{17.17:>hdMuwatta17.17}, {17.18:>hdMuwatta17.18}, {17.19:>hdMuwatta17.19}
+9.	The Zakat on Merchandise |{17.20:>hdMuwatta17.20}
+10.	Wealth which has been Hidden Away (Kanz) |{17.21:>hdMuwatta17.21}, {17.22:>hdMuwatta17.22}
+11.	The Zakat on Livestock |{17.23:>hdMuwatta17.23}
+12.	The Zakat on Cattle |{17.24:>hdMuwatta17.24}
+13.	The Zakat of Associates |{17.25:>hdMuwatta17.25}
+14.	Counting Lambs and Kids when Assessing Zakat |{17.26:>hdMuwatta17.26}
+15.	What to Do about the Zakat when Two Years are Assessed Together |{17.27:>hdMuwatta17.27}
+16.	The Prohibition against Making Things Difficult for People When Taking Zakat |{17.28:>hdMuwatta17.28}, {17.29:>hdMuwatta17.29}
+17.	Receiving Zakat, and Who is Permitted to Receive It |{17.30:>hdMuwatta17.30}
+18.	Collecting Zakat and Being Firm in Doing So |{17.31:>hdMuwatta17.31}, {17.32:>hdMuwatta17.32}, {17.33:>hdMuwatta17.33}
+19.	The Zakat on Estimated Yields of Date-Palms and Vines |{17.34:>hdMuwatta17.34}, {17.35:>hdMuwatta17.35}
+20.	The Zakat on Seeds and Olives |{17.36:>hdMuwatta17.36}
+21.	Fruit on which Zakat does Not have to be Paid |{17.37:>hdMuwatta17.37}
+22.	Fruits, Animal Fodder and Vegetables for which No Zakat has to be Paid |{17.37a:>hdMuwatta17.37a}
+23.	The Zakat on Slaves, Horses and Honey |{17.38:>hdMuwatta17.38}, {17.39:>hdMuwatta17.39}, {17.40:>hdMuwatta17.40}, {17.41:>hdMuwatta17.41}
+24.	Jizya on People of the Book and Magians |{17.42:>hdMuwatta17.42}, {17.43:>hdMuwatta17.43}, {17.44:>hdMuwatta17.44}, {17.45:>hdMuwatta17.45}, {17.46:>hdMuwatta17.46}
+25.	Tithes for the People of Dhimma |{17.47:>hdMuwatta17.47}, {17.48:>hdMuwatta17.48}, {17.49:>hdMuwatta17.49}
+26.	Selling Sadaqa and Taking It Back |{17.50:>hdMuwatta17.50}, {17.51:>hdMuwatta17.51}
+27.	Who Pays the Zakat al-Fitr |{17.52:>hdMuwatta17.52}
+28.	Measuring the Zakat al-Fitr |{17.53:>hdMuwatta17.53}, {17.54:>hdMuwatta17.54}, {17.55:>hdMuwatta17.55}
+29.	When to Send the Zakat al-Fitr |{17.56:>hdMuwatta17.56}, {17.57:>hdMuwatta17.57}
+30.	People for Whom it is Not Obligatory to Pay the Zakat al-Fitr |{17.58:>hdMuwatta17.58}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Fasting "Fasting"
+1.	Sighting the New Moon for Beginning and Ending the Fast of Ramadan |{18.1:>hdMuwatta18.1}, {18.21:>hdMuwatta18.2}, {18.3:>hdMuwatta18.3}, {18.4:>hdMuwatta18.4}
+2.	Making the Intention to Fast Before Dawn |{18.5:>hdMuwatta18.5}
+3.	Being Quick to Break the Fast |{18.6:>hdMuwatta18.6}, {18.7:>hdMuwatta18.7}, {18.8:>hdMuwatta18.8}
+4.	Fasting When Junub in the Morning during Ramadan |{18.9:>hdMuwatta18.9}, {18.10:>hdMuwatta18.10}, {18.1:>hdMuwatta18.11}, {18.12:>hdMuwatta18.12}
+5.	Permission for a Fasting Man to Kiss |{18.13:>hdMuwatta18.13}, {18.14:>hdMuwatta18.14}, {18.15:>hdMuwatta18.15}, {18.16:>hdMuwatta18.16}, {18.17:>hdMuwatta18.17}
+6.	Restraint in Kissing when Fasting |{18.18:>hdMuwatta18.18}, {18.19:>hdMuwatta18.19}, {18.20:>hdMuwatta18.20}
+7.	Fasting while Traveling |{18.21:>hdMuwatta18.21}, {18.22:>hdMuwatta18.22}, {18.23:>hdMuwatta18.23}, {18.24:>hdMuwatta18.24}, {18.25:>hdMuwatta18.25}, {18.26:>hdMuwatta18.26}
+8.	What to Do when Returning from a Journey in Ramadan or Intending to Travel in Ramadan |{18.27:>hdMuwatta18.27}
+9.	The Kaffara (Making Amends) for Breaking the Fast in Ramadan |{18.28:>hdMuwatta18.28}, {18.29:>hdMuwatta18.29}
+10.	Cupping a Man who is Fasting |{18.30:>hdMuwatta18.30}, {18.31:>hdMuwatta18.31}, {18.32:>hdMuwatta18.32}
+11.	Fasting on the Day of Ashura (the 10th of Muharram) |{18.33:>hdMuwatta18.33}, {18.34:>hdMuwatta18.34}, {18.35:>hdMuwatta18.35}
+12.	Fasting the Days of Fitr and Adha and Fasting Continuously |{18.36:>hdMuwatta18.36}, {18.37:>hdMuwatta18.37}
+13.	The Prohibition against Fasting for Two Days or More without Breaking the Fast in between (Wisal) |{18.38:>hdMuwatta18.38}, {18.39:>hdMuwatta18.39}
+14.	The Fasting of Someone who Kills by Mistake or Pronounces the Dhihar Form of Divorce |{18.40:>hdMuwatta18.40}
+15.	What a Sick Man Does when Fasting |{18.41:>hdMuwatta18.41}
+16.	The Vow to Fast, and Fasting for the Dead |{18.42:>hdMuwatta18.42}, {18.43:>hdMuwatta18.43}
+17.	Making Up Days Missed in Ramadan and the Kaffara |{18.44:>hdMuwatta18.44}, {18.45:>hdMuwatta18.45}, {18.46:>hdMuwatta18.46}, {18.47:>hdMuwatta18.47}, {18.48:>hdMuwatta18.48}, {18.49:>hdMuwatta18.49}
+18.	Making up for Voluntary Fasts (Broken) |{18.50:>hdMuwatta18.50}
+19.	The Fidya (Compensation of a Man who Breaks the Fast in Ramadan from Weakness) |{18.51:>hdMuwatta18.51}, {18.52:>hdMuwatta18.52}, {18.53:>hdMuwatta18.53}
+20.	Making up for Days Not Fasted in Ramadan in General |{18.54:>hdMuwatta18.54}
+21.	Fasting the 'Day of Doubt' |{18.55:>hdMuwatta18.55}
+22.	The Fast in General |{18.56:>hdMuwatta18.56}, {18.57:>hdMuwatta18.57}, {18.58:>hdMuwatta18.58}, {18.59:>hdMuwatta18.59}, {18.60:>hdMuwatta18.60}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Itikaf "Itikaf During Ramadan"
+1.	Mention of Itikaf |{19.1:>hdMuwatta19.1}, {19.2:>hdMuwatta19.2}, {19.3:>hdMuwatta19.3}
+2.	Things without Which Itikaf is Not Possible |{19.4:>hdMuwatta19.4}
+3.	Leaving Itikaf for the 'Id |{19.5:>hdMuwatta19.5}, {19.6:>hdMuwatta19.6}
+4.	Making Up for the Itikaf (Not Done) |{19.7:>hdMuwatta19.7}, {19.8:>hdMuwatta19.8}, {19.9:>hdMuwatta19.9}
+5.	Marriage in Itikaf |{19.9a:>hdMuwatta19.9a}
+6.	Laylat al-Qadr |{19.10:>hdMuwatta19.10}, {19.11:>hdMuwatta19.11}, {19.12:>hdMuwatta19.12}, {19.13:>hdMuwatta19.13}, {19.14:>hdMuwatta19.14}, {19.15:>hdMuwatta19.15}, {19.16:>hdMuwatta19.16}, {19.17:>hdMuwatta19.17}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Hajj "Hajj, Pilgrimage"
+1.	Doing Ghusl to enter Ihram |{20.1:>hdMuwatta20.1}, {20.2:>hdMuwatta20.2}, {20.3:>hdMuwatta20.3}
+2.	The Ghusl of Someone in Ihram |{20.4:>hdMuwatta20.4}, {20.5:>hdMuwatta20.5}, {20.61:>hdMuwatta20.6}, {20.7:>hdMuwatta20.7}
+3.	Clothes Forbidden to be Worn in Ihram |{20.8:>hdMuwatta20.8}
+4.	Wearing Clothes when in Ihram |{20.9:>hdMuwatta20.9}, {20.10:>hdMuwatta20.10}, {20.11:>hdMuwatta20.11}
+5.	Wearing a Belt while in Ihram |{20.12:>hdMuwatta20.12}
+6.	Veiling the Face while in Ihram |{20.13:>hdMuwatta20.13}, {20.14:>hdMuwatta20.14}, {20.15:>hdMuwatta20.15}, {20.16:>hdMuwatta20.16}
+7.	About Perfume during Hajj |{20.17:>hdMuwatta20.17}, {20.18:>hdMuwatta20.18}, {20.19:>hdMuwatta20.19}, {20.20:>hdMuwatta20.20}, {20.21:>hdMuwatta20.21}
+8.	Where People should Enter Ihram |{20.22:>hdMuwatta20.22}, {20.23:>hdMuwatta20.23}, {20.24:>hdMuwatta20.24}, {20.25:>hdMuwatta20.25}, {20.26:>hdMuwatta20.26}, {20.27:>hdMuwatta20.27}
+9.	How to Enter Ihram |{20.28:>hdMuwatta20.28}, {20.29:>hdMuwatta20.29}, {20.30:>hdMuwatta20.30}, {20.31:>hdMuwatta20.31}, {20.32:>hdMuwatta20.32}, {20.33:>hdMuwatta20.33}
+10.	Raising the Voice in Talbiyya |{20.34:>hdMuwatta20.34}, {20.35:>hdMuwatta20.35}
+11.	Doing Hajj on its Own |{20.36:>hdMuwatta20.36}, {20.37:>hdMuwatta20.37}, {20.38:>hdMuwatta20.38}, {20.39:>hdMuwatta20.39}
+12.	Doing Hajj and Umra Together (al-Qiran) |{20.40:>hdMuwatta20.40}, {20.41:>hdMuwatta20.41}, {20.42:>hdMuwatta20.42}
+13.	When to Stop the Talbiya |{20.43:>hdMuwatta20.43}, {20.44:>hdMuwatta20.44}, {20.45:>hdMuwatta20.45}, {20.46:>hdMuwatta20.46}, {20.47:>hdMuwatta20.47}, {20.48:>hdMuwatta20.48}, {20.49:>hdMuwatta20.49}
+14.	How the People of Makka, and Those Besides Them Living There, Go into Ihram |{20.50:>hdMuwatta20.50}, {20.51:>hdMuwatta20.51}
+15.	Situations when Ihram Not Obligatory for Garlanding Sacrificial Animals |{20.52:>hdMuwatta20.52}, {20.53:>hdMuwatta20.53}, {20.54:>hdMuwatta20.54}
+16.	What a Menstruating Woman Does on Hajj |{20.55:>hdMuwatta20.55}
+17.	Umra in the Months of Hajj |{20.56:>hdMuwatta20.56}, {20.57:>hdMuwatta20.57}, {20.58:>hdMuwatta20.58}, {20.59:>hdMuwatta20.59}
+18.	When to Stop Saying the Talbiya for Umra |{20.60:>hdMuwatta20.60}
+19.	Hajj at-Tamattu |{20.61:>hdMuwatta20.61}, {20.62:>hdMuwatta20.62}, {20.63:>hdMuwatta20.63}, {20.64:>hdMuwatta20.64}
+20.	Circumstances in which Tamattu is Not  Obligatory |{20.65:>hdMuwatta20.65}
+21.	About Umra in General |{20.66:>hdMuwatta20.66}, {20.67:>hdMuwatta20.67}, {20.68:>hdMuwatta20.68}, {20.69:>hdMuwatta20.69}
+22.	Marriage in Ihram |{20.70:>hdMuwatta20.70}, {20.71:>hdMuwatta20.71}, {20.72:>hdMuwatta20.72}, {20.73:>hdMuwatta20.73}, {20.74:>hdMuwatta20.74}
+23.	Cupping in Ihram |{20.75:>hdMuwatta20.75}{20.76:>hdMuwatta20.76}
+24.	Game that can be Eaten by Someone who is in Ihram |{20.77:>hdMuwatta20.77}, {20.78:>hdMuwatta20.78}, {20.79:>hdMuwatta20.79}, {20.80:>hdMuwatta20.80}, {20.81:>hdMuwatta20.81}, {20.82:>hdMuwatta20.82}, {20.83:>hdMuwatta20.83}
+25.	Game that is Not Halal to Eat in Ihram |{20.84:>hdMuwatta20.84}, {20.85:>hdMuwatta20.85}, {20.86:>hdMuwatta20.86}
+26.	Hunting in the Haram |{20.87:>hdMuwatta20.87}
+27.	Assessing the Forfeit for Hunting Game Animals that Someone in Ihram can Kill |{20.88:>hdMuwatta20.88}
+28.	Animals that Someone in Ihram can kill |{20.89:>hdMuwatta20.89}, {20.90:>hdMuwatta20.90}, {20.91:>hdMuwatta20.91}, {20.92:>hdMuwatta20.92}
+29.	Things that Someone in Ihram is Allowed to Do |{20.93:>hdMuwatta20.93}, {20.94:>hdMuwatta20.94}, {20.95:>hdMuwatta20.95}, {20.96:>hdMuwatta20.96}, {20.97:>hdMuwatta20.97}
+30.	Doing the Hajj for Someone Else |{20.98:>hdMuwatta20.98}
+31.	Concerning Someone whose Path (to the House) is Blocked by an Enemy |{20.99:>hdMuwatta20.99}, {20.100:>hdMuwatta20.100}
+32.	Concerning Someone who is Hindered (from Going to the House) by Something Other than an Enemy |{20.101:>hdMuwatta20.101}, {20.102:>hdMuwatta20.102}, {20.103:>hdMuwatta20.103}, {20.104:>hdMuwatta20.104}
+33.	Concerning the Building of the Ka'ba |{20.105:>hdMuwatta20.105}, {20.106:>hdMuwatta20.106}, {20.107:>hdMuwatta20.107}
+34.	Hastening (Raml) in the Tawaf |{20.108:>hdMuwatta20.108}, {20.109:>hdMuwatta20.109}, {20.110:>hdMuwatta20.110}, {20.111:>hdMuwatta20.111}, {20.112:>hdMuwatta20.112}
+35.	Saluting the Corners of the Ka'ba during the Tawaf |{20.113:>hdMuwatta20.113}, {20.114:>hdMuwatta20.114}, {20.115:>hdMuwatta20.115}
+36.	Kissing the Corner of the Black Stone in the Salutation |{20.116:>hdMuwatta20.116}
+37.	The Two Rak'as of the Tawaf |{20.117:>hdMuwatta20.117}
+38.	Praying After Subh and Asr in the Tawaf |{20.118:>hdMuwatta20.118}, {20.119:>hdMuwatta20.119}, {20.120:>hdMuwatta20.120}
+39.	Taking Leave of the House |{20.121:>hdMuwatta20.121}, {20.122:>hdMuwatta20.122}, {20.123:>hdMuwatta20.123}
+40.	Tawaf in General |{20.124:>hdMuwatta20.124}, {20.125:>hdMuwatta20.125}, {20.126:>hdMuwatta20.126}
+41.	Starting with Safa in the Sa'y |{20.127:>hdMuwatta20.127}, {20.128:>hdMuwatta20.128}, {20.129:>hdMuwatta20.129}
+42.	Sa'y in General |{20.130:>hdMuwatta20.130}, {20.131:>hdMuwatta20.131}, {20.132:>hdMuwatta20.132}
+43.	Fasting the Day of Arafa |{20.133:>hdMuwatta20.133}, {20.134:>hdMuwatta20.134}
+44.	Fasting on the Days of Mina |{20.135:>hdMuwatta20.135}, {20.136:>hdMuwatta20.136}, {20.137:>hdMuwatta20.137}, {20.138:>hdMuwatta20.138}
+45.	What are Acceptable as Sacrificial Animals (Hadys) |{20.139:>hdMuwatta20.139}, {20.140:>hdMuwatta20.140}, {20.141:>hdMuwatta20.141}, {20.142:>hdMuwatta20.142}, {20.143:>hdMuwatta20.143}, {20.144:>hdMuwatta20.144}, {20.145:>hdMuwatta20.145}
+46.	What to Do with Sacrificial Animals (Hadys) while They are being Driven |{20.146:>hdMuwatta20.146}, {20.147:>hdMuwatta20.147}, {20.148:>hdMuwatta20.148}, {20.149:>hdMuwatta20.149}, {20.150:>hdMuwatta20.150}, {20.151:>hdMuwatta20.151}, {20.152:>hdMuwatta20.152}, {20.153:>hdMuwatta20.153}
+47.	What to Do with Sacrificial Animals (Hadys) if They get Injured or Stray |{20.154:>hdMuwatta20.154}, {20.155:>hdMuwatta20.155}, {20.156:>hdMuwatta20.156}, {20.157:>hdMuwatta20.157}, {20.158:>hdMuwatta20.158}, {20.159:>hdMuwatta20.159}
+48.	The Animal ( Hady) to be Sacrificed for Intercourse in Ihram |{20.160:>hdMuwatta20.160}, {20.161:>hdMuwatta20.161}
+49.	The Animal ( Hady) to be Sacrificed for Missing the Hajj |{20.162:>hdMuwatta20.162}, {20.163:>hdMuwatta20.163}
+50.	Intercourse with One's Wife Before Doing the Tawaf al-Ifada |{20.164:>hdMuwatta20.164}, {20.165:>hdMuwatta20.165}, {20.166:>hdMuwatta20.166}
+51.	Sacrificial Animals Considered the Least Difficult |{20.167:>hdMuwatta20.167}, {20.168:>hdMuwatta20.168}, {20.169:>hdMuwatta20.169}, {20.170:>hdMuwatta20.170}
+52.	Sacrificial Animals in General |{20.171:>hdMuwatta20.171}, {20.172:>hdMuwatta20.172}, {20.173:>hdMuwatta20.173}, {20.174:>hdMuwatta20.174}
+53.	The Wuquf (Standing) at Arafa and Muzdalifa |{20.175:>hdMuwatta20.175}, {20.176:>hdMuwatta20.176}
+54.	Wuquf Not in Wudu, and Wuquf on a Riding Beast |{20.177:>hdMuwatta20.177}
+55.	The Wuquf at Arafa of Someone Who Misses Hajj |{20.178:>hdMuwatta20.178}, {20.179:>hdMuwatta20.179}
+56.	Sending Women and Children Ahead |{20.180:>hdMuwatta20.180}, {20.181:>hdMuwatta20.181}, {20.182:>hdMuwatta20.182}, {20.183:>hdMuwatta20.183}, {20.184:>hdMuwatta20.184}
+57.	Going from 'Arafa to Muzdalifa |{20.185:>hdMuwatta20.185}, {20.186:>hdMuwatta20.186}
+58.	Sacrificing During the Hajj |{20.187:>hdMuwatta20.187}, {20.188:>hdMuwatta20.188}, {20.189:>hdMuwatta20.189}
+59.	How to Make the Sacrifice |{20.190:>hdMuwatta20.190}, {20.191:>hdMuwatta20.191}, {20.192:>hdMuwatta20.192}
+60.	Shaving the Head |{20.193:>hdMuwatta20.193}, {20.194:>hdMuwatta20.194}
+61.	Cutting the Hair |{20.195:>hdMuwatta20.195}, {20.196:>hdMuwatta20.196}, {20.197:>hdMuwatta20.197}, {20.198:>hdMuwatta20.198}, {20.199:>hdMuwatta20.199}
+62.	Matting the Hair |{20.200:>hdMuwatta20.200}, {20.201:>hdMuwatta20.201}
+63.	Prayer in the House (Ka'ba), Shortening the Prayer, and Hastening the Khutba at Arafa |{20.202:>hdMuwatta20.202}, {20.203:>hdMuwatta20.203}
+64.	Prayer at Mina on the Eighth Day of Dhu'l Hijja, and the Jumua at Mina and at Arafa |{20.204:>hdMuwatta20.204}
+65.	Prayer at Muzdalifa |{20.205:>hdMuwatta20.205}, {20.206:>hdMuwatta20.206}, {20.207:>hdMuwatta20.207}, {20.208:>hdMuwatta20.208}
+66.	Prayer at Mina |{20.209:>hdMuwatta20.209}, {20.210:>hdMuwatta20.210}, {20.211:>hdMuwatta20.211}, {20.212:>hdMuwatta20.212}
+67.	The Prayer of the Visitor of Makka or Mina |{20.213:>hdMuwatta20.213}
+68.	The Takbir of the Days of Tashriq |{20.214:>hdMuwatta20.214}
+69.	Prayer at al-MuCarras and al-Muhassab |{20.215:>hdMuwatta20.215}, {20.216:>hdMuwatta20.216}
+70.	Staying Overnight at Makka on the Nights of Mina |{20.217:>hdMuwatta20.217}, {20.218:>hdMuwatta20.218}, {20.219:>hdMuwatta20.219}
+71.	Stoning the Jamras |{20.220:>hdMuwatta20.220}, {20.221:>hdMuwatta20.221}, {20.222:>hdMuwatta20.222}, {20.223:>hdMuwatta20.223}, {20.224:>hdMuwatta20.224}, {20.225:>hdMuwatta20.225}, {20.226:>hdMuwatta20.226}
+72.	Indulgence with Respect to Stoning the Jamras |{20.227:>hdMuwatta20.227}, {20.228:>hdMuwatta20.228}, {20.229:>hdMuwatta20.229}
+73.	The Tawaf al-Ifada |{20.230:>hdMuwatta20.230}, {20.231:>hdMuwatta20.231}
+74.	A Menstruating Woman's Entering Makka |{20.232:>hdMuwatta20.232}, {20.233:>hdMuwatta20.233}
+75.	The Tawaf al-Ifada of a Menstruating Woman |{20.234:>hdMuwatta20.234}, {20.235:>hdMuwatta20.235}, {20.236:>hdMuwatta20.236}, {20.237:>hdMuwatta20.237}, {20.238:>hdMuwatta20.238}
+76.	The Compensation (Fidya) for Killing Birds and Wild Animals in Ihram |{20.239:>hdMuwatta20.239}, {20.240:>hdMuwatta20.240}, {20.241:>hdMuwatta20.241}, {20.242:>hdMuwatta20.242}, {20.243:>hdMuwatta20.243}
+77.	The Fidya for Killing Locusts in Ihram |{20.244:>hdMuwatta20.244}, {20.245:>hdMuwatta20.245}
+78.	The Fidya for Shaving the Head Before Sacrificing |{20.246:>hdMuwatta20.246}, {20.247:>hdMuwatta20.247}, {20.248:>hdMuwatta20.248}
+79.	What to Do for Forgetfulness in the Rituals |{20.249:>hdMuwatta20.249}
+80.	Compensation (Fidya) in General |{20.250:>hdMuwatta20.250}
+81.	The Hajj in General |{20.251:>hdMuwatta20.251}, {20.252:>hdMuwatta20.252}, {20.253:>hdMuwatta20.253}, {20.254:>hdMuwatta20.254}, {20.255:>hdMuwatta20.255}, {20.256:>hdMuwatta20.256}, {20.257:>hdMuwatta20.257}, {20.258:>hdMuwatta20.258}, {20.259:>hdMuwatta20.259}, {20.260:>hdMuwatta20.260}, {20.261:>hdMuwatta20.261}, {20.262:>hdMuwatta20.262}
+82.	The Hajj of a Woman without a Mahram |{20.263:>hdMuwatta20.263}
+83.	Fasting in at-Tamattu |{20.264:>hdMuwatta20.264}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Jihad "Jihad"
+1.	Stimulation of Desire for Jihad |{21.1:>hdMuwatta21.1}, {21.2:>hdMuwatta21.2}, {21.3:>hdMuwatta21.3}, {21.4:>hdMuwatta21.4}, {21.5:>hdMuwatta21.5}, {21.6:>hdMuwatta21.6}
+2.	Prohibition against Traveling with the Qur'an in Enemy Territory |{21.7:>hdMuwatta21.7}
+3.	Prohibition against Killing Women and Children on Military Expeditions |{21.8:>hdMuwatta21.8}, {21.9:>hdMuwatta21.9}, {21.10:>hdMuwatta21.10}, {21.11:>hdMuwatta21.11}
+4.	Fulfilling Safe Conduct |{21.12:>hdMuwatta21.12}
+5.	Giving in the Way of Allah |{21.13:>hdMuwatta21.13}, {21.14:>hdMuwatta21.14}
+6.	Booty from War in General |{21.15:>hdMuwatta21.15}, {21.16:>hdMuwatta21.16}
+7.	Things on Which Tax of One Fifth Not Obligatory |{21.16a:>hdMuwatta21.16a}
+8.	What is Permissible for Muslims to Eat Before the Spoils are Divided |{21.16b:>hdMuwatta21.16b}
+9.	Returning to the Owner What has been Captured by the Enemy Before the Division of the Spoils |{21.17:>hdMuwatta21.17}
+10.	Stripping the Slain of their Personal Effects in the Booty |{21.18:>hdMuwatta21.18}, {21.19:>hdMuwatta21.19}
+11.	Awarding Bonuses from the Tax of One Fifth ( Khumus) |{21.20:>hdMuwatta21.20}
+12.	The Share of the Spoils Allotted to Cavalry on Military Expeditions |{21.21:>hdMuwatta21.21}
+13.	Stealing from the Spoils |{21.22:>hdMuwatta21.22}, {21.23:>hdMuwatta21.23}, {21.24:>hdMuwatta21.24}, {21.25:>hdMuwatta21.25}, {21.26:>hdMuwatta21.26}
+14.	Martyrs in the Way of Allah |{21.27:>hdMuwatta21.27}, {21.28:>hdMuwatta21.28}, {21.29:>hdMuwatta21.29}, {21.30:>hdMuwatta21.30}, {21.31:>hdMuwatta21.31}, {21.32:>hdMuwatta21.32}, {21.33:>hdMuwatta21.33}
+15.	Things in which Martyrdom Lies |{21.34:>hdMuwatta21.34}, {21.35:>hdMuwatta21.35}
+16.	How to Wash the Martyr |{21.36:>hdMuwatta21.36}, {21.37:>hdMuwatta21.37}
+17.	What is Disliked to be Done with Something Given in the Way of Allah |{21.38:>hdMuwatta21.38}
+18.	Stimulation of Desire for Jihad |{21.39:>hdMuwatta21.39}, {21.40:>hdMuwatta21.40}, {21.41:>hdMuwatta21.41}, {21.42:>hdMuwatta21.42}, {21.43:>hdMuwatta21.43}
+19.	Horses and Racing Them and Expending in Military Expeditions |{21.44:>hdMuwatta21.44}, {21.45:>hdMuwatta21.45}, {21.46:>hdMuwatta21.46}, {21.47:>hdMuwatta21.47}, {21.48:>hdMuwatta21.48}, {21.49:>hdMuwatta21.49}
+20.	Acquisition of the Land of Those who Surrender from the People of Dhimma |{21.49a:>hdMuwatta21.49a}
+21.	Burial in One Grave by Necessity and Abu Bakr's, may Allah be Pleased with Him, Carrying Out the Promise of the Messenger of Allah, may Allah Bless Him and Grant Him Peace, After the Death of the Messenger, may Allah Bless Him and Grant Him Peace |{21.50:>hdMuwatta21.50}, {21.51:>hdMuwatta21.51}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Oath_Vows "Oaths and Vows"
+1.	Fulfilling Vows to Walk |{22.1:>hdMuwatta22.1}, {22.2:>hdMuwatta22.2}, {22.3:>hdMuwatta22.3}
+2.	Making Vows to Walk to the House and Not Succeeding |{22.4:>hdMuwatta22.4}, {22.5:>hdMuwatta22.5}
+3.	How to Fulfill the Oath of Walking to the Ka'ba |{22.5a:>hdMuwatta22.5a}
+4.	Vows Not Permitted in Disobedience to Allah |{22.6:>hdMuwatta22.6}, {22.7:>hdMuwatta22.7}, {22.8:>hdMuwatta22.8}
+5.	Rashness in Oaths |{22.9:>hdMuwatta22.9}
+6.	Oaths for which Kattara Not Obligatory |{22.10:>hdMuwatta22.10}
+7.	Oaths for which Kaffara Obligatory |{22.11:>hdMuwatta22.11}
+8.	Behavior in the Kaffara of the Broken Oath |{22.12:>hdMuwatta22.12}, {22.13:>hdMuwatta22.13}
+9.	Oaths in General |{22.14:>hdMuwatta22.14}, {22.15:>hdMuwatta22.15}, {22.16:>hdMuwatta22.16}, {22.17:>hdMuwatta22.17}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Animals_Sacrifice "Animals, Sacrifice"
+1.	Animals to Be Avoided as Sacrifices |{23.1:>hdMuwatta23.1}, {23.2:>hdMuwatta23.2}
+2.	Animals Desirable as Sacrifices |{23.3:>hdMuwatta23.3}
+3.	Prohibition against Sacrificing Animals Before the Imam Departs |{23.4:>hdMuwatta23.4}, {23.5:>hdMuwatta23.5}
+4.	Storing Meat from Sacrificial Animals |{23.6:>hdMuwatta23.6}, {23.7:>hdMuwatta23.7}, {23.8:>hdMuwatta23.8}
+5.	Sharing Sacrificial Animals and How Many Share a Cow or Camel |{23.9:>hdMuwatta23.9}, {23.10:>hdMuwatta23.10}, {23.11:>hdMuwatta23.11}
+6.	The Sacrificial Animal for the Child in the Womb and Mention of the Days of Sacrifice |{23.12:>hdMuwatta23.12}, {23.13:>hdMuwatta23.13}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Animals_Slaughtering "Animals, Slaughtering"
+1.	Saying the Name of Allah over the Slaughtered Animal |{24.1:>hdMuwatta24.1}, {24.2:>hdMuwatta24.2}
+2.	Methods of Slaughter Permitted in Necessity |{24.3:>hdMuwatta24.3}, {24.4:>hdMuwatta24.4}, {24.5:>hdMuwatta24.5}, {24.6:>hdMuwatta24.6}
+3.	What is Disapproved of in Slaughtering Animals |{24.7:>hdMuwatta24.7}
+4.	Slaughtering What is in the Womb of a Slaughtered Animal |{24.8:>hdMuwatta24.8}, {24.9:>hdMuwatta24.9}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Animals_Hunting "Animals, Hunting"
+1.	Eating Game Killed with Throwing Sticks and by Stones |{25.1:>hdMuwatta25.1}, {25.2:>hdMuwatta25.2}, {25.3:>hdMuwatta25.3}, {25.4:>hdMuwatta25.4}, {25.5:>hdMuwatta25.5}
+2.	Game Caught by Trained Dogs |{25.6:>hdMuwatta25.6}, {25.7:>hdMuwatta25.7}, {25.8:>hdMuwatta25.8}
+3.	Game of the Sea |{25.9:>hdMuwatta25.9}, {25.10:>hdMuwatta25.10}, {25.11:>hdMuwatta25.11}, {25.12:>hdMuwatta25.12}
+4.	Prohibition against Eating Animals with Fangs |{25.13:>hdMuwatta25.13}, {25.14:>hdMuwatta25.14}
+5.	What is Disapproved of Regarding Eating Riding Animals |{25.15:>hdMuwatta25.15}
+6.	Using the Skin of Animals Found Dead |{25.16:>hdMuwatta25.16}, {25.17:>hdMuwatta25.17}, {25.18:>hdMuwatta25.18}
+7.	Eating Carrion when Forced to out of Necessity |{25.19:>hdMuwatta25.19}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Aqiqa "Aqiqa"
+1.	About the Aqiqa |{26.1:>hdMuwatta26.1}, {26.2:>hdMuwatta26.2}, {26.3:>hdMuwatta26.3}
+2.	Behavior in the Aqiqa |{26.4:>hdMuwatta26.4}, {26.5:>hdMuwatta26.5}, {26.6:>hdMuwatta26.6}, {26.7:>hdMuwatta26.7}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Faraid "Fara'id"
+1.	Inheritance of Descendants |{27.0a:>hdMuwatta27.0a}
+2.	Inheritance of Husbands from Wives and Wives from Husbands |{27.0b:>hdMuwatta27.0b}
+3.	Inheritance of Fathers and Mothers from Children |{27.0c:>hdMuwatta27.0c}
+4.	Inheritance of Maternal Half-Siblings |{27.0d:>hdMuwatta27.0d}
+5.	Inheritance of Full-Siblings |{27.0e:>hdMuwatta27.0e}
+6.	Inheritance of Paternal Halt-Siblings |{27.0f:>hdMuwatta27.0f}
+7.	Inheritance of Grandfathers |{27.1:>hdMuwatta27.1}, {27.2:>hdMuwatta27.2}, {27.3:>hdMuwatta27.3}
+8.	Inheritance of Grandmothers |{27.4:>hdMuwatta27.4}, {27.5:>hdMuwatta27.5}, {27.6:>hdMuwatta27.6}
+9.	Inheritance of Persons without Parents or Offspring |{27.7:>hdMuwatta27.7}
+10.	Paternal Aunts |{27.8:>hdMuwatta27.8}, {27.9:>hdMuwatta27.9}
+11.	Inheritance of Paternal Relations |{27.9a:>hdMuwatta27.9a}
+12.	People who do Not Inherit |{27.9b:>hdMuwatta27.9b}
+13.	Inheritance from People of Other Religions |{27.10:>hdMuwatta27.10}, {27.11:>hdMuwatta27.11}, {27.12:>hdMuwatta27.12}, {27.13:>hdMuwatta27.13}, {27.14:>hdMuwatta27.14}
+14.	People Killed in Battle or Otherwise whose Situation in Inheritance is Not Known |{27.15:>hdMuwatta27.15}
+15.	Inheritance of Children of Disputed Paternity and Children of Fornication |{27.16:>hdMuwatta27.16}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Marriage "Marriage"
+1.	Asking for Someone's Hand in Marriage |{28.1:>hdMuwatta28.1}, {28.2:>hdMuwatta28.2}, {28.3:>hdMuwatta28.3}
+2.	Asking Consent of Virgins and Women Previously Married for their Persons |{28.4:>hdMuwatta28.4}, {28.5:>hdMuwatta28.5}, {28.6:>hdMuwatta28.6}, {28.7:>hdMuwatta28.7}
+3.	The Bride-Price and Unreturnable Gifts |{28.8:>hdMuwatta28.8}, {28.9:>hdMuwatta28.9}, {28.10:>hdMuwatta28.10}, {28.11:>hdMuwatta28.11}
+4.	Consummating the Marriage |{28.12:>hdMuwatta28.12}, {28.13:>hdMuwatta28.13}
+5.	Wedding Nights of Virgins and Women Previously Married |{28.14:>hdMuwatta28.14}, {28.15:>hdMuwatta28.15}
+6.	Stipulations Not Permitted in Marriage |{28.16:>hdMuwatta28.16}
+7.	Marriage of the Muhallil and its Like |{28.17:>hdMuwatta28.17}, {28.18:>hdMuwatta28.18}, {28.19:>hdMuwatta28.19}
+8.	Combinations of Women Not to Be Married Together |{28.20:>hdMuwatta28.20}, {28.21:>hdMuwatta28.21}
+9.	Prohibition against Marrying Mothers of Wives |{28.22:>hdMuwatta28.22}, {28.23:>hdMuwatta28.23}
+10.	Marriage to Mothers of Women with Whom One has had Sexual Relations in Disapproved Manner |{28.23a:>hdMuwatta28.23a}
+11.	What is Not Permitted in Marriage in General |{28.24:>hdMuwatta28.24}, {28.25:>hdMuwatta28.25}, {28.26:>hdMuwatta28.26}, {28.271:>hdMuwatta28.27}
+12.	Marrying Slaves when already Married to Free Women |{28.28:>hdMuwatta28.28}, {28.29:>hdMuwatta28.29}
+13.	A Man's Owning a Slave Whom He has Married and then Divorced |{28.30:>hdMuwatta28.30}, {28.31:>hdMuwatta28.31}, {28.32:>hdMuwatta28.32}
+14.	Reprehensibility of Intercourse with Two Sisters or a Mother and Daughter that One Owns |{28.33:>hdMuwatta28.33}, {28.34:>hdMuwatta28.34}, {28.35:>hdMuwatta28.35}
+15.	Prohibition against Intercourse with Slave-Girls who Belonged to One's Father |{28.36:>hdMuwatta28.36}, {28.37:>hdMuwatta28.37}, {28.38:>hdMuwatta28.38}
+16.	Prohibition against Marrying Slave-Girls of the People of the Book |{28.38a:>hdMuwatta28.38a}
+17.	Muhsanat |{28.39:>hdMuwatta28.39}, {28.40:>hdMuwatta28.40}
+18.	Temporary Marriage |{28.41:>hdMuwatta28.41}, {28.42:>hdMuwatta28.42}
+19.	Marriage of Slaves |{28.43:>hdMuwatta28.43}
+20.	Marriage of Idol Worshippers when Their Wives become Muslim before Them |{28.44:>hdMuwatta28.44}, {28.45:>hdMuwatta28.45}, {28.46:>hdMuwatta28.46}
+21.	The Wedding Feast |{28.47:>hdMuwatta28.47}, {28.48:>hdMuwatta28.48}, {28.49:>hdMuwatta28.49}, {28.50:>hdMuwatta28.50}, {28.51:>hdMuwatta28.51}
+22.	Marriage in General |{28.52:>hdMuwatta28.52}, {28.53:>hdMuwatta28.53}, {28.54:>hdMuwatta28.54}, {28.55:>hdMuwatta28.55}, {28.56:>hdMuwatta28.56}, {28.57:>hdMuwatta28.57}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Divorce "Divorce"
+1.	The Irrevocable' Divorce |{29.1:>hdMuwatta29.1}, {29.2:>hdMuwatta29.2}, {29.3:>hdMuwatta29.3}, {29.4:>hdMuwatta29.4}
+2.	Divorce by Euphemistic Statements |{29.5:>hdMuwatta29.5}, {29.6:>hdMuwatta29.6}, {29.7:>hdMuwatta29.7}, {29.8:>hdMuwatta29.8}, {29.9:>hdMuwatta29.9}
+3.	What is Clear about Giving Wives Right of Divorce |{29.10:>hdMuwatta29.10}, {29.11:>hdMuwatta29.11}
+4.	Circumstances in Which only One Pronouncement of Divorce Permitted in Giving Wives Right of Divorce |{29.12:>hdMuwatta29.12}, {29.13:>hdMuwatta29.13}
+5.	What is Not Clear in Giving Wives Right of Divorce |{29.14:>hdMuwatta29.14}, {29.15:>hdMuwatta29.15}, {29.16:>hdMuwatta29.16}
+6.	Annulment of Marriage by Husband's Vow to Refrain from Intercourse (Ila) |{29.17:>hdMuwatta29.17}, {29.18:>hdMuwatta29.18}, {29.19:>hdMuwatta29.19}
+7.	The Ila (Vow of Abstention) of Slaves |{29.19a:>hdMuwatta29.19a}
+8.	Dhihar of Free Men |{29.20:>hdMuwatta29.20}, {29.21:>hdMuwatta29.21}, {29.22:>hdMuwatta29.22}, {29.23:>hdMuwatta29.23}
+9.	Dhihar of Slaves |{29.24:>hdMuwatta29.24}
+10.	The Option (of Slave-Girls Married to Slaves when Freed) |{29.25:>hdMuwatta29.25}, {29.26:>hdMuwatta29.26}, {29.27:>hdMuwatta29.27}, {29.28:>hdMuwatta29.28}, {29.29:>hdMuwatta29.29}, {29.30:>hdMuwatta29.30}
+11.	Separating from Wives for Compensation |{29.31:>hdMuwatta29.31}, {29.32:>hdMuwatta29.32}
+12.	Divorce of Men who Divorce for Compensation |{29.33:>hdMuwatta29.33}
+13.	Lian (Invoking Mutual Curses) |{29.34:>hdMuwatta29.34}, {29.35:>hdMuwatta29.35}
+14.	Inheritance of Children of Women against whom Lian has been Pronounced |{29.36:>hdMuwatta29.36}
+15.	Divorce of Virgins |{29.37:>hdMuwatta29.37}, {29.38:>hdMuwatta29.38}, {29.39:>hdMuwatta29.39}
+16.	Divorce of Sick Men |{29.40:>hdMuwatta29.40}, {29.41:>hdMuwatta29.41}, {29.42:>hdMuwatta29.42}, {29.43:>hdMuwatta29.43}, {29.44:>hdMuwatta29.44}
+17.	Compensation in Divorce |{29.45:>hdMuwatta29.45}, {29.46:>hdMuwatta29.46}
+18.	Divorce of Slaves |{29.47:>hdMuwatta29.47}, {29.48:>hdMuwatta29.48}, {29.49:>hdMuwatta29.49}, {29.50:>hdMuwatta29.50}, {29.51:>hdMuwatta29.51}
+19.	Maintenance of Slave-Girls Divorced when Pregnant |{29.51a:>hdMuwatta29.51a}
+20.	Idda of Women whose Husbands are Missing |{29.52:>hdMuwatta29.52}
+21.	Idda of Divorce and Divorce of Menstruating Women |{29.53:>hdMuwatta29.53}, {29.54:>hdMuwatta29.54}, {29.55:>hdMuwatta29.55}, {29.56:>hdMuwatta29.56}, {29.57:>hdMuwatta29.57}, {29.58:>hdMuwatta29.58}, {29.59:>hdMuwatta29.59}, {29.60:>hdMuwatta29.60}, {29.61:>hdMuwatta29.61}, {29.62:>hdMuwatta29.62}
+22.	Idda of Women in their Houses when Divorced in Them |{29.63:>hdMuwatta29.63}, {29.64:>hdMuwatta29.64}, {29.65:>hdMuwatta29.65}, {29.66:>hdMuwatta29.66}
+23.	Maintenance of Divorced Women |{29.67:>hdMuwatta29.67}, {29.68:>hdMuwatta29.68}
+24.	Idda of Slave-Girls Divorced by Their Husbands |{29.69:>hdMuwatta29.69}
+25.	General Chapter on 'Idda of Divorce |{29.70:>hdMuwatta29.70}, {29.71:>hdMuwatta29.71}
+26.	The Two Arbiters |{29.72:>hdMuwatta29.72}
+27.	Oath of Men to Divorce while Not yet Married |{29.73:>hdMuwatta29.73}
+28.	Deadline of Men who do Not have Intercourse with Their Wives |{29.74:>hdMuwatta29.74}, {29.75:>hdMuwatta29.75}
+29.	General Section on Divorce |{29.76:>hdMuwatta29.76}, {29.77:>hdMuwatta29.77}, {29.78:>hdMuwatta29.78}, {29.79:>hdMuwatta29.79}, {29.80:>hdMuwatta29.80}, {29.81:>hdMuwatta29.81}, {29.82:>hdMuwatta29.82}
+30.	Idda of Widows when Pregnant |{29.83:>hdMuwatta29.83}, {29.84:>hdMuwatta29.84}, {29.85:>hdMuwatta29.85}, {29.86:>hdMuwatta29.86}
+31.	Widows Remaining in Their Houses until Free to Marry |{29.87:>hdMuwatta29.87}, {29.88:>hdMuwatta29.88}, {29.89:>hdMuwatta29.89}, {29.90:>hdMuwatta29.90}
+32.	Idda of an Umm Walad when Her Master Dies |{29.91:>hdMuwatta29.91}, {29.92:>hdMuwatta29.92}
+33.	Idda of Slave-Girls whose Master or Husband Dies |{29.93:>hdMuwatta29.93}, {29.94:>hdMuwatta29.94}
+34.	Coitus Interruptus |{29.95:>hdMuwatta29.95}, {29.96:>hdMuwatta29.96}, {29.97:>hdMuwatta29.97}, {29.98:>hdMuwatta29.98}, {29.99:>hdMuwatta29.99}, {29.100:>hdMuwatta29.100}
+35.	Limit of Abstaining from Adornment in Mourning |{29.101:>hdMuwatta29.101}, {29.102:>hdMuwatta29.102}, {29.103:>hdMuwatta29.103}, {29.104:>hdMuwatta29.104}, {29.105:>hdMuwatta29.105}, {29.106:>hdMuwatta29.106}, {29.107:>hdMuwatta29.107}, {29.108:>hdMuwatta29.108}, {29.109:>hdMuwatta29.109}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Suckling "Suckling"
+1.	Suckling of the Young |{30.1:>hdMuwatta30.1}, {30.2:>hdMuwatta30.2}, {30.3:>hdMuwatta30.3}, {30.4:>hdMuwatta30.4}, {30.5:>hdMuwatta30.5}, {30.6:>hdMuwatta30.6}, {30.7:>hdMuwatta30.7}, {30.8:>hdMuwatta30.8}, {30.9:>hdMuwatta30.9}, {30.10:>hdMuwatta30.10}, {30.11:>hdMuwatta30.11}
+2.	Suckling of Older People |{30.12:>hdMuwatta30.12}, {30.13:>hdMuwatta30.13}, {30.14:>hdMuwatta30.14}
+3.	Suckling in General |{30.15:>hdMuwatta30.15}, {30.16:>hdMuwatta30.16}, {30.17:>hdMuwatta30.17}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Business "Business"
+1.	Non-Returnable Deposits |{31.1:>hdMuwatta31.1}
+2.	Wealth of Slaves |{31.2:>hdMuwatta31.2}
+3.	Built-in Liability Agreements |{31.3:>hdMuwatta31.3}
+4.	Defects in Slaves |{31.4:>hdMuwatta31.4}
+5.	What is Done about Slave-Girls when Purchased and Conditions Made about Them |{31.5:>hdMuwatta31.5}, {31.6:>hdMuwatta31.6}
+6.	Prohibition against Intercourse with Slave-Girls who have Husbands |{31.7:>hdMuwatta31.7}, {31.8:>hdMuwatta31.8}
+7.	Ownership of the Fruit of Trees which have been Sold |{31.9:>hdMuwatta31.9}
+8.	Prohibition against Selling Fruit until It starts to Ripen |{31.10:>hdMuwatta31.10}, {31.11:>hdMuwatta31.11}, {31.12:>hdMuwatta31.12}, {31.13:>hdMuwatta31.13}
+9.	The Sale of Ariyas |{31.14:>hdMuwatta31.14}
+10.	How Crop Damage Affects Sales of Agricultural Produce |{31.15:>hdMuwatta31.15}, {31.16:>hdMuwatta31.16}
+11.	What is Permissible in Keeping Back a Portion of the Fruit |{31.17:>hdMuwatta31.17}, {31.18:>hdMuwatta31.18}, {31.19:>hdMuwatta31.19}
+12.	What is Not Recommended in the Sale of Dates |{31.20:>hdMuwatta31.20}, {31.21:>hdMuwatta31.21}, {31.22:>hdMuwatta31.22}
+13.	Muzabana and Muhaqala |{31.23:>hdMuwatta31.23}, {31.24:>hdMuwatta31.24}, {31.25:>hdMuwatta31.25}
+14.	General Remarks about Selling Produce at Its Source |{31.26:>hdMuwatta31.26}
+15.	Selling Fruit |{31.27:>hdMuwatta31.27}
+16.	Selling Gold for Silver, Minted and Unminted |{31.28:>hdMuwatta31.28}, {31.29:>hdMuwatta31.29}, {31.30:>hdMuwatta31.30}, {31.31:>hdMuwatta31.31}, {31.32:>hdMuwatta31.32}, {31.33:>hdMuwatta31.33}, {31.34:>hdMuwatta31.34}, {31.35:>hdMuwatta31.35}, {31.36:>hdMuwatta31.36}, {31.37:>hdMuwatta31.37}
+17.	Money-Changing |{31.38:>hdMuwatta31.38}
+18.	Selling Gold for Gold and Silver for Silver by Weight |{31.39:>hdMuwatta31.39}
+19.	Buying on Delayed Terms and Reselling for Less on More Immediate Terms |{31.40:>hdMuwatta31.40}, {31.41:>hdMuwatta31.41}, {31.42:>hdMuwatta31.42}, {31.43:>hdMuwatta31.43}, {31.44:>hdMuwatta31.44}, {31.45:>hdMuwatta31.45}, {31.46:>hdMuwatta31.46}
+20.	What is Disapproved in Selling Food with Delayed Payment or Delivery |{31.47:>hdMuwatta31.47}, {31.48:>hdMuwatta31.48}
+21.	Prepayment on Food |{31.49:>hdMuwatta31.49}
+22.	Bartering Food for Food with No Increase between Them |{31.50:>hdMuwatta31.50}, {31.51:>hdMuwatta31.51}, {31.52:>hdMuwatta31.52}
+23.	General Section on Selling Food |{31.53:>hdMuwatta31.53}, {31.54:>hdMuwatta31.54}, {31.55:>hdMuwatta31.55}
+24.	Hoarding and Raising Prices by Stockpiling |{31.56:>hdMuwatta31.56}, {31.57:>hdMuwatta31.57}, {31.58:>hdMuwatta31.58}
+25.	What is Permitted in Selling Some Animals for Others and Making an Advance for Them |{31.59:>hdMuwatta31.59}, {31.60:>hdMuwatta31.60}, {31.61:>hdMuwatta31.61}
+26.	What is Not Permitted in the Sale of Animals |{31.62:>hdMuwatta31.62}, {31.63:>hdMuwatta31.63}
+27.	Selling Animals in Exchange for Meat |{31.64:>hdMuwatta31.64}, {31.65:>hdMuwatta31.65}, {31.66:>hdMuwatta31.66}
+28.	Selling Meat for Meat |{31.67:>hdMuwatta31.67}
+29.	Selling Dogs |{31.68:>hdMuwatta31.68}
+30.	Advance and Sale of Some Goods for Others |{31.69:>hdMuwatta31.69}
+31.	The Advance on Goods |{31.70:>hdMuwatta31.70}
+32.	Selling Copper and Iron and Such Things which are Weighed |{31.71:>hdMuwatta31.71}
+33.	Prohibition against Two Sales in One Sale |{31.72:>hdMuwatta31.72}, {31.73:>hdMuwatta31.73}, {31.74:>hdMuwatta31.74}
+34.	Transactions with Uncertainty in Them |{31.75:>hdMuwatta31.75}
+35.	Al-Mulamasa and al-Munabadha |{31.76:>hdMuwatta31.76}
+36.	Murabaha Transactions (Partnership between Investors and Borrowers in Profit-Sharing Re-Sales) |{31.77:>hdMuwatta31.77}, {31.78:>hdMuwatta31.78}
+37.	Sale according to List of Contents |{31.79:>hdMuwatta31.79}
+38.	Right of Withdrawal (Khiyar) |{31.80:>hdMuwatta31.80}, {31.81:>hdMuwatta31.81}
+39.	Usury in Debts |{31.82:>hdMuwatta31.82}, {31.83:>hdMuwatta31.83}, {31.84:>hdMuwatta31.84}
+40.	Debts and Transfer Debts in General |{31.85:>hdMuwatta31.85}, {31.86:>hdMuwatta31.86}
+41.	Partnership, Transferral of Responsibility to an Agent and Revocation |{31.87:>hdMuwatta31.87}
+42.	Bankruptcy of Debtors |{31.88:>hdMuwatta31.88}, {31.89:>hdMuwatta31.89}
+43.	What is Permitted of Free Loans |{31.90:>hdMuwatta31.90}, {31.91:>hdMuwatta31.91}
+44.	What is Not Permitted of Free Loans |{31.92:>hdMuwatta31.92}, {31.93:>hdMuwatta31.93}, {31.94:>hdMuwatta31.94}, {31.95:>hdMuwatta31.95}
+45.	What is Forbidden of Haggling and Transactions |{31.96:>hdMuwatta31.96}, {31.97:>hdMuwatta31.97}, {31.98:>hdMuwatta31.98}
+46.	Business Transactions in General |{31.99:>hdMuwatta31.99}, {31.100:>hdMuwatta31.100}, {31.101:>hdMuwatta31.101}, {31.102:>hdMuwatta31.102}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Qirad "Qirad"
+1.	Qirad |{32.1:>hdMuwatta32.1}, {32.2:>hdMuwatta32.2}
+2.	What is Permitted in Qirad |{32.3:>hdMuwatta32.3}
+3.	What is Not Permitted in Qirad |{32.4:>hdMuwatta32.4}
+4.	Conditions Permitted in Qirad |{32.5:>hdMuwatta32.5}
+5.	Conditions Not Permitted in Qirad |{32.6:>hdMuwatta32.6}
+6.	Qirad in Wares |{32.7:>hdMuwatta32.7}
+7.	Hire in Qirad |{32.8:>hdMuwatta32.8}
+8.	Overstepping in Qirad |{32.9:>hdMuwatta32.9}
+9.	Expenses Permitted in Qirad |{32.10:>hdMuwatta32.10}
+10.	Expenses Not Permitted in Qirad |{32.11:>hdMuwatta32.11}
+11.	Debts in Qirad |{32.12:>hdMuwatta32.12}
+12.	Goods in the Qirad |{32.13:>hdMuwatta32.13}
+13.	Loans in Qirad |{32.14:>hdMuwatta32.14}
+14.	Accounting in Qirad |{32.15:>hdMuwatta32.15}
+15.	A General View of Qirad |{32.16:>hdMuwatta32.16}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Land_Sharecropping "Land, Sharecropping"
+1.	Sharecropping |{33.1:>hdMuwatta33.1}, {33.2:>hdMuwatta33.2}
+2.	Conditions about Slaves in Sharecropping |{33.3:>hdMuwatta33.3}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Land_Renting "Land, Renting"
+1.	Renting Land |{34.1:>hdMuwatta34.1}, {34.2:>hdMuwatta34.2}, {34.3:>hdMuwatta34.3}, {34.4:>hdMuwatta34.4}, {34.5:>hdMuwatta34.5}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Land_Preemption "Land (Property), Preemption"
+1.	Cases in which Preemption is Possible |{35.1:>hdMuwatta35.1}, {35.2:>hdMuwatta35.2}, {35.3:>hdMuwatta35.3}
+2.	Cases in which Preemption is Not Possible |{35.4:>hdMuwatta35.4}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Judgements "Judgments"
+1.	Stimulation of Desire to Judge Correctly |{36.1:>hdMuwatta36.1}, {36.2:>hdMuwatta36.2}
+2.	Giving Testimony |{36.3:>hdMuwatta36.3}, {36.4:>hdMuwatta36.4}
+3.	Judgment on Testimony of Recipients of Hadd-Punishments |{36.4a:>hdMuwatta36.4a}
+4.	Judgment Based on Oaths with One Witness |{36.5:>hdMuwatta36.5}, {36.6:>hdMuwatta36.6}, {36.7:>hdMuwatta36.7}
+5.	Judgment on a Deceased with a Debt against Him and a Debt for Him, and only One Witness |{36.7a:>hdMuwatta36.7a}
+6.	Judgment on Claims |{36.8:>hdMuwatta36.8}
+7.	Judgment on Testimony of Children |{36.9:>hdMuwatta36.9}
+8.	Perjury on the Mimbar of the Prophet, may Allah Bless Him and Grant Him Peace |{36.10:>hdMuwatta36.10}, {36.11:>hdMuwatta36.11}
+9.	Taking Oaths on the Mimbar in General |{36.12:>hdMuwatta36.12}, {36.13:>hdMuwatta36.13}
+10.	Prohibition against Forfeiting Pledges Given on Security |{36.13a:>hdMuwatta36.13a}
+11.	Judgment on Pledging Fruit and Animals as Security |{36.b:>hdMuwatta36.13b}
+12.	Judgment on Pledging Animals as Security |{36.13c:>hdMuwatta36.13c}
+13.	Judgment on Pledges between Two Men |{36.13d:>hdMuwatta36.13d}
+14.	Judgment on Pledges in General |{36.13e:>hdMuwatta36.13e}
+15.	Judgment on Renting Animals and Going Beyond Specified Destinations |{36.13f:>hdMuwatta36.13f}
+16.	Judgment about Raped Women |{36.14:>hdMuwatta36.14}
+17.	Judgment on Consumption of Other Peoples' Animals |{36.14a:>hdMuwatta36.14a}
+18.	Judgment on Abandonment of Islam |{36.15:>hdMuwatta36.15}, {36.16:>hdMuwatta36.16}
+19.	Judgment on Men Finding Other Men with Their Wives |{36.17:>hdMuwatta36.17}, {36.18:>hdMuwatta36.18}
+20.	Judgment on the Abandoned Child |{36.19:>hdMuwatta36.19}
+21.	Judgment on Attaching Paternity to Children |{36.20:>hdMuwatta36.20}, {36.21:>hdMuwatta36.21}, {36.22:>hdMuwatta36.22}, {36.23:>hdMuwatta36.23}
+22.	Judgment on Inheritance of Attached Children |{36.23a:>hdMuwatta36.23a}
+23.	Judgment on Women who are Umm Walad |{36.24:>hdMuwatta36.24}, {36.25:>hdMuwatta36.25}
+24.	Judgment on Bringing Barren Land into Cultivation |{36.26:>hdMuwatta36.26}, {36.27:>hdMuwatta36.27}
+25.	Judgment on Watering Land |{36.28:>hdMuwatta36.28}, {36.29:>hdMuwatta36.29}, {36.30:>hdMuwatta36.30}
+26.	Judgment on Benefiting Neighbors |{36.31:>hdMuwatta36.31}, {36.32:>hdMuwatta36.32}, {36.33:>hdMuwatta36.33}, {36.34:>hdMuwatta36.34}
+27.	Judgment on Division of Properties |{36.35:>hdMuwatta36.35}, {36.36:>hdMuwatta36.36}
+28.	Judgment on Animals Grazing on Other People's Crops and Animals Stolen from the Herd |{36.37:>hdMuwatta36.37}, {36.38:>hdMuwatta36.38}
+29.	Judgment on Injuries to Domestic Animals |{36.38a:>hdMuwatta36.38a}
+30.	Judgment on Articles Given to Artisans to Work On |{36.38b:>hdMuwatta36.38b}
+31.	Judgment on Taking On Debts and Transfers of Debt |{36.38c:>hdMuwatta36.38c}
+32.	Judgment on Garments Bought with Defects |{36.38d:>hdMuwatta36.38d}
+33.	What is Not Permitted in Giving Gifts (1) |{36.39:>hdMuwatta36.39}, {36.40:>hdMuwatta36.40}, {36.41:>hdMuwatta36.41}
+34.	What is Not Permitted in Giving Gifts (2) |{36.41a:>hdMuwatta36.41a}
+35.	Judgment on Gifts |{36.42:>hdMuwatta36.42}
+36.	Taking Back Sadaqa |{36.42a:>hdMuwatta36.42a}
+37.	Judgment on Life Pensions |{36.43:>hdMuwatta36.43}, {36.44:>hdMuwatta36.44}, {36.45:>hdMuwatta36.45}
+38.	Judgment on Lost Property |{36.46:>hdMuwatta36.46}, {36.47:>hdMuwatta36.47}, {36.48:>hdMuwatta36.48}
+39.	Judgment on Slaves Using Finds |{36.48a:>hdMuwatta36.48a}
+40.	Judgment on Strays |{36.49:>hdMuwatta36.49}, {36.50:>hdMuwatta36.50}, {36.51:>hdMuwatta36.51}
+41.	Sadaqa of the Living for the Dead |{36.52:>hdMuwatta36.52}, {36.53:>hdMuwatta36.53}, {36.54:>hdMuwatta36.54}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Wills_Testaments "Wills and Testaments"
+1.	Command to Write Testaments |{37.1:>hdMuwatta37.1}
+2.	Permissibility of the Bequest of the Child, the Simpleton, the Lunatic and the Idiot |{37.2:>hdMuwatta37.2}, {37.3:>hdMuwatta37.3}
+3.	Limiting the Bequest to One-Third of the Estate |{37.4:>hdMuwatta37.4}
+4.	Dealing with the Property of the Pregnant Woman, the Sick Person and Someone Present in Battle |{37.4a:>hdMuwatta37.4a}
+5.	Bequests to Heirs and Right of Possession |{37.4b:>hdMuwatta37.4b}
+6.	Effeminate Men and Custody of Children |{37.5:>hdMuwatta37.5}, {37.6:>hdMuwatta37.6}
+7.	Liability for Defect Goods |{37.6a:>hdMuwatta37.6a}
+8.	General Chapter on Making Judgment and Shying Away from It |{37.7:>hdMuwatta37.7}, {37.8:>hdMuwatta37.8}
+9.	About Damages and Injuries Caused by Slaves |{37.8a:>hdMuwatta37.8a}
+10.	What is Permitted of Gifts |{37.9:>hdMuwatta37.9}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Freeing_Slaves "Freeing Slaves"
+1.	Freeing a Share Held in a Slave |{38.1:>hdMuwatta38.1}
+2.	Making Conditions when Freeing Slaves |{38.2:>hdMuwatta38.2}
+3.	People who Free Slaves and Own No Other Property |{38.3:>hdMuwatta38.3}, {38.4:>hdMuwatta38.4}
+4.	Judgment on the Property of Slaves when Set Free |{38.5:>hdMuwatta38.5}
+5.	Freeing Slaves Who are Umm Walad and Freeing Slaves in General |{38.6:>hdMuwatta38.6}, {38.7:>hdMuwatta38.7}
+6.	Slaves Permitted to be Freed when a Slave must be Freed by Obligation |{38.8:>hdMuwatta38.8}, {38.9:>hdMuwatta38.9}, {38.10:>hdMuwatta38.10}, {38.11:>hdMuwatta38.11}
+7.	Slaves Not Permitted to be Freed when a Slave must be Freed by Obligation |{38.12:>hdMuwatta38.12}
+8.	Freeing the Living for the Dead |{38.13:>hdMuwatta38.13}, {38.14:>hdMuwatta38.14}
+9.	The Excellence of Freeing Slaves, Freeing Adulteresses and Illegitimate Children |{38.15:>hdMuwatta38.15}, {38.16:>hdMuwatta38.16}
+10.	The Right of the One Who Sets Free to the Wala' |{38.17:>hdMuwatta38.17}, {38.18:>hdMuwatta38.18}, {38.19:>hdMuwatta38.19}, {38.20:>hdMuwatta38.20}
+11.	Slaves Attracting the Wala' When Set Free |{38.21:>hdMuwatta38.21}
+12.	The Inheritance of the Wala' |{38.22:>hdMuwatta38.22}, {38.23:>hdMuwatta38.23}, {38.24:>hdMuwatta38.24}
+13.	The Inheritance of Slaves Set Free and the Wala' of Jews and Christians Who Set Slaves Free |{38.25:>hdMuwatta38.25}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Mukatab "Mukatab"
+1.	Judgment on the Mukatab |{39.1:>hdMuwatta39.1}, {39.2:>hdMuwatta39.2}, {39.3:>hdMuwatta39.3}
+2.	Assuming the Responsibility in Kitaba |{39.4:>hdMuwatta39.4}
+3.	Severance in the Kitaba for an Agreed Price |{39.5:>hdMuwatta39.5}
+4.	Injuries Caused by Mukatabs |{39.6:>hdMuwatta39.6}
+5.	Selling Mukatabs |{39.7:>hdMuwatta39.7}
+6.	The Labor of Mukatabs |{39.8:>hdMuwatta39.8}
+7.	Freeing a Mukatab It He Pays What He Owes Before the End of the Term |{39.9:>hdMuwatta39.9}
+8.	The Inheritance of Mukatabs when Set Free |{39.10:>hdMuwatta39.10}
+9.	Conditions Concerning Mukatabs |{39.11:>hdMuwatta39.11}
+10.	The Wala' of Mukatabs when Set Free |{39.12:>hdMuwatta39.12}
+11.	What is Not Permitted in Freeing Mukatabs |{39.13:>hdMuwatta39.13}
+12.	Freeing the Mukatab and the Umm Walad |{39.14:>hdMuwatta39.14}
+13.	Bequests involving Mukatabs |{39.15:>hdMuwatta39.15}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Mudabbar "Mudabbar"
+1.	Judgment on the Mudabbar |{40.1:>hdMuwatta40.1}
+2.	General Section on Tadbir |{40.2:>hdMuwatta40.2}
+3.	Bequests involving Tadbir |{40.3:>hdMuwatta40.3}
+4.	A Master's Intercourse with his Slave-Girl when He has Made Her Mudabbara |{40.4:>hdMuwatta40.4}, {40.5:>hdMuwatta40.5}
+5.	Selling Mudabbars |{40.6:>hdMuwatta40.6}
+6.	Injuries Caused by Mudabbars |{40.7:>hdMuwatta40.7}
+7.	Injuries Caused by the Umm Walad |{40.8:>hdMuwatta40.8}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Hudud "Hudud"
+1.	Stoning |{41.1:>hdMuwatta41.1}, {41.2:>hdMuwatta41.2}, {41.3:>hdMuwatta41.3}, {41.4:>hdMuwatta41.4}, {41.5:>hdMuwatta41.5}, {41.6:>hdMuwatta41.6}, {41.7:>hdMuwatta41.7}, {41.8:>hdMuwatta41.8}, {41.9:>hdMuwatta41.9}, {41.10:>hdMuwatta41.10}, {41.11:>hdMuwatta41.11}
+2.	Self-Confession of Fornication |{41.12:>hdMuwatta41.12}, {41.13:>hdMuwatta41.13}
+3.	The Hadd for Fornication |{41.14:>hdMuwatta41.14}, {41.15:>hdMuwatta41.15}, {41.16:>hdMuwatta41.16}
+4.	Rape |{41.16a:>hdMuwatta41.16a}
+5.	The Hadd for Slander, Denial and Insinuation |{41.17:>hdMuwatta41.17}, {41.18:>hdMuwatta41.18}, {41.19:>hdMuwatta41.19}
+6.	What has No Hadd for It |{41.19a:>hdMuwatta41.19a}, {41.20:>hdMuwatta41.20}
+7.	What Obliges Cutting Off the Hand |{41.21:>hdMuwatta41.21}, {41.22:>hdMuwatta41.22}, {41.23:>hdMuwatta41.23}, {41.24:>hdMuwatta41.24}, {41.25:>hdMuwatta41.25}
+8.	Cutting Off the Hands of Runaway Slaves Who Steal |{41.26:>hdMuwatta41.26}, {41.27:>hdMuwatta41.27}
+9.	Intercession Cut Off for Thieves when Cases Reach the Sultan |{41.28:>hdMuwatta41.28}, {41.29:>hdMuwatta41.29}
+10.	General Section on Cutting Off the Hand |{41.30:>hdMuwatta41.30}, {41.31:>hdMuwatta41.31}
+11.	Things for Which the Hand is Not Cut Off |{41.32:>hdMuwatta41.32}, {41.33:>hdMuwatta41.33}, {41.34:>hdMuwatta41.34}, {41.35:>hdMuwatta41.35}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Drinks "Drinks"
+1.	The Hadd for Drinking Wine |{42.1:>hdMuwatta42.1}, {42.2:>hdMuwatta42.2}, {42.3:>hdMuwatta42.3}, {42.4:>hdMuwatta42.4}
+2.	Containers Forbidden for Preparation of Nabidh |{42.5:>hdMuwatta42.5}, {42.6:>hdMuwatta42.6}
+3.	Mixtures of Fruit Disapproved for Making Nabidh |{42.7:>hdMuwatta42.7}, {42.8:>hdMuwatta42.81}
+4.	Wine Made Haram |{42.9:>hdMuwatta42.9}, {42.10:>hdMuwatta42.10}, {42.11:>hdMuwatta42.11}
+5.	General Section on Wine being Made Haram |{42.12:>hdMuwatta42.12}, {42.13:>hdMuwatta42.13}, {42.14:>hdMuwatta42.14}, {42.15:>hdMuwatta42.15}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Blood_Money "Blood Money"
+1.	Mention of Blood-Money |{43.1:>hdMuwatta43.1}
+2.	Procedure in Blood-Money |{43.2:>hdMuwatta43.2}
+3.	The Blood-Money for Murder, When Accepted and the Criminal Act of the Insane |{43.2a:>hdMuwatta43.2a}, {43.3:>hdMuwatta43.3}
+4.	The Blood-Money for Manslaughter |{43.4:>hdMuwatta43.4}
+5.	The Blood-Money for Accidental Injury |{43.4a:>hdMuwatta43.4a}
+6.	The Blood-Money of Women |{43.4b:>hdMuwatta43.4b}
+7.	The Blood-Money for the Fetus |{43.5:>hdMuwatta43.5}, {43.6:>hdMuwatta43.6}
+8.	Injuries for Which there is Full Blood-Money |{43.6a:>hdMuwatta43.6a}
+9.	The Blood-Money for an Eye whose Sight is Lost |{43.6b:>hdMuwatta43.6b}
+10.	The Blood-Money for Head-Wounds |{43.6c:>hdMuwatta43.6c}
+11.	The Blood-Money for Fingers |{43.6d:>hdMuwatta43.6d}
+12.	General Section on the Blood-Money for Teeth |{43.7:>hdMuwatta43.7}
+13.	Procedure in the Blood-Money for Teeth |{43.8:>hdMuwatta43.8}
+14.	The Blood-Money for Injuries to Slaves |{43.8a:>hdMuwatta43.8a}
+15.	The Blood-Money of the People of Protection (Dhimma) |{43.8b:>hdMuwatta43.8b}
+16.	Blood-Money that has to be Paid as an Individual |{43.8c:>hdMuwatta43.8c}
+17.	Inheritance of Blood-Money and Dealing Harshly in Taking It |{43.9:>hdMuwatta43.9}, {43.10:>hdMuwatta43.10}, {43.11:>hdMuwatta43.11}
+18.	General Section on Blood-Money |{43.12:>hdMuwatta43.12}
+19.	Killing Secretly by Trickery and Sorcery |{43.13:>hdMuwatta43.13}, {43.14:>hdMuwatta43.14}
+20.	What is Obligatory for Intentional Injury |{43.15:>hdMuwatta43.15}
+21.	Retaliation in Killing |{43.15a:>hdMuwatta43.15a}
+22.	Pardoning Murder |{43.15b:>hdMuwatta43.15b}
+23.	Retaliation in Injury |{43.15c:>hdMuwatta43.15c}
+24.	The Blood-Money and Crime of the Slave Set Free and from Whom his Former Master does Not Inherit |{43.15d:>hdMuwatta43.15d}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Oath_Qasama "Oath of Qasama"
+1.	Beginning with the People Seeking Blood-Revenge in the Oath |{44.1:>hdMuwatta44.1}, {44.2:>hdMuwatta44.2}
+2.	Blood-Relatives Who are Permitted to Swear in the Intentional Act |{44.2a:>hdMuwatta44.2a}
+3.	Swearing in Manslaughter |{44.2b:>hdMuwatta44.2b}
+4.	Inheritance in Cases of Qasama |{44.2c:>hdMuwatta44.2c}
+5.	Swearing for Blood-Revenge in Cases Involving Slaves |{44.2d:>hdMuwatta44.2d}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Madina "Madina"
+1.	Du'a for Madina and Its People |{45.1:>hdMuwatta45.1}, {45.2:>hdMuwatta45.2}
+2.	Residing in Madina and Leaving It |{45.3:>hdMuwatta45.3}, {45.4:>hdMuwatta45.4}, {45.5:>hdMuwatta45.5}, {45.6:>hdMuwatta45.6}, {45.7:>hdMuwatta45.7}, {45.8:>hdMuwatta45.8}, {45.9:>hdMuwatta45.9}
+3.	The Making a Haram of Madina |{45.10:>hdMuwatta45.10}, {45.11:>hdMuwatta45.11}, {45.12:>hdMuwatta45.12}, {45.13:>hdMuwatta45.13}
+4.	The Epidemic of Madina |{45.14:>hdMuwatta45.14}, {45.15:>hdMuwatta45.15}, {45.16:>hdMuwatta45.16}
+5.	The Expulsion of the Jews from Madina |{45.17:>hdMuwatta45.17}, {45.18:>hdMuwatta45.18}, {45.19:>hdMuwatta45.19}
+6.	Concerning Madina |{45.20:>hdMuwatta45.20}, {45.21:>hdMuwatta45.21}
+7.	About the Plague |{45.22:>hdMuwatta45.22}, {45.23:>hdMuwatta45.23}, {45.24:>hdMuwatta45.24}, {45.25:>hdMuwatta45.25}, {45.26:>hdMuwatta45.26}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Decree "Decree"
+1.	Prohibition against Talking about the Decree |{46.1:>hdMuwatta46.1}, {46.2:>hdMuwatta46.2}, {46.3:>hdMuwatta46.3}, {46.4:>hdMuwatta46.4}, {46.5:>hdMuwatta46.5}, {46.6:>hdMuwatta46.6}
+2.	General Section on the People of the Decree |{46.7:>hdMuwatta46.7},  {46.8:>hdMuwatta46.8}, {46.9:>hdMuwatta46.9}, {46.10:>hdMuwatta46.10}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Character_Good "Good Character"
+1.	Good Character |{47.1:>hdMuwatta47.1}, {47.2:>hdMuwatta47.2}, {47.3:>hdMuwatta47.3}, {47.4:>hdMuwatta47.4}, {47.5:>hdMuwatta47.5}, {47.6:>hdMuwatta47.6}, {47.7:>hdMuwatta47.7}, {47.8:>hdMuwatta47.8}
+2.	Modesty |{47.9:>hdMuwatta47.9}, {47.10:>hdMuwatta47.10}
+3.	Anger |{47.11:>hdMuwatta47.11}, {47.12:>hdMuwatta47.12}
+4.	Shunning People |{47.13:>hdMuwatta47.13}, {47.14:>hdMuwatta47.14}, {47.15:>hdMuwatta47.15}, {47.16:>hdMuwatta47.16}, {47.17:>hdMuwatta47.17}, {47.18:>hdMuwatta47.18}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Dressing "Dressing"
+1.	Wearing Clothes for Beautification |{48.1:>hdMuwatta48.1}, {48.2:>hdMuwatta48.2}, {48.3:>hdMuwatta48.3}
+2.	Wearing Dyed Garments and Gold |{48.4:>hdMuwatta48.4}
+3.	Wearing Silk |{48.5:>hdMuwatta48.5}
+4.	Clothes Disapproved of for Women to Wear |{48.6:>hdMuwatta48.6}, {48.7:>hdMuwatta48.7}, {48.8:>hdMuwatta48.8}
+5.	A Man Dragging his Garments |{48.9:>hdMuwatta48.9}, {48.10:>hdMuwatta48.10}, {48.11:>hdMuwatta48.11}, {48.12:>hdMuwatta48.12}
+6.	A Woman Dragging her Garments |{48.13:>hdMuwatta48.13}
+7.	Wearing Sandals |{48.14:>hdMuwatta48.14}, {48.15:>hdMuwatta48.15}, {48.16:>hdMuwatta48.16}
+8.	Ways of Dressing |{48.17:>hdMuwatta48.17}, {48.18:>hdMuwatta48.18}, {48.19:>hdMuwatta48.19}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Prophet_Description "Prophet_Description"
+1.	Description of the Prophet, may Allah Bless Him and Grant Him Peace |{49.1:>hdMuwatta49.1}
+2.	Description of Isa ibn Maryam, Peace be upon Him and the Dajjal |{49.2:>hdMuwatta49.2}
+3.	Sunna of the Fitra |{49.3:>hdMuwatta49.3}
+4.	Prohibition against Eating with the Left Hand |{49.4:>hdMuwatta49.4}, {49.5:>hdMuwatta49.5}, {49.6:>hdMuwatta49.6}
+5.	The Very Poor |{49.7:>hdMuwatta49.7}, {49.8:>hdMuwatta49.8}
+6.	The Intestines of the Kafir |{49.9:>hdMuwatta49.9}, {49.10:>hdMuwatta49.10}
+7.	Prohibition against Drinking from Silver Vessels and Blowing into Drinks |{49.11:>hdMuwatta49.11}, {49.12:>hdMuwatta49.12}
+8.	Drinking while Standing |{49.13:>hdMuwatta49.13}, {49.14:>hdMuwatta49.14}, {49.15:>hdMuwatta49.15}, {49.16:>hdMuwatta49.16}
+9.	The Sunna about Drinking and Passing to the Right |{49.17:>hdMuwatta49.17}, {49.18:>hdMuwatta49.18}
+10.	General Section on Food and Drink |{49.19:>hdMuwatta49.19}, {49.20:>hdMuwatta49.20}, {49.21:>hdMuwatta49.21}, {49.22:>hdMuwatta49.22}, {49.23:>hdMuwatta49.23}, {49.24:>hdMuwatta49.24}, {49.25:>hdMuwatta49.25}, {49.26:>hdMuwatta49.26}, {49.27:>hdMuwatta49.27}, {49.28:>hdMuwatta49.28}, {49.29:>hdMuwatta49.29}, {49.30:>hdMuwatta49.30}, {49.31:>hdMuwatta49.31}, {49.32:>hdMuwatta49.32}, {49.33:>hdMuwatta49.33}, {49.34:>hdMuwatta49.34}, {49.35:>hdMuwatta49.35}
+11.	Eating Meat |{49.36:>hdMuwatta49.36}
+12.	Wearing Rings |{49.37:>hdMuwatta49.37}, {49.38:>hdMuwatta49.38}
+13.	Pulling off Necklaces and Bells from the Necks of Camels |{49.39:>hdMuwatta49.39}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Evil_Eye "Evil Eye"
+1.	Wudu from the Evil Eye |{50.1:>hdMuwatta50.1}, {50.2:>hdMuwatta50.2}
+2.	Guarding from the Evil Eye |{50.3:>hdMuwatta50.3}, {50.4:>hdMuwatta50.4}
+3.	The Reward of the Invalid |{50.5:>hdMuwatta50.5}, {50.6:>hdMuwatta50.6}, {50.7:>hdMuwatta50.7}, {50.8:>hdMuwatta50.8}
+4.	Seeking Refuge and Talismans in Illness |{50.9:>hdMuwatta50.9}, {50.10:>hdMuwatta50.10}, {50.11:>hdMuwatta50.11}
+5.	Treating the Invalid |{50.12:>hdMuwatta50.12}, {50.13:>hdMuwatta50.13}, {50.14:>hdMuwatta50.14}
+6.	Washing with Water for a Fever |{50.15:>hdMuwatta50.15}, {50.16:>hdMuwatta50.16}
+7.	Visiting the Invalid and Evil Omens |{50.17:>hdMuwatta50.17}, {50.18:>hdMuwatta50.18}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Hair "Hair"
+1.	The Sunna of Hair |{51.1:>hdMuwatta51.1}, {51.2:>hdMuwatta51.2}, {51.3:>hdMuwatta51.3}, {51.4:>hdMuwatta51.4}, {51.5:>hdMuwatta51.5}
+2.	Caring for the Hair |{51.6:>hdMuwatta51.6}, {51.7:>hdMuwatta51.7}
+3.	Dyeing the Hair |{51.8:>hdMuwatta51.8}
+4.	Taking Refuge |{51.9:>hdMuwatta51.9}, {51.10:>hdMuwatta51.10}, {51.11:>hdMuwatta51.11}, {51.12:>hdMuwatta51.12}
+5.	Those Who Love Each Other in Allah |{51.13:>hdMuwatta51.13}, {51.14:>hdMuwatta51.14}, {51.15:>hdMuwatta51.15}, {51.16:>hdMuwatta51.16}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Visions "Visions"
+1.	Visions |{52.1:>hdMuwatta52.1}, {52.2:>hdMuwatta52.2}, {52.31:>hdMuwatta52.3}, {52.4:>hdMuwatta52.4}, {52.5:>hdMuwatta52.5}
+2.	Games of Dice |{52.6:>hdMuwatta52.6}, {52.7:>hdMuwatta52.7}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Greetings "Greetings"
+1.	Behavior in the Greeting |{53.1:>hdMuwatta53.1}, {53.2:>hdMuwatta53.2}
+2.	Greeting Jews and Christians |{53.3:>hdMuwatta53.3}
+3.	General Section on the Greeting |{53.4:>hdMuwatta53.4}, {53.5:>hdMuwatta53.5}, {53.6:>hdMuwatta53.6}, {53.7:>hdMuwatta53.7}, {53.8:>hdMuwatta53.8}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_General "General"
+1.	Asking Permission to Enter |{54.1:>hdMuwatta54.1}, {54.2:>hdMuwatta54.2}, {54.3:>hdMuwatta54.3}
+2.	Blessing the Person who Sneezes |{54.4:>hdMuwatta54.4}, {54.5:>hdMuwatta54.5}
+3.	Pictures and Images |{54.6:>hdMuwatta54.6}, {54.7:>hdMuwatta54.7}, {54.8:>hdMuwatta54.8}
+4.	Eating Lizards |{54.9:>hdMuwatta54.9}, {54.10:>hdMuwatta54.10}, {54.11:>hdMuwatta54.11}
+5.	Concerning Dogs |{54.12:>hdMuwatta54.12}, {54.13:>hdMuwatta54.13}, {54.14:>hdMuwatta54.14}
+6.	Concerning Sheep |{54.15:>hdMuwatta54.15}, {54.16:>hdMuwatta54.16}, {54.17:>hdMuwatta54.17}, {54.18:>hdMuwatta54.18}
+7.	Mice Falling into Clarified Butter and Giving Precedence to Food over the Prayer |{54.19:>hdMuwatta54.19}, {54.20:>hdMuwatta54.20}
+8.	Guarding against ill Luck |{54.21:>hdMuwatta54.21}, {54.22:>hdMuwatta54.22}, {54.23:>hdMuwatta54.23}
+9.	Names that are Disliked |{54.24:>hdMuwatta54.24}, {54.25:>hdMuwatta54.25}
+10.	Cupping and the Reward of the Cupper |{54.26:>hdMuwatta54.26}, {54.27:>hdMuwatta54.27}, {54.28:>hdMuwatta54.28}
+11.	Concerning the Fast |{54.29:>hdMuwatta54.29}, {54.30:>hdMuwatta54.30}
+12.	Killing Snakes and What is Said about Them |{54.31:>hdMuwatta54.31}, {54.32:>hdMuwatta54.32}, {54.33:>hdMuwatta54.33}
+13.	What to Say on Journeys |{54.34:>hdMuwatta54.34}
+14.	Traveling Alone in the Case of Men and Women |{54.35:>hdMuwatta54.35}, {54.36:>hdMuwatta54.36}, {54.37:>hdMuwatta54.37}
+15.	How to Behave on Journeys |{54.38:>hdMuwatta54.38}, {54.39:>hdMuwatta54.39}
+16.	The Command to be Kind to Slaves |{54.40:>hdMuwatta54.40}, {54.41:>hdMuwatta54.41}, {54.42:>hdMuwatta54.42}
+17.	Slaves and Their Reward |{54.43:>hdMuwatta54.43}, {54.44:>hdMuwatta54.44}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Oath_Allegiance "Oath of Allegiance"
+1.	About the Oath of Allegiance |{55.1:>hdMuwatta55.1}, {55.2:>hdMuwatta55.2}, {55.3:>hdMuwatta55.3}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Speech "Speech"
+1.	Disliked Speech |{56.1:>hdMuwatta56.1}, {56.2:>hdMuwatta56.2}, {56.3:>hdMuwatta56.3}, {56.4:>hdMuwatta56.4}
+2.	The Order to be Mindful in Speech |{56.5:>hdMuwatta56.5}, {56.6:>hdMuwatta56.6}
+3.	Disliked Speech and Speech Without the Mention of Allah |{56.7:>hdMuwatta56.7}, {56.8:>hdMuwatta56.8}, {56.9:>hdMuwatta56.9}
+4.	Backbiting |{56.10:>hdMuwatta56.10}
+5.	What is Feared from the Tongue |{56.11:>hdMuwatta56.11}, {56.12:>hdMuwatta56.12}
+6.	Two People Conversing to the Exclusion of Another |{56.13:>hdMuwatta56.13}, {56.14:>hdMuwatta56.14}
+7.	Truthfulness and Lying |{56.15:>hdMuwatta56.15}, {56.16:>hdMuwatta56.16}, {56.17:>hdMuwatta56.17}, {56.18:>hdMuwatta56.18}, {56.19:>hdMuwatta56.19}
+8.	Squandering Property and Being Two-Faced |{56.20:>hdMuwatta56.20}, {56.21:>hdMuwatta56.21}
+9.	Punishing the Many for the Actions of the Few |{56.22:>hdMuwatta56.22}, {56.23:>hdMuwatta56.23}
+10.	About People with Taqwa |{56.24:>hdMuwatta56.24}, {56.25:>hdMuwatta56.251}
+11.	What to Say when it Thunders |{56.26:>hdMuwatta56.26}
+12.	The Legacy of the Prophet, may Allah Bless Him and Grant Him Peace |{56.27:>hdMuwatta56.27}, {56.28:>hdMuwatta56.28}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Hell "Hell (Jahannam)"
+1.	Description of Jahannam |{57.1:>hdMuwatta57.1}, {57.2:>hdMuwatta57.2}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Sadaqa "Sadaqa"
+1.	Stimulation of Desire for Sadaqa |{58.1:>hdMuwatta58.1}, {58.2:>hdMuwatta58.2}, {58.3:>hdMuwatta58.3}, {58.4:>hdMuwatta58.4}, {58.5:>hdMuwatta58.5}, {58.6:>hdMuwatta58.6}
+2.	Retraining from Asking |{58.7:>hdMuwatta58.7}, {58.8:>hdMuwatta58.8}, {58.9:>hdMuwatta58.9}, {58.10:>hdMuwatta58.10}, {58.11:>hdMuwatta58.11}, {58.12:>hdMuwatta58.12}
+3.	What is Disliked in Sadaqa |{58.13:>hdMuwatta58.13}, {58.14:>hdMuwatta58.14}, {58.15:>hdMuwatta58.15}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Knowledge "Knowledge"
+1.	Seeking Knowledge |{59.1:>hdMuwatta59.1}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Prayer_Wronged "Prayer, Supplication of unjustly wronged"
+1.	Supplication of the Unjustly Wronged |{60.1:>hdMuwatta60.1}
+.EndTopic
+;------------------------------------------------------------------------------------------------
+.topic sbAMH_Prophet_Names "Prophet, Names"
+1.	The Names of the Prophet, may Allah Bless Him and Grant Him Peace |{61.1:>hdMuwatta61.1}
+.EndTopic
+ 

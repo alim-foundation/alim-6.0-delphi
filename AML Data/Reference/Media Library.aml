@@ -1,0 +1,87 @@
+<?xml version="1.0"?>
+<aml>
+<articles>
+	<catalog id="IML">
+		<names full="Islamic Media Library" short="Media Library"/>
+		<navigation viewer="list"/>
+		<content type="article" subtype="media" library="Media"> 
+			<page name="Image"/>
+		</content>
+		<shortcuts type="external">
+			<category name="Reference">
+				<shortcut/>
+			</category>
+		</shortcuts>
+		<build>
+			<option fulltextindex="no"/>
+		</build>
+	</catalog>
+
+	<article title="Allah"><media type="image" src="$wally.jpg"></media></article>
+	
+	<article title="Quran Art"><media type="image" src="$quranart.jpg"></media></article>
+	
+	<article title="Allah Calligraphy I"><media type="image" src="$allah1.jpg"></media></article>
+	
+	<article title="Allah Calligraphy II"><media type="image" src="$allah2.jpg"></media></article>
+	
+	<article title="Badshahi Mosque"><media type="image" src="$badshahi.jpg"></media></article>
+	
+	<article title="Bismillah Calligraphy I"><media type="image" src="$bismill.jpg"></media></article>
+	
+	<article title="Bismillah Calligraphy II"><media type="image" src="$bismill2.jpg"></media></article>
+	
+	<article title="Decoration"><media type="image" src="$decor4.jpg"></media></article>
+	
+	<article title="Disc"><media type="image" src="$disc.jpg"></media></article>
+	
+	<article title="Egyptian Mosque"><media type="image" src="$egyptmo1.jpg"></media></article>
+	
+	<article title="Eid Gaah Mosque"><media type="image" src="$eidgaahm.jpg"></media></article>
+	
+	<article title="Surah Al-Fatiha"><media type="image" src="$fateha.jpg"></media></article>
+	
+	<article title="Islam I"><media type="image" src="$islam1.jpg"></media></article>
+	
+	<article title="Islam II"><media type="image" src="$islam2.jpg"></media></article>
+	
+	<article title="Islam III"><media type="image" src="$islam5.jpg"></media></article>
+	
+	<article title="Jameel"><media type="image" src="$jameel.jpg"></media></article>
+	
+	<article title="Jerusalem"><media type="image" src="$jerusale.jpg"></media></article>
+	
+	<article title="Ka'ba I"><media type="image" src="$kaabanit.jpg"></media></article>
+	
+	<article title="Ka'ba II"><media type="image" src="$kaba.jpg"></media></article>
+	
+	<article title="Ka'ba III"><media type="image" src="$kaba1.jpg"></media></article>
+	
+	<article title="Mecca Mosque"><media type="image" src="$meccamo2.jpg"></media></article>
+	
+	<article title="Mecca"><media type="image" src="$meccaswi.jpg"></media></article>
+	
+	<article title="Mihrab"><media type="image" src="$mihrab.jpg"></media></article>
+	
+	<article title="Minaret"><media type="image" src="$minaret.jpg"></media></article>
+	
+	<article title="Mosque I"><media type="image" src="$mosque.jpg"></media></article>
+	
+	<article title="Mosque II"><media type="image" src="$mosque2.jpg"></media></article>
+	
+	<article title="Mosque III"><media type="image" src="$mosque3.jpg"></media></article>
+	
+	<article title="Mosque IV"><media type="image" src="$mosque4.jpg"></media></article>
+	
+	<article title="Mosque V"><media type="image" src="$mosquela.jpg"></media></article>
+	
+	<article title="Pot"><media type="image" src="$pot.jpg"></media></article>
+	
+	<article title="Prayer Mat"><media type="image" src="$prayermajpg"></media></article>
+	
+	<article title="Prophet's Mosque I"><media type="image" src="$pmosque1.jpg"></media></article>
+	
+	<article title="Prophet's Mosque II"><media type="image" src="$prophets.jpg"></media></article>
+	
+</articles>
+</aml>

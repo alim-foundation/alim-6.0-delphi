@@ -1,0 +1,2498 @@
+.Title A. Yusuf Ali Quran Subjects
+.shortName Yusuf Ali Subjects
+.bookID YAS
+.topicTitlesAsKeywords T
+.cleanupTopicCtxName 1
+.fixupTitleCapitalization 1
+.makeContentsPage Index of Subjects
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Ablutions "Ablutions"
+1.	Ablutions|{4.43:>qs4.43}, {5.7:>qs5.7}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Abraham "Abraham"
+1.	fulfilled God's Commands|{2.124:>qs2.124}
+2.	and Ka'ba|{2.125:>qs2.125}, {3.96:>qs3.96}
+3.	religion of|{2.130:>qs2.130}, {2.135:>qs2.135}
+4.	not Jew or Christian|{3.67:>qs3.67}
+5.	nor Pagan|{3.95:>qs3.95}
+6.	rejects worship of heavenly bodies|{6.75:>qs6.75}
+7.	argues with skeptic|{2.258:>qs2.258}
+8.	argues with his father against idols|{6.74:>qs6.74}, {19.41:>qs19.41}
+9.	argues with his people against idols|{21.51:>qs21.51}, {26.70:>qs26.70}, {29.16:>qs29.16}, {29.24:>qs29.24}, {37.83:>qs37.83}
+10.	on life to the dead|{2.260:>qs2.260}
+11.	preaches to his people|{6.80:>qs6.80}
+12.	prays for father|{9.113:>qs9.113}, {26.86:>qs26.86}
+13.	sacrifice of son|{37.99:>qs37.99}
+14.	angels visit him to announce son|{11.69:>qs11.69}, {15.51:>qs15.51}, {51.24:>qs51.24}
+15.	pleads for Lut's people|{11.74:>qs11.74}
+16.	his prayer|{14.35:>qs14.35}, {26.83:>qs26.83}
+17.	a model|{16.120:>qs16.120}
+18.	safe in fire|{21.69:>qs21.69}
+19.	Book of|{53.37:>qs53.37}, {87.19:>qs87.19}
+20.	his example in dealing with Unbelievers|{60.4:>qs60.4}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Abu-Lahab "Abu-Lahab"
+1.	Abu-Lahab|{111.1:>qs111.1}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Aad_people "Aad people"
+1.	Aad people|{7.65:>qs7.65}, {11.50:>qs11.50}, {25.38:>qs25.38}, {26.123:>qs26.123}, {29.38:>qs29.38}, {41.15:>qs41.15}, {46.21:>qs46.21}, {51.41:>qs51.41}, {54.18:>qs54.18}, {69.4:>qs69.4}, {89.6:>qs89.6}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Adam "Adam"
+1.	creation|{2.30:>qs2.30}
+2.	fall|{2.35:>qs2.35}, {7.19:>qs7.19}
+3.	two sons (Abel and Cain)|{5.30:>qs5.30}
+4.	tempted by Satan|{20.120:>qs20.120}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Admonition "Admonition"
+1.	Admonition|{87.9:>qs87.9}, {88.21:>qs88.21}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Adultery "Adultery"
+1.	Adultery|{17.32:>qs17.32}, {24.2:>qs24.2}, {24.4:>qs24.4}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Ahmad "Ahmad"
+1.	coming prophesied|{61.6:>qs61.6}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Angels "Angels"
+1.	plea to God|{2.30:>qs2.30}
+2.	Gabriel and Michael|{2.97:>qs2.97}
+3.	not sent expect for just cause|{15.7:>qs15.7}
+4.	sent for warning to men|{16.2:>qs16.2}
+5.	the impious and the angels|{25.21:>qs25.21}
+6.	on the Day of Judgment|{25.25:>qs25.25}
+7.	as messengers with wings|{35.1:>qs35.1}
+8.	pray for forgiveness for all on earth|{42.5:>qs42.5}
+9.	unbelievers give female names to|{53.27:>qs53.27}
+10.	and the Spirit ascend to God|{70.4:>qs70.4}
+11.	on errands of justice and mercy|{79.1:>qs79.1}
+12.	to protect men|{82.10:>qs82.10}
+13.	recording angels|{50.17:>qs50.17}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Animals "Animals"
+1.	form communities|{6.38:>qs6.38}
+2.	serve man|{16.5:>qs16.5}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Apes "Apes"
+1.	transgressors become as|{2.65:>qs2.65}, {7.166:>qs7.166}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Apostates "Apostates"
+1.	Apostates|{47.25:>qs47.25}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Badr "Badr"
+1.	Badr (battle of)|{3.13:>qs3.13}
+2.	lesson of|{8.5:>qs8.5}, {8.42:>qs8.42}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Bakka (Mekkah) "Bakka (Mekkah)"
+1.	Bakka (Mekkah)|{3.96:>qs3.96}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Balance "Balance"
+1.	Balance|{42.17:>qs42.17}, {55.7:>qs55.7}, {57.25:>qs57.25}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_BanuNadhir "Banu Nadhir"
+1.	Banu Nadhir|{59.2:>qs59.2}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_BaptismOfGod "Baptism of God"
+1.	Baptism of God|{2.138:>qs2.138}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Barzakh "Barzakh"
+1.	Barzakh|{23.100:>qs23.100}, {25.53:>qs25.53}, {55.20:>qs55.20}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_BeastLastDays "Beast (of the Last Days)"
+1.	Beast (of the Last Days)|{27.82:>qs27.82}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Believers "Believers"
+1.	fear God|{3.102:>qs3.102}
+2.	to fear nothing else|{10.62:>qs10.62}
+3.	hold together|{3.103:>qs3.103}
+4.	enjoin right and forbid wrong|{3.104:>qs3.104}, {3.110:>qs3.110}
+5.	protected from harm|{3.111:>qs3.111}, {5.108:>qs5.108}
+6.	protected by angels|{41.30:>qs41.30}
+7.	warned against Unbelievers|{3.118:>qs3.118}, {3.196:>qs3.196}, {9.23:>qs9.23}, {60.13:>qs60.13}
+8.	their lives sacred|{4.92:>qs4.92}
+9.	not to slight those who salute|{4.94:>qs4.94}
+10.	those who strive and fight|{4.95:>qs4.95}, {9.20:>qs9.20}, {9.88:>qs9.88}
+11.	if weak and oppressed|{4.97:>qs4.97}
+12.	not to sit where God's Signs are ridicul|{4.140:>qs4.140}, {6.68:>qs6.68}
+13.	to prefer Believers for friends|{4.144:>qs4.144}, {5.60:>qs5.60}
+14.	witnesses to fair dealing|{5.9:>qs5.9}
+15.	duties to God|{5.38:>qs5.38}, {66.8:>qs66.8}
+16.	not to ask inquisitive questions|{5.104:>qs5.104}
+17.	grades of dignity|{8.4:>qs8.4}
+18.	described|{8.2:>qs8.2}, {9.71:>qs9.71}, {9.111:>qs9.111}, {10.104:>qs10.104}, {13.20:>qs13.20}, {13.28:>qs13.28}, {23.1:>qs23.1}, {23.57:>qs23.57}, {28.53:>qs28.53}, {32.15:>qs32.15}, {42.36:>qs42.36}, {49.7:>qs49.7}, {49.15:>qs49.15}
+19.	to be firm|{8.45:>qs8.45}
+20.	to obey and not lose heart|{8.46:>qs8.46}
+21.	not to be weary and faint|{47.35:>qs47.35}
+22.	affection between their hearts|{8.63:>qs8.63}
+23.	to conquer against odds|{8.65:>qs8.65}
+24.	adopt exile, fight for God (Muhajir)|{8.72:>qs8.72}, {8.74:>qs8.74}
+25.	help and give asylum (Ansar)|{8.72:>qs8.72}
+26.	ask for no exemption from danger|{9.43:>qs9.43}
+27.	protect each other|{9.71:>qs9.71}
+28.	rejoice in their (spiritual) bargain|{9.111:>qs9.111}, {61.10:>qs61.10}
+29.	to be with those true in word and deed|{9.119:>qs9.119}
+30.	to study and teach|{9.122:>qs9.122}
+31.	will be established in strength|{14.27:>qs14.27}
+32.	to practice prayer and charity|{14.31:>qs14.31}
+33.	to say what is best|{17.53:>qs17.53}
+34.	to be heirs, to inherit Paradise|{23.10:>qs23.10}
+35.	promise to|{29.55:>qs29.55}
+36.	manners|{24.62:>qs24.62}
+37.	evil will be blotted out from|{29.7:>qs29.7}
+38.	their ills removed|{47.2:>qs47.2}
+39.	conduct|{33.69:>qs33.69}, {48.29:>qs48.29}
+40.	prayer by those round throne of God|{40.7:>qs40.7}
+41.	not to despair or exult|{57.23:>qs57.23}
+42.	to make peace|{49.9:>qs49.9}
+43.	to avoid suspicion and spying|{49.12:>qs49.12}
+44.	to remember God in humility|{57.16:>qs57.16}
+45.	sincere lovers of Truth and witnesses|{57.19:>qs57.19}
+46.	receive special Mercy, Light, and forgiveness|{57.28:>qs57.28}
+47.	do what they say|{61.2:>qs61.2}
+48.	helpers to God's work|{61.14:>qs61.14}
+49.	trust in God|{64.13:>qs64.13}
+50.	persecuted, but will reach Salvation|{85.6:>qs85.6}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Bequests "Bequests"
+1.	Bequests|{2.180:>qs2.180}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Birds "Birds"
+1.	Birds|{67.19:>qs67.19}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Blasphemy "Blasphemy"
+1.	Blasphemy|{19.88:>qs19.88}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_BookOfDeeds "Book (of record of deeds)"
+1.	Book (of record of deeds)|{18.49:>qs18.49}, {36.12:>qs36.12}, {54.52:>qs54.52}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_BookOfRevelation "Book (Revelation)"
+1.	is guidance sure|{2.2:>qs2.2}
+2.	to be studied|{2.121:>qs2.121}
+3.	(Qur'an) verses fundamental & allegoric-|{3.7:>qs3.7}
+4.	(Qur'an) light and guide|{5.16:>qs5.16}
+5.	People of the book|{3.64:>qs3.64}, {3.98:>qs3.98}, {3.113:>qs3.113}, {3.187:>qs3.187}, {3.199:>qs3.199}, {4.47:>qs4.47}, {4.153:>qs4.153}
+6.	appeal to People of the|{5.62:>qs5.62}, {5.71:>qs5.71}
+7.	their hypocrisy|{5.64:>qs5.64}
+8.	forgiven if they had stood fast to their lights|{5.69:>qs5.69}
+9.	know but refuse to believe|{6.20:>qs6.20}
+10.	mother or foundation of the|{3.7:>qs3.7}, {13.39:>qs13.39}, {43.4:>qs43.4}
+11.	for each period|{13.38:>qs13.38}
+12.	on a blessed Night|{44.3:>qs44.3}
+13.	from God|{46.2:>qs46.2}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Booty "Booty (Spoils of War)"
+1.	Booty (Spoils of War)|{48.15:>qs48.15}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Brotherhood "Brotherhood"
+1.	one, of the Righteous|{21.92:>qs21.92}
+2.	of the Prophets|{23.52:>qs23.52}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Burdens "Burdens"
+1.	of others, none can bear|{6.164:>qs6.164}, {17.15:>qs17.15}, {29.12:>qs29.12}, {35.18:>qs35.18}, {39.7:>qs39.7}, {53.38:>qs53.38}
+2.	unbelievers will bear double|{16.25:>qs16.25}
+3.	no soul has greater than it can bear|{2.286:>qs2.286}, {7.42:>qs7.42}, {23.62:>qs23.62}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_CaveOfThaur "Cave of Thaur"
+1.	Cave of Thaur|{9.40:>qs9.40}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_CaveCompanions "Cave, Companions of the"
+1.	Cave, Companions of the|{18.9:>qs18.9}, {18.25:>qs18.25}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Certainty "Certainty"
+1.	Certainty|{56.95:>qs56.95}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Charity "Charity"
+1.	Charity|{2.110:>qs2.110}, {2.177:>qs2.177}, {2.195:>qs2.195}, {2.215:>qs2.215}, {2.219:>qs2.219}, {2.254:>qs2.254}, {2.261:>qs2.261}, {3.134:>qs3.134}, {30.39:>qs30.39}, {57.18:>qs57.18}, {63.10:>qs63.10}, {64.16:>qs64.16}
+2.	objects of|{2.273:>qs2.273}, {9.60:>qs9.60}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Children "Children"
+1.	Children|{2.233:>qs2.233}, {42.49:>qs42.49}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Christians "Christians"
+1.	Christians|{2.138:>qs2.138}, {5.15:>qs5.15}
+2.	nearest in love to Islam|{5.85:>qs5.85}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Cities Overthrown "Cities Overthrown"
+1.	Cities Overthrown|{69.9:>qs69.9}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Cleanliness "Cleanliness"
+1.	Cleanliness|{4.43:>qs4.43}, {5.7:>qs5.7}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Commerce "Commerce"
+1.	Commerce|{35.29:>qs35.29}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Confederates "Confederates"
+1.	Confederates|{33.9:>qs33.9}, {33.22:>qs33.22}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Consultation mutual "Consultation mutual"
+1.	Consultation mutual|{42.38:>qs42.38}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Courtesy "Courtesy"
+1.	Courtesy|{4.86:>qs4.86}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Covetousness "Covetousness"
+1.	Covetousness|{3.180:>qs3.180}, {4.32:>qs4.32}, {57.24:>qs57.24}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Cowardice "Cowardice"
+1.	Cowardice|{3.122:>qs3.122}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Creation "Creation"
+1.	begins and repeated|{10.4:>qs10.4}, {27.64:>qs27.64}, {29.19:>qs29.19}
+2.	a new|{13.5:>qs13.5}, {14.48:>qs14.48}, {17.49:>qs17.49}, {17.98:>qs17.98}, {21.104:>qs21.104}, {35.16:>qs35.16}
+3.	for just ends|{15.85:>qs15.85}, {16.3:>qs16.3}, {44.39:>qs44.39}, {45.22:>qs45.22}, {46.3:>qs46.3}
+4.	doth obeisance to God|{16.48:>qs16.48}
+5.	not for sport|{21.16:>qs21.16}
+6.	of man|{23.12:>qs23.12}
+7.	in six Days|{7.54:>qs7.54}, {32.4:>qs32.4}, {57.4:>qs57.4}
+8.	variety in|{35.27:>qs35.27}
+9.	God commands 'Be' and it is|{2.117:>qs2.117}, {16.40:>qs16.40}, {36.82:>qs36.82}, {40.68:>qs40.68}
+10.	in true proportions|{39.5:>qs39.5}
+11.	of heaven and earth greater than creation of man|{40.57:>qs40.57}, {79.27:>qs79.27}
+12.	purpose of|{51.56:>qs51.56}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Criterion "Criterion"
+1.	Criterion|{2.53:>qs2.53}, {8.29:>qs8.29}, {21.48:>qs21.48}, {25.1:>qs25.1}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Dahr "Dahr, or Mystery of Time"
+1.	Dahr, or Mystery of Time|{76.1:>qs76.1}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_David "David"
+1.	David|{6.84:>qs6.84}, {21.78:>qs21.78}, {34.10:>qs34.10}, {38.17:>qs38.17}
+2.	fights Goliath|{2.251:>qs2.251}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Day "Day"
+1.	Day|{7.54:>qs7.54}, {22.47:>qs22.47}, {32.4:>qs32.4}, {41.12:>qs41.12}, {70.4:>qs70.4}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Dead "Dead raised to life"
+1.	Dead raised to life|{6.36:>qs6.36}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Death "Death"
+1.	by God's leave|{3.145:>qs3.145}
+2.	inevitable|{3.185:>qs3.185}, {4.78:>qs4.78}
+3.	confusion of the wicked|{6.93:>qs6.93}
+4.	angels reproach Unbelievers|{8.50:>qs8.50}
+5.	in death the transgressor will not die|{14.17:>qs14.17}, {20.74:>qs20.74}, {87.13:>qs87.13}
+6.	for wrong|{16.28:>qs16.28}
+7.	for righteous|{16.30:>qs16.30}
+8.	taste of|{3.185:>qs3.185}, {21.35:>qs21.35}, {29.57:>qs29.57}
+9.	first|{37.59:>qs37.59}
+10.	not the end of all things|{45.24:>qs45.24}
+11.	and changed form thereafter|{56.60:>qs56.60}
+12.	scene at|{56.83:>qs56.83}, {75.26:>qs75.26}
+13.	sincere men flee not from death|{62.6:>qs62.6}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_DegreesGoodEvil "Degrees, good and evil"
+1.	Degrees, good and evil|{6.132:>qs6.132}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Despair "Despair"
+1.	deprecated|{3.139:>qs3.139}, {3.146:>qs3.146}
+2.	not of the Mercy of God|{39.53:>qs39.53}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_DesertArabs "Desert Arabs"
+1.	Desert Arabs|{9.90:>qs9.90}, {9.101:>qs9.101}, {48.11:>qs48.11}, {48.16:>qs48.16}, {49.14:>qs49.14}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_DesertionInFight "Desertion in fight"
+1.	Desertion in fight|{4.89:>qs4.89}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Dhari "Dhari'"
+1.	Dhari'|{88.6:>qs88.6}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Differences "Differences"
+1.	Differences|{42.10:>qs42.10}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Difficulty "Difficulty"
+1.	Difficulty|{94.5:>qs94.5}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Discipline "Discipline"
+1.	Discipline|{3.152:>qs3.152}, {61.4:>qs61.4}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Discord "Discord, incited by Evil"
+1.	Discord, incited by Evil|{41.36:>qs41.36}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Disease "Disease in the hearts"
+1.	Disease in the hearts of the Hypocrites and Unbelievers|{2.10:>qs2.10}, {5.55:>qs5.55}, {8.49:>qs8.49}, {9.125:>qs9.125}, {22.53:>qs22.53}, {24.50:>qs24.50}, {33.12:>qs33.12}, {33.32:>qs33.32}, {33.60:>qs33.60}, {47.20:>qs47.20}, {50.7:>qs50.7}, {74.31:>qs74.31}
+2.	deprecated|{29.46:>qs29.46}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_DistributionOfProperty "Distribution of property"
+1.	anfal, if after fighting|{8.41:>qs8.41}
+2.	fai, if without fighting|{59.7:>qs59.7}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_DistributionOfCharity "Distribution of Charity"
+1.	Distribution of Charity|{2.177:>qs2.177}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Divorce "Divorce"
+1.	Divorce|{2.228:>qs2.228}, {2.236:>qs2.236}, {2.241:>qs2.241}, {65.1:>qs65.1}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Dower "Dower"
+1.	Dower|{2.229:>qs2.229}, {2.236:>qs2.236}, {4.4:>qs4.4}, {4.19:>qs4.19}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Earth "Earth"
+1.	will be changed to a different|{14.48:>qs14.48}
+2.	prepared for God's creatures|{15.19:>qs15.19}, {26.7:>qs26.7}, {77.25:>qs77.25}
+3.	spacious is God's Earth|{29.56:>qs29.56}
+4.	manageable for man|{67.15:>qs67.15}
+5.	convulsion of, a symbol|{99.1:>qs99.1}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Eating "Eating"
+1.	Eating|{5.69:>qs5.69}, {77.43:>qs77.43}, {77.46:>qs77.46}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Elephant, Companions of "Elephant, Companions of"
+1.	Elephant, Companions of|{105.1:>qs105.1}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Elias "Elias (Elijah)"
+1.	Elias (Elijah)|{6.85:>qs6.85}, {37.123:>qs37.123}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Elisha "Elisha"
+1.	Elisha|{6.86:>qs6.86}, {38.48:>qs38.48}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Evidence "Evidence"
+1.	re transactions|{2.282:>qs2.282}
+2.	re bequests|{5.109:>qs5.109}
+3.	re charges against chaste women|{24.4:>qs24.4}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Evil "Evil"
+1.	Evil|{4.51:>qs4.51}, {4.123:>qs4.123}, {10.27:>qs10.27}, {26.221:>qs26.221}, {42.36:>qs42.36}
+2.	comes from ourselves, but good from God|{4.79:>qs4.79}
+3.	makes fools of men|{6.71:>qs6.71}
+4.	recompensed justly|{6.160:>qs6.160}
+5.	will destroy Evil|{19.83:>qs19.83}
+6.	will come to evil end|{30.10:>qs30.10}
+7.	deceives evil|{59.15:>qs59.15}
+8.	repel evil with good|{13.22:>qs13.22}, {23.96:>qs23.96}, {41.34:>qs41.34}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_EvilSpirit "Evil Spirit"
+1.	rejected, accursed|{3.36:>qs3.36}, {15.17:>qs15.17}, {16.98:>qs16.98}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_ExcessForbidden "Excess forbidden"
+1.	in food|{5.90:>qs5.90}
+2.	in religion|{7.6:>qs7.6}, {5.80:>qs5.80}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_FaceOfGod "Face of God"
+1.	Face of God|{2.112:>qs2.112}, {2.272:>qs2.272}, {6.52:>qs6.52}, {13.22:>qs13.22}, {18.28:>qs18.28}, {28.88:>qs28.88}, {30.39:>qs30.39}, {55.27:>qs55.27}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Faith "Faith"
+1.	rejecters of|{2.6:>qs2.6}, {2.165:>qs2.165}, {3.4:>qs3.4}, {3.10:>qs3.10}, {3.12:>qs3.12}, {3.21:>qs3.21}, {3.90:>qs3.90}, {3.116:>qs3.116}, {3.181:>qs3.181}, {4.136:>qs4.136}, {4.167:>qs4.167}
+2.	ransom not accepted|{5.39:>qs5.39}
+3.	follow ancestral ways|{5.107:>qs5.107}
+4.	destroyed|{6.6:>qs6.6}
+5.	ask for angel to be sent down|{6.8:>qs6.8}
+6.	lie against their own souls|{6.24:>qs6.24}
+7.	will see Truth in Hereafter|{6.28:>qs6.28}
+8.	will be in confusion|{6.110:>qs6.110}
+9.	hearts inclined to deceit|{6.113:>qs6.113}
+10.	taste evil result of conduct|{64.5:>qs64.5}
+11.	their way and worship repudiated|{109.1:>qs109.1}
+12.	signs of|{2.165:>qs2.165}, {2.285:>qs2.285}
+13.	sellers of|{3.77:>qs3.77}, {3.177:>qs3.177}
+14.	strengthened in danger and disaster|{3.173:>qs3.173}
+15.	and righteousness|{5.72:>qs5.72}
+16.	followed by unbelief|{16.106:>qs16.106}
+17.	and charity|{57.7:>qs57.7}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_FalseGods "False gods"
+1.	False gods|{7.194:>qs7.194}, {16.20:>qs16.20}, {21.22:>qs21.22}, {34.22:>qs34.22}, {41.47:>qs41.47}, {46.5:>qs46.5}, {53.19:>qs53.19}, {71.23:>qs71.23}
+2.	follow ancestral ways|{5.107:>qs5.107}
+3.	destroyed|{6.6:>qs6.6}
+4.	ask for angel to be sent down|{6.8:>qs6.8}
+5.	lie against their own souls|{6.24:>qs6.24}
+6.	will see Truth in Hereafter|{6.28:>qs6.28}
+7.	will be in confusion|{6.110:>qs6.110}
+8.	hearts inclined to deceit|{6.113:>qs6.113}
+9.	taste evil result of conduct|{64.5:>qs64.5}
+10.	their way and worship repudiated|{109.1:>qs109.1}
+11.	signs of|{2.165:>qs2.165}, {2.285:>qs2.285}
+12.	sellers of|{3.77:>qs3.77}, {3.177:>qs3.177}
+13.	strengthened in danger and disaster|{3.173:>qs3.173}
+14.	and righteousness|{5.72:>qs5.72}
+15.	followed by unbelief|{16.106:>qs16.106}
+16.	and charity|{57.7:>qs57.7}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Falsehood "Falsehood"
+1.	perishes|{21.18:>qs21.18}
+2.	deludes|{51.8:>qs51.8}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_FaminesInMecca "Famines in Mecca"
+1.	Famines in Mecca|{23.75:>qs23.75}, {44.10:>qs44.10}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Fasting "Fasting"
+1.	Fasting|{2.184:>qs2.184}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Fate "Fate"
+1.	man's fate on his own neck|{17.13:>qs17.13}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_FearOfGod "Fear of God"
+1.	what is|{2.2:>qs2.2}, {98.8:>qs98.8}
+2.	as He should be feared|{3.102:>qs3.102}
+3.	command to People of the Book & Muslims|{4.131:>qs4.131}
+4.	piety and restraint (Taqwa)|{47.17:>qs47.17}
+5.	unseen|{67.12:>qs67.12}
+6.	of His displeasure|{70.27:>qs70.27}
+7.	righteousness|{74.56:>qs74.56}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_FearOfMen "Fear of men"
+1.	Fear of men|{4.77:>qs4.77}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_FearNoEvil "Fear no evil"
+1.	Fear no evil|{3.175:>qs3.175}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Fear "Fear"
+1.	as motive for reclamation|{2.74:>qs2.74}
+2.	in Signs of God|{17.59:>qs17.59}
+3.	none for the Righteous|{2.38:>qs2.38}
+4.	or for Believers|{2.62:>qs2.62}
+5.	or those who submit to God|{2.112:>qs2.112}
+6.	or who spend for God|{2.262:>qs2.262}, {2.274:>qs2.274}
+7.	or who believe and do good|{2.277:>qs2.277}, {5.72:>qs5.72}
+8.	or who believe and amend|{6.48:>qs6.48}, {7.35:>qs7.35}
+9.	or for friends of God|{10.62:>qs10.62}
+10.	or for God's devotees|{43.68:>qs43.68}
+11.	or for those who remain firm in God|{46.13:>qs46.13}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Fig "Fig, as a symbol"
+1.	Fig, as a symbol|{95.1:>qs95.1}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Fighting "Fighting"
+1.	in cause of God|{2.190:>qs2.190}, {4.84:>qs4.84}
+2.	prescribed|{2.216:>qs2.216}, {2.244:>qs2.244}
+3.	in Prohibited month|{2.217:>qs2.217}
+4.	by Children of Israel|{2.246:>qs2.246}
+5.	in cause of God  oppressed men  women|{4.74:>qs4.74}
+6.	till no more|{8.39:>qs8.39}
+7.	against odds|{8.65:>qs8.65}
+8.	in case of|{9.5:>qs9.5}, {9.12:>qs9.12}
+9.	those who believe not, and reject Truth|{9.29:>qs9.29}
+10.	with firmness|{9.123:>qs9.123}
+11.	permitted to those who are wronged|{22.39:>qs22.39}
+12.	when, and till when|{47.4:>qs47.4}
+13.	and the faint|{47.20:>qs47.20}
+14.	exemptions from|{48.17:>qs48.17}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Fire "Fire"
+1.	parable|{2.17:>qs2.17}
+2.	mystic Fire of Moses|{20.10:>qs20.10}
+3.	God's gift|{56.72:>qs56.72}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Food "Food"
+1.	lawful and unlawful|{2.168:>qs2.168}, {2.172:>qs2.172}, {5.2:>qs5.2}, {5.90:>qs5.90}, {6.118:>qs6.118}, {6.121:>qs6.121}, {6.145:>qs6.145}, {16.114:>qs16.114}
+2.	less important than righteousness|{5.96:>qs5.96}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Forbidden "Forbidden"
+1.	conduct|{6.151:>qs6.151}, {7.33:>qs7.33}
+2.	not things clean and pure|{7.32:>qs7.32}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Forgiveness "Forgiveness"
+1.	Forgiveness|{2.109:>qs2.109}, {4.48:>qs4.48}, {4.110:>qs4.110}, {4.116:>qs4.116}, {7.199:>qs7.199}, {39.53:>qs39.53}, {42.5:>qs42.5}, {45.14:>qs45.14}, {53.32:>qs53.32}, {57.21:>qs57.21}
+2.	duty of Believers|{42.37:>qs42.37}, {45.14:>qs45.14}
+3.	by Believers, for people of the Book|{2.109:>qs2.109}
+4.	by God for sins other than joining gods with god|{4.48:>qs4.48}, {4.110:>qs4.110}, {4.116:>qs4.116}
+5.	hold to, and command the right|{7.199:>qs7.199}
+6.	God forgives all sins|{39.53:>qs39.53}
+7.	angels pray for forgiveness of all beings on earth|{42.5:>qs42.5}
+8.	forgive, even when angry|{42.37:>qs42.37}
+9.	and reconciliation|{42.40:>qs42.40}
+10.	God forgives those who avoid great sins and shameful deeds|{53.32:>qs53.32}
+11.	be foremost in seeking|{57.21:>qs57.21}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Fraud "Fraud"
+1.	Fraud|{83.1:>qs83.1}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_FreeWill "Free-will"
+1.	no compulsion to believe|{10.99:>qs10.99}
+2.	Truth, to be accepted or rejected|{18.29:>qs18.29}
+3.	limited by God's Will|{74.56:>qs74.56}, {76.29:>qs76.29}, {81.28:>qs81.28}
+4.	just bias|{82.7:>qs82.7}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_FridayPrayers "Friday Prayers"
+1.	Friday Prayers|{62.9:>qs62.9}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Friends "Friends"
+1.	Friends|{3.28:>qs3.28}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Fruits & eating "Fruits & eating"
+1.	metaphorical meaning of|{43.73:>qs43.73}, {47.15:>qs47.15}, {48.4:>qs48.4}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Gabriel "Gabriel"
+1.	Gabriel|{2.97:>qs2.97}, {66.4:>qs66.4}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Gambling "Gambling"
+1.	Gambling|{2.219:>qs2.219}, {5.93:>qs5.93}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Game "Game"
+1.	prohibited in Sacred Precincts|{5.97:>qs5.97}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_GladTidings "Glad Tidings to men"
+1.	Glad Tidings to men|{2.25:>qs2.25}, {5.21:>qs5.21}, {16.89:>qs16.89}, {48.8:>qs48.8}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_God "God"
+1.	Cherisher|{1.2:>qs1.2}, {6.164:>qs6.164}
+2.	Guardian-Lord|{2.21:>qs2.21}
+3.	as a Guardian on Watch|{89.14:>qs89.14}
+4.	protector|{2.257:>qs2.257}, {3.150:>qs3.150}, {22.78:>qs22.78}
+5.	sets guardians over man|{6.61:>qs6.61}
+6.	Helper|{3.150:>qs3.150}, {4.45:>qs4.45}, {40.51:>qs40.51}
+7.	help of, how to be celebrated|{110.1:>qs110.1}
+8.	refuge to Him from all ills & mischiefs|{113.1:>qs113.1}, {114.1:>qs114.1}
+9.	Creator of all|{2.29:>qs2.29}, {2.117:>qs2.117}, {6.73:>qs6.73}
+10.	creates and sustains all|{7.54:>qs7.54}, {11.6:>qs11.6}, {13.16:>qs13.16}, {21.30:>qs21.30}, {66.2:>qs66.2}
+11.	created all nature|{25.61:>qs25.61}
+12.	to Him belongs the heritage of the heavens and the earth|{3.180:>qs3.180}, {15.23:>qs15.23}, {19.40:>qs19.40}
+13.	gives Sustenance|{29.60:>qs29.60}, {51.58:>qs51.58}
+14.	Lord of Bounties|{3.174:>qs3.174}
+15.	His Bounties open to all|{17.20:>qs17.20}
+16.	Most Bountiful|{96.3:>qs96.3}
+17.	Merciful|{4.26:>qs4.26}, {5.77:>qs5.77}, {6.12:>qs6.12}, {6.54:>qs6.54}, {6.133:>qs6.133}
+18.	Most Kind|{9.117:>qs9.117}
+19.	Full of loving kindness|{85.14:>qs85.14}
+20.	Beneficent|{52.28:>qs52.28}
+21.	His love bestowed on the Righteous|{19.96:>qs19.96}
+22.	Forgiving|{4.25:>qs4.25}, {5.77:>qs5.77}, {15.49:>qs15.49}, {16.119:>qs16.119}, {39.53:>qs39.53}, {85.14:>qs85.14}
+23.	guides|{6.71:>qs6.71}, {6.88:>qs6.88}, {92.12:>qs92.12}
+24.	ordains laws and grants guidance|{87.3:>qs87.3}
+25.	calls to Home of Peace|{10.25:>qs10.25}
+26.	God, His favors, Gardens and fruits|{6.141:>qs6.141}
+27.	cattle|{6.142:>qs6.142}
+28.	mercy after adversity|{10.21:>qs10.21}
+29.	traverse through land and sea|{10.22:>qs10.22}
+30.	in life and death|{10.31:>qs10.31}, {10.56:>qs10.56}, {22.5:>qs22.5}
+31.	Cherisher and Sustainer|{10.32:>qs10.32}
+32.	direction, healing, guidance, mercy|{10.57:>qs10.57}
+33.	gifts from heaven and earth|{14.32:>qs14.32}
+34.	numberless|{14.34:>qs14.34}, {16.18:>qs16.18}
+35.	cattle and things ye know not|{16.5:>qs16.5}
+36.	rain, corn, and fruit|{16.10:>qs16.10}
+37.	night and day, sun, stars, gifts from heaven and earth|{16.12:>qs16.12}
+38.	sea and ships|{16.14:>qs16.14}, {17.66:>qs17.66}
+39.	mountains, rivers, roads|{16.15:>qs16.15}
+40.	cattle and fruits|{16.66:>qs16.66}
+41.	the Bee|{16.68:>qs16.68}
+42.	bestowed variously be grateful|{16.71:>qs16.71}
+43.	in our birth and our faculties|{16.77:>qs16.77}
+44.	in our homes & in service of animals|{16.80:>qs16.80}
+45.	subjection of earth and sea|{22.65:>qs22.65}
+46.	blessings from heaven and earth|{23.17:>qs23.17}
+47.	long line of prophets|{23.23:>qs23.23}
+48.	faculties, and progeny|{23.78:>qs23.78}
+49.	shadows and the sun|{25.45:>qs25.45}
+50.	night and day, sleep|{25.47:>qs25.47}
+51.	wind and rain|{25.48:>qs25.48}
+52.	bodies of water|{25.53:>qs25.53}
+53.	man's creation, lineage and marriage|{25.54:>qs25.54}
+54.	creation of heavens and earth|{27.60:>qs27.60}
+55.	listens to the soul|{27.62:>qs27.62}
+56.	guides through darkness, wind as heral|{27.63:>qs27.63}
+57.	originates and repeats creation|{27.64:>qs27.64}
+58.	feeds creation|{29.60:>qs29.60}
+59.	sends rain and revives the earth|{29.63:>qs29.63}
+60.	made heaven and earth with all its|{31.10:>qs31.10}
+61.	subjected all things to your use|{31.20:>qs31.20}, {36.71:>qs36.71}, {45.12:>qs45.12}
+62.	His Mercy gifts, none can withhold|{35.2:>qs35.2}
+63.	life, grain, fruits, and springs|{36.33:>qs36.33}
+64.	earth and the heavens|{41.10:>qs41.10}, {51.47:>qs51.47}
+65.	accepts repentance and forgives|{42.25:>qs42.25}
+66.	listens and gives increase|{42.26:>qs42.26}
+67.	heavens and earth, rain and life|{43.9:>qs43.9}
+68.	creation in pairs, ships and cattle|{43.12:>qs43.12}, {51.49:>qs51.49}
+69.	created man and taught him speech|{55.3:>qs55.3}
+70.	set up justice|{55.7:>qs55.7}
+71.	spread out earth, with fruit, corn|{55.10:>qs55.10}
+72.	two bodies of water|{55.19:>qs55.19}
+73.	pearls and coral|{55.22:>qs55.22}
+74.	ships|{55.24:>qs55.24}
+75.	grants the need of every creature|{55.29:>qs55.29}
+76.	settles their affairs|{55.31:>qs55.31}
+77.	stream and flowing water|{67.30:>qs67.30}
+78.	given heaven's canopy its order and|{79.27:>qs79.27}
+79.	night, its darkness and splendor|{79.29:>qs79.29}
+80.	expanse of the earth, its moisture|{79.30:>qs79.30}
+81.	orphan's shelter|{93.6:>qs93.6}
+82.	wanderer's guide|{93.7:>qs93.7}
+83.	satisfies need|{93.8:>qs93.8}
+84.	expanded thy breast|{94.1:>qs94.1}
+85.	removed thy burden|{94.2:>qs94.2}
+86.	raised high thy esteem|{94.4:>qs94.4}
+87.	present everywhere|{2.115:>qs2.115}, {7.7:>qs7.7}
+88.	gave you life|{2.28:>qs2.28}, {6.122:>qs6.122}
+89.	gives life and death|{3.156:>qs3.156}, {6.95:>qs6.95}, {15.23:>qs15.23}
+90.	takes the souls of men|{39.42:>qs39.42}
+91.	to Him go back all questions for|{3.109:>qs3.109}, {3.128:>qs3.128}
+92.	to Him tend all affairs|{42.53:>qs42.53}
+93.	to Him is the Goal|{53.42:>qs53.42}
+94.	to Him is the return of all|{96.8:>qs96.8}
+95.	Unity|{2.163:>qs2.163}, {6.19:>qs6.19}, {16.22:>qs16.22}, {23.91:>qs23.91}, {37.1:>qs37.1}, {38.65:>qs38.65}, {112.1:>qs112.1}
+96.	One, not one in a Trinity|{5.75:>qs5.75}
+97.	nor one of two|{16.51:>qs16.51}
+98.	no begotten son|{2.116:>qs2.116}, {6.100:>qs6.100}, {10.68:>qs10.68}, {19.35:>qs19.35}, {23.91:>qs23.91}
+99.	nor consort nor daughters|{6.100:>qs6.100}, {16.57:>qs16.57}, {37.149:>qs37.149}, {37.157:>qs37.157}, {43.16:>qs43.16}
+100.	no partners|{6.22:>qs6.22}, {6.136:>qs6.136}, {6.163:>qs6.163}
+101.	Wise|{4.26:>qs4.26}, {6.18:>qs6.18}
+102.	best Disposer of Affairs|{3.173:>qs3.173}, {73.9:>qs73.9}
+103.	Most High, Great|{4.34:>qs4.34}, {87.1:>qs87.1}
+104.	Irresistible|{6.18:>qs6.18}, {6.61:>qs6.61}
+105.	Doer of all He intends|{85.16:>qs85.16}
+106.	power|{2.284:>qs2.284}, {3.29:>qs3.29}, {6.12:>qs6.12}, {6.65:>qs6.65}, {10.55:>qs10.55}, {16.77:>qs16.77}, {53.42:>qs53.42}, {85.12:>qs85.12}
+107.	Self|{6.133:>qs6.133}
+108.	Ready to appreciate service|{14.5:>qs14.5}, {35.30:>qs35.30}, {64.7:>qs64.7}
+109.	Most Forbearing|{2.225:>qs2.225}, {2.235:>qs2.235}, {2.263:>qs2.263}, {3.155:>qs3.155}, {5.104:>qs5.104}, {22.59:>qs22.59}, {64.17:>qs64.17}
+110.	Wisest of Judges|{95.8:>qs95.8}
+111.	Justice|{21.47:>qs21.47}
+112.	never unjust|{4.40:>qs4.40}
+113.	Best of planners|{3.54:>qs3.54}, {13.42:>qs13.42}
+114.	will separate evil from good|{3.179:>qs3.179}
+115.	His Wrath|{1.7:>qs1.7}, {7.97:>qs7.97}
+116.	quick in retribution, but forgiving and|{7.167:>qs7.167}, {13.6:>qs13.6}
+117.	Swift in taking account|{24.39:>qs24.39}
+118.	Best to decide|{10.109:>qs10.109}
+119.	Best of those who show mercy|{23.109:>qs23.109}, {23.118:>qs23.118}
+120.	Most Merciful of those who show mercy|{7.151:>qs7.151}, {12.64:>qs12.64}, {12.92:>qs12.92}, {21.83:>qs21.83}
+121.	decision with Him|{42.10:>qs42.10}
+122.	Exalted in power, Wise|{31.9:>qs31.9}, {39.1:>qs39.1}
+123.	Free of all wants|{31.26:>qs31.26}, {35.15:>qs35.15}
+124.	Worthy of all praise|{31.26:>qs31.26}
+125.	Ample in forgiveness|{53.32:>qs53.32}
+126.	Living|{2.255:>qs2.255}, {40.65:>qs40.65}
+127.	Eternal|{2.255:>qs2.255}, {20.111:>qs20.111}
+128.	His Artistry|{27.88:>qs27.88}
+129.	His Face will abide for ever|{55.27:>qs55.27}
+130.	all will perish except His own Self|{28.88:>qs28.88}
+131.	His knowledge|{2.284:>qs2.284}, {3.5:>qs3.5}, {3.29:>qs3.29}, {6.3:>qs6.3}, {6.117:>qs6.117}, {13.8:>qs13.8}, {16.23:>qs16.23}, {21.4:>qs21.4}, {31.34:>qs31.34}, {34.2:>qs34.2}, {64.4:>qs64.4}
+132.	His dominion|{3.189:>qs3.189}, {4.126:>qs4.126}, {5.123:>qs5.123}, {67.1:>qs67.1}
+133.	Command rests with him|{6.57:>qs6.57}, {13.41:>qs13.41}
+134.	Lord of the Throne of Glory Supreme|{9.129:>qs9.129}, {23.86:>qs23.86}, {40.15:>qs40.15}, {85.15:>qs85.15}
+135.	Lord of the Throne of Honor|{23.16:>qs23.16}
+136.	Lord of the mystery of heaven and earth|{16.77:>qs16.77}
+137.	Lord of Power|{51.58:>qs51.58}
+138.	Lord of the two Easts and the two Wests|{55.17:>qs55.17}, {70.40:>qs70.40}, {73.9:>qs73.9}
+139.	Lord of the Dawn|{113.1:>qs113.1}
+140.	Lord of the Ways of Ascent|{70.3:>qs70.3}
+141.	God in heaven and God on earth|{43.84:>qs43.84}
+142.	To Him belong the End and the Beginning|{92.13:>qs92.13}
+143.	listens to prayer|{2.186:>qs2.186}
+144.	sends calm or tranquillity|{3.154:>qs3.154}, {9.26:>qs9.26}, {48.4:>qs48.4}, {48.18:>qs48.18}, {48.26:>qs48.26}
+145.	purges|{3.141:>qs3.141}, {3.154:>qs3.154}
+146.	tests|{3.142:>qs3.142}, {3.154:>qs3.154}, {3.166:>qs3.166}, {6.53:>qs6.53}, {29.2:>qs29.2}, {67.2:>qs67.2}
+147.	sees all|{3.163:>qs3.163}
+148.	sufficeth|{3.173:>qs3.173}, {8.64:>qs8.64}, {39.36:>qs39.36}, {65.3:>qs65.3}
+149.	will lighten difficulties|{4.28:>qs4.28}
+150.	sanctifies|{4.49:>qs4.49}
+151.	recognizes all good|{4.147:>qs4.147}
+152.	will accept from the Good the best of their deeds|{29.7:>qs29.7}, {46.16:>qs46.16}
+153.	removes affliction|{6.17:>qs6.17}
+154.	delivers from dangers|{6.63:>qs6.63}
+155.	sends revelations|{6.91:>qs6.91}
+156.	orders all things|{6.95:>qs6.95}
+157.	gives Light to men|{6.122:>qs6.122}
+158.	His Light will be perfected|{9.32:>qs9.32}, {61.8:>qs61.8}
+159.	is the Light of heavens and earth|{24.35:>qs24.35}
+160.	changes not His Grace unless people change themselves|{8.53:>qs8.53}, {13.11:>qs13.11}
+161.	will not mislead|{9.115:>qs9.115}
+162.	suffers not reward to be lost|{9.120:>qs9.120}, {11.115:>qs11.115}
+163.	sufferers in His Cause to be rewarded|{16.41:>qs16.41}
+164.	doth provide without measure|{24.38:>qs24.38}
+165.	witnesses all things|{10.61:>qs10.61}
+166.	understands the finest mysteries|{67.14:>qs67.14}
+167.	nature of|{2.255:>qs2.255}, {3.2:>qs3.2}, {3.6:>qs3.6}, {3.18:>qs3.18}, {6.95:>qs6.95}, {25.2:>qs25.2}, {25.6:>qs25.6}, {32.2:>qs32.2}, {40.2:>qs40.2}, {43.84:>qs43.84}, {57.1:>qs57.1}, {59.22:>qs59.22}, {112.1:>qs112.1}, {114.1:>qs114.1}
+168.	close to man|{2.186:>qs2.186}
+169.	ever near|{34.50:>qs34.50}
+170.	near to man|{50.16:>qs50.16}, {56.85:>qs56.85}
+171.	compasses mankind round about|{17.60:>qs17.60}
+172.	with you wherever ye may be|{57.4:>qs57.4}
+173.	only Reality|{6.62:>qs6.62}, {31.30:>qs31.30}
+174.	the Truth|{20.114:>qs20.114}
+175.	to Him belong the Forces of heavens and|{48.7:>qs48.7}
+176.	decrees unalterable|{6.34:>qs6.34}, {18.27:>qs18.27}
+177.	His word finds fulfillment|{6.115:>qs6.115}
+178.	no vision can grasp Him|{6.103:>qs6.103}
+179.	most beautiful names|{7.180:>qs7.180}, {17.110:>qs17.110}, {20.8:>qs20.8}, {59.24:>qs59.24}
+180.	worship of|{2.114:>qs2.114}, {2.152:>qs2.152}
+181.	to be worshipped and trusted|{11.123:>qs11.123}
+182.	sincere devotion due to Him|{39.3:>qs39.3}, {3.11:>qs3.11}, {40.14:>qs40.14}
+183.	we trust in Him|{67.29:>qs67.29}
+184.	His promise is true|{4.122:>qs4.122}, {14.47:>qs14.47}
+185.	seek His Face|{6.52:>qs6.52}, {18.28:>qs18.28}
+186.	dedicate life to Him|{6.162:>qs6.162}
+187.	call on Him humbly, with fear and long-|{7.55:>qs7.55}
+188.	forget Him not|{59.19:>qs59.19}
+189.	to God, turn thy attention|{94.8:>qs94.8}
+190.	all Creation speak of Him|{13.12:>qs13.12}, {17.44:>qs17.44}, {24.41:>qs24.41}, {57.1:>qs57.1}
+191.	praise and glory to Him|{1.1:>qs1.1}, {17.111:>qs17.111}, {30.17:>qs30.17}, {34.1:>qs34.1}, {37.180:>qs37.180}, {45.36:>qs45.36}, {55.78:>qs55.78}, {56.74:>qs56.74}, {56.96:>qs56.96}, {59.1:>qs59.1}, {61.1:>qs61.1}, {62.1:>qs62.1}, {64.1:>qs64.1}, {87.1:>qs87.1}
+192.	and His signs|{10.3:>qs10.3}, {13.2:>qs13.2}
+193.	His Command must come to pass|{16.1:>qs16.1}
+194.	His Command is but a single Act|{54.50:>qs54.50}
+195.	all good from Him|{16.53:>qs16.53}
+196.	what He commands|{16.90:>qs16.90}
+197.	what is with Him will endure|{16.96:>qs16.96}
+198.	His words inexhaustible|{18.109:>qs18.109}, {31.27:>qs31.27}
+199.	rejecters of, will not injure God|{47.32:>qs47.32}
+200.	rejecter of, described|{50.24:>qs50.24}
+201.	who are His servants|{25.63:>qs25.63}
+202.	those most devoted to God|{92.17:>qs92.17}
+203.	claim to exclusive friendship of, condemned|{62.6:>qs62.6}
+204.	"if God willing"|{18.23:>qs18.23}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Goliath "Goliath"
+1.	Goliath|{2.249:>qs2.249}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Good "Good"
+1.	rewarded double|{4.40:>qs4.40}
+2.	rewarded ten times|{6.160:>qs6.160}
+3.	increased progressively|{42.23:>qs42.23}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Good&Evil "Good and Evil"
+1.	Good and Evil|{4.79:>qs4.79}, {4.85:>qs4.85}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_GoodForEvil "Good for evil"
+1.	Good for evil|{23.96:>qs23.96}, {28.54:>qs28.54}, {41.34:>qs41.34}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Gospel "Gospel"
+1.	Gospel|{5.50:>qs5.50}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Haman "Haman"
+1.	Haman|{28.6:>qs28.6}, {28.38:>qs28.38}, {29.39:>qs29.39}, {40.36:>qs40.36}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Harut "Harut"
+1.	Harut|{2.102:>qs2.102}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Heaven "Heaven"
+1.	as gardens, in nearness to God, rivers flowing, eternal home|{3.15:>qs3.15}, {3.198:>qs3.198}
+2.	Companions pure and holy, cool shades|{4.57:>qs4.57}
+3.	for righteous deeds|{4.124:>qs4.124}
+4.	truthful to profit from|{5.122:>qs5.122}
+5.	no lurking sense of injury in hearts|{7.43:>qs7.43}
+6.	mercy from God, Good Pleasure, eternity|{9.21:>qs9.21}
+7.	Gardens, mansions, Good Pleasure of God|{9.72:>qs9.72}
+8.	no lurking sense of injury, nor fatigue|{15.45:>qs15.45}, {15.48:>qs15.48}
+9.	Gardens of Eternity, rivers|{18.31:>qs18.31}, {22.23:>qs22.23}, {19.61:>qs19.61}
+10.	Gardens as hospitable homes|{32.19:>qs32.19}
+11.	adornments  sorrow removed, no toil or|{35.33:>qs35.33}
+12.	joy, associates, cool shade, thrones, all they call for Peace|{36.55:>qs36.55}
+13.	fruits, honor and dignity|{37.41:>qs37.41}
+14.	final return, gardens of eternity, chaste women|{38.49:>qs38.49}
+15.	lofty mansion, rivers|{39.20:>qs39.20}
+16.	garden, peace, eternity, angels singing|{39.73:>qs39.73}
+17.	meads of gardens, all they wish for|{42.22:>qs42.22}
+18.	no fear nor grief, dishes and goblets|{43.68:>qs43.68}
+19.	security, no further death|{44.51:>qs44.51}
+20.	parable of garden, rivers, Grace from|{47.15:>qs47.15}
+21.	Garden, peace and security  more than|{50.31:>qs50.31}
+22.	Garden, happiness  companions, families|{52.17:>qs52.17}
+23.	Assembly of Truth, Presence of Sovereig|{4.54:>qs4.54}
+24.	Fruits, Carpets, Chaste Companions|{55.46:>qs55.46}
+25.	nearest to God  no frivolity nor taint|{56.11:>qs56.11}
+26.	Rest & Satisfaction  salutation of Peace|{56.88:>qs56.88}
+27.	Light runs before them   Eternity|{57.12:>qs57.12}
+28.	Bliss, Garden, Fruits|{69.21:>qs69.21}
+29.	Cup, Fountain of Abundance|{76.5:>qs76.5}
+30.	Garden  No Excess of heat or Cold,Shade|{76.5:>qs76.5}
+31.	Fulfillment of heart's desires|{78.31:>qs78.31}
+32.	Garden|{79.41:>qs79.41}
+33.	Thrones  Brightness of Bliss, Pure Wine|{83.22:>qs83.22}
+34.	Joy, Striving  no Vanity  Throne|{88.8:>qs88.8}, {88.16:>qs88.16}
+35.	God well pleased with them, and they|{98.8:>qs98.8}
+36.	salutation in|{10.10:>qs10.10}, {15.46:>qs15.46}, {56.91:>qs56.91}
+37.	"My Heaven," said by God|{89.30:>qs89.30}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Hell "Hell"
+1.	skins roasted and renewed|{4.56:>qs4.56}
+2.	of no profit are hoards & arrogant ways|{7.48:>qs7.48}
+3.	for such  took religion to be amusement|{7.51:>qs7.51}
+4.	filled with jinns and men|{11.119:>qs11.119}
+5.	drink, boiling fetid water|{14.16:>qs14.16}
+6.	Death will come, but will not die|{14.17:>qs14.17}
+7.	fetters, liquid pitch faces covered|{14.49:>qs14.49}
+8.	garment of Fire, boiling water|{22.19:>qs22.19}
+9.	Blazing fire, furious|{25.11:>qs25.11}
+10.	together, will plead for destruction|{25.13:>qs25.13}
+11.	Punishment  cover them from above,below|{25.55:>qs25.55}
+12.	forced into it they wish to get away|{32.20:>qs32.20}
+13.	men repeatedly warned|{36.63:>qs36.63}
+14.	Tree of Zaqqum, and boiling water|{37.62:>qs37.62}, {44.43:>qs44.43}, {56.52:>qs56.52}
+15.	burn in Hell  taste of boiling fluid|{38.55:>qs38.55}
+16.	Unbelievers led in crowds  warned before|{39.71:>qs39.71}
+17.	dispute and self and recrimination|{40.47:>qs40.47}
+18.	to dwell for aye  punishment not lighten|{43.74:>qs43.74}
+19.	God not unjust   unjust themselves|{43.76:>qs43.76}
+20.	capacity unlimited|{50.30:>qs50.30}
+21.	Sinners known by their marks|{55.41:>qs55.41}
+22.	Hell, which they denied  boiling water|{55.43:>qs55.43}
+23.	Boiling Water, Shades of Black Smoke|{56.42:>qs56.42}
+24.	drawing in its breath, bursting  fury|{67.6:>qs67.6}
+25.	record in left hand, vain regrets|{69.25:>qs69.25}
+26.	seize him, bind him, burn him, in chain|{69.30:>qs69.30}
+27.	naught  permit to endure or leave alone|{74.26:>qs74.26}
+28.	Over it are Nineteen|{74.30:>qs74.30}
+29.	a place of ambush  taste  nothing cool|{78.21:>qs78.21}
+30.	Day when hell   placed in full view|{79.35:>qs79.35}
+31.	stain on sinners' hearts|{83.14:>qs83.14}
+32.	faces humiliated, enter the Fire   Dhari|{88.2:>qs88.2}
+33.	brought face to face, will then remember|{89.23:>qs89.23}
+34.	bottomless Pit, fire blazing fiercely|{2.9:>qs2.9}
+35.	That which Breaks  Pieces   wrath of God|{104.4:>qs104.4}
+36.	they will neither die nor live|{20.74:>qs20.74}, {87.13:>qs87.13}
+37.	to it are seven Gates|{15.44:>qs15.44}
+38.	is it eternal?|{11.107:>qs11.107}
+39.	who will pass over it?|{19.71:>qs19.71}, {102.6:>qs102.6}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Hereafter "Hereafter"
+1.	not a falsehood|{6.31:>qs6.31}
+2.	man must meet God|{6.31:>qs6.31}
+3.	Home in the|{6.32:>qs6.32}
+4.	Wrath of God|{6.40:>qs6.40}, {12.107:>qs12.107}
+5.	Home of Peace|{6.127:>qs6.127}
+6.	wrong-doers will not prosper|{6.135:>qs6.135}
+7.	prophets  whom message sent  questioned|{7.6:>qs7.6}
+8.	deeds will be balanced|{7.8:>qs7.8}
+9.	no intercession   who disregarded|{7.53:>qs7.53}
+10.	Fire & Garden endure, except as God will|{11.107:>qs11.107}
+11.	the arrogant and the weak in the|{14.21:>qs14.21}
+12.	wrong-doers will ask for respite|{14.44:>qs14.44}
+13.	Home of the|{28.83:>qs28.83}, {29.64:>qs29.64}
+14.	better than silver and gold|{43.33:>qs43.33}
+15.	denied by men|{50.12:>qs50.12}
+16.	better than the present|{93.4:>qs93.4}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Houses, entering "Houses, entering"
+1.	Houses, entering|{24.27:>qs24.27}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Hud "Hud"
+1.	Hud|{7.65:>qs7.65}, {11.50:>qs11.50}, {26.123:>qs26.123}, {46.21:>qs46.21}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Humility "Humility"
+1.	Humility|{6.42:>qs6.42}, {7.161:>qs7.161}, {57.16:>qs57.16}
+2.	shadows show humility to God|{13.15:>qs13.15}, {76.14:>qs76.14}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Hunain "Hunain"
+1.	Hunain|{9.25:>qs9.25}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Hur, companions in heaven "Hur, companions in heaven"
+1.	Hur, companions in heaven|{44.54:>qs44.54}, {52.20:>qs52.20}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Hypocrites "Hypocrites"
+1.	do not believe in God|{2.8:>qs2.8}
+2.	deceive themselves|{2.9:>qs2.9}
+3.	disease in their hearts|{2.10:>qs2.10}
+4.	make mischief|{2.11:>qs2.11}
+5.	fools and mockers|{2.13:>qs2.13}
+6.	barter guidance for error|{2.16:>qs2.16}
+7.	deaf, dumb, and blind|{2.17:>qs2.17}
+8.	in terror and darkness|{2.19:>qs2.19}
+9.	dazzling speech  led by arrogance|{2.204:>qs2.204}
+10.	refuse to fight|{3.167:>qs3.167}
+11.	resort to evil  turn away from Revelatio|{4.60:>qs4.60}
+12.	tarry behind in misfortune wish to|{4.70:>qs4.70}
+13.	renegades to be seized and slain|{4.88:>qs4.88}
+14.	wait events  think of overreaching God|{4.141:>qs4.141}
+15.	in lowest depths of Fire  no helper|{4.145:>qs4.145}
+16.	afraid of being found out|{9.64:>qs9.64}
+17.	understanding with each other  curse of|{9.67:>qs9.67}
+18.	not to be taken as friends|{58.14:>qs58.14}
+19.	liars and deceivers, cowards|{59.11:>qs59.11}
+20.	liars, screen misdeeds with oaths|{63.1:>qs63.1}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Iblis (see also Satan) "Iblis (see also Satan)"
+1.	Iblis (see also Satan)|{2.34:>qs2.34}, {7.11:>qs7.11}, {15.31:>qs15.31}, {17.61:>qs17.61}, {18.50:>qs18.50}, {20.116:>qs20.116}, {38.71:>qs38.71}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Iddat "Iddat"
+1.	Iddat|{2.228:>qs2.228}, {33.49:>qs33.49}, {65.4:>qs65.4}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Idris "Idris"
+1.	Idris|{19.56:>qs19.56}, {21.85:>qs21.85}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Illiyun "Illiyun"
+1.	Illiyun|{83.18:>qs83.18}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Immorality "Immorality"
+1.	Immorality|{4.15:>qs4.15}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Imran, family of "Imran, family of"
+1.	Imran, family of|{3.35:>qs3.35}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Inheritance "Inheritance"
+1.	Inheritance|{2.180:>qs2.180}, {2.240:>qs2.240}, {4.7:>qs4.7}, {4.11:>qs4.11}, {4.19:>qs4.19}, {4.33:>qs4.33}, {4.176:>qs4.176}, {5.109:>qs5.109}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Injury, forgiveness "Injury, forgiveness"
+1.	Injury, forgiveness|{42.39:>qs42.39}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Inspiration "Inspiration"
+1.	Inspiration|{17.85:>qs17.85}, {40.15:>qs40.15}, {42.3:>qs42.3}, {42.7:>qs42.7}, {42.51:>qs42.51}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Intercession "Intercession"
+1.	Intercession|{6.51:>qs6.51}, {6.70:>qs6.70}, {10.3:>qs10.3}, {19.87:>qs19.87}, {39.44:>qs39.44}, {43.86:>qs43.86}, {53.26:>qs53.26}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Iram "Iram"
+1.	Iram|{89.7:>qs89.7}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Isaac "Isaac"
+1.	Isaac|{6.84:>qs6.84}, {21.72:>qs21.72}, {37.112:>qs37.112}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Islam "Islam"
+1.	to be first to bow in|{6.14:>qs6.14}, {6.163:>qs6.163}, {39.12:>qs39.12}
+2.	vanguard of|{9.100:>qs9.100}
+3.	heart opened to|{39.22:>qs39.22}
+4.	a favor and privilege|{49.17:>qs49.17}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Ismail "Isma'il"
+1.	Isma'il|{2.125:>qs2.125}, {6.86:>qs6.86}, {19.54:>qs19.54}, {21.85:>qs21.85}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Israel "Israel"
+1.	Children of|{2.40:>qs2.40}
+2.	favors|{2.47:>qs2.47}, {2.60:>qs2.60}, {2.122:>qs2.122}, {45.16:>qs45.16}
+3.	contumacy|{2.54:>qs2.54}, {2.61:>qs2.61}, {2.74:>qs2.74}, {5.74:>qs5.74}, {7.138:>qs7.138}
+4.	their relations with Muslims|{2.75:>qs2.75}
+5.	their arrogance|{2.80:>qs2.80}, {20.88:>qs20.88}, {20.91:>qs20.91}
+6.	their Covenants|{2.83:>qs2.83}, {2.86:>qs2.86}, {2.93:>qs2.93}, {2.100:>qs2.100}, {5.13:>qs5.13}, {5.73:>qs5.73}
+7.	their love of this life|{2.96:>qs2.96}
+8.	ask for a king|{2.246:>qs2.246}
+9.	divided and rebellious|{7.161:>qs7.161}
+10.	twice warned|{17.4:>qs17.4}
+11.	delivered from enemy|{20.80:>qs20.80}
+12.	given Book and Leaders|{32.23:>qs32.23}, {40.53:>qs40.53}
+13.	the learned among them knew the Qur'an to be true|{26.197:>qs26.197}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Jacob "Jacob"
+1.	Jacob|{2.132:>qs2.132}, {6.84:>qs6.84}, {19.49:>qs19.49}, {21.72:>qs21.72}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Jesus "Jesus"
+1.	a righteous prophet|{6.85:>qs6.85}
+2.	birth|{3.45:>qs3.45}, {19.22:>qs19.22}
+3.	apostle to Israel|{3.49:>qs3.49}
+4.	disciples|{3.52:>qs3.52}, {5.114:>qs5.114}
+5.	taken up|{3.55:>qs3.55}, {4.157:>qs4.157}
+6.	like Adam|{3.59:>qs3.59}
+7.	not crucified|{4.157:>qs4.157}
+8.	no more than apostle|{4.171:>qs4.171}, {5.78:>qs5.78}, {43.59:>qs43.59}, {43.63:>qs43.63}
+9.	not God|{5.19:>qs5.19}, {5.75:>qs5.75}
+10.	sent with Gospel|{5.49:>qs5.49}
+11.	not son of God|{9.30:>qs9.30}
+12.	Message and Miracles|{5.113:>qs5.113}, {19.30:>qs19.30}
+13.	prays for Table of viands|{5.117:>qs5.117}
+14.	taught no false worship|{5.119:>qs5.119}
+15.	disciples declare themselves Muslims|{5.114:>qs5.114}
+16.	followers have compassion and mercy|{57.27:>qs57.27}
+17.	disciples as God's helper|{61.14:>qs61.14}
+18.	as a Sign|{23.50:>qs23.50}, {43.61:>qs43.61}
+19.	prophesied Ahmad|{61.6:>qs61.6}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Jews "Jews"
+1.	will listen to falsehood|{5.44:>qs5.44}
+2.	utter blasphemy|{5.67:>qs5.67}
+3.	enmity to Islam|{5.85:>qs5.85}
+4.	and Christians|{2.140:>qs2.140}, {4.153:>qs4.153}, {4.171:>qs4.171}, {5.20:>qs5.20}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Jinns "Jinns"
+1.	Jinns|{6.100:>qs6.100}, {15.27:>qs15.27}, {34.41:>qs34.41}, {46.29:>qs46.29}, {55.15:>qs55.15}, {72.1:>qs72.1}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Job "Job"
+1.	Job|{6.84:>qs6.84}, {21.83:>qs21.83}, {38.41:>qs38.41}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Jonah "Jonah"
+1.	Jonah (or Jonas, or Yunus)|{4.163:>qs4.163}, {6.86:>qs6.86}, {10.98:>qs10.98}, {37.139:>qs37.139}
+2.	(Zun-noon)|{21.87:>qs21.87}, {68.48:>qs68.48}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Joseph "Joseph"
+1.	Joseph|{6.84:>qs6.84}
+2.	his story|{12.4:>qs12.4}
+3.	his vision|{12.4:>qs12.4}
+4.	jealousy of his brothers|{12.7:>qs12.7}
+5.	their plot|{12.11:>qs12.11}
+6.	sold by his brethren|{12.19:>qs12.19}
+7.	bought by 'Aziz of Egypt|{12.21:>qs12.21}
+8.	tempted by 'Aziz's wife|{12.22:>qs12.22}
+9.	her ruse|{12.30:>qs12.30}
+10.	in prison|{12.35:>qs12.35}
+11.	interprets King's vision|{12.43:>qs12.43}
+12.	established in power|{12.55:>qs12.55}
+13.	his dealings with his brethren|{12.58:>qs12.58}
+14.	reunion of whole family|{12.94:>qs12.94}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Judgement "Judgement"
+1.	must come|{6.51:>qs6.51}, {6.128:>qs6.128}, {34.3:>qs34.3}, {40.59:>qs40.59}, {51.5:>qs51.5}, {5.12:>qs5.12}, {52.7:>qs52.7}, {56.1:>qs56.1}, {64.7:>qs64.7}, {95.7:>qs95.7}
+2.	will come suddenly|{7.187:>qs7.187}, {36.48:>qs36.48}
+3.	as the twinkling of the eye|{16.77:>qs16.77}, {54.50:>qs54.50}
+4.	Hour known to God alone|{33.63:>qs33.63}, {67.26:>qs67.26}, {79.42:>qs79.42}
+5.	is near|{54.1:>qs54.1}
+6.	men will be sorted into three classes|{56.7:>qs56.7}
+7.	Foremost in Faith, nearest to God|{56.11:>qs56.11}
+8.	Companions of Right Hand|{56.27:>qs56.27}
+9.	Companions of Left Hand|{56.41:>qs56.41}
+10.	Lesser Judgement|{75.22:>qs75.22}
+11.	the Great News|{78.1:>qs78.1}
+12.	deniers of|{107.1:>qs107.1}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_JudgementDay "Judgement Day"
+1.	full recompense only then|{3.185:>qs3.185}
+2.	earth changed, and men gathered|{18.47:>qs18.47}
+3.	men surge like waves   trumpet blown|{18.99:>qs18.99}
+4.	sectarian differences to be solved|{19.37:>qs19.37}
+5.	rejecters   will bear a grievous burden|{20.100:>qs20.100}
+6.	trumpet will sound  interval seem  short|{20.102:>qs20.102}
+7.	they will follow the Caller|{20.108:>qs20.108}
+8.	no Intercession except by permission|{20.109:>qs20.109}
+9.	no fear for the righteous|{20.112:>qs20.112}
+10.	rejecters will be raised up blind|{20.124:>qs20.124}
+11.	scales of Justice|{21.47:>qs21.47}
+12.	True Promise will approach fulfillment|{21.97:>qs21.97}
+13.	heaven will be rolled up like a scroll|{21.104:>qs21.104}
+14.	terrible convulsion  men in drunken riot|{22.1:>qs22.1}
+15.	Trumpet is blown, Balance of Good Deeds|{23.101:>qs23.101}
+16.	Voice of Judgement|{23.105:>qs23.105}
+17.	Time will be seem short|{23.112:>qs23.112}
+18.	false worship will be exposed|{25.17:>qs25.17}
+19.	heavens rent asunder  angels sent down|{25.25:>qs25.25}
+20.	wrong-doer's regrets|{25.27:>qs25.27}
+21.	terror for evil  not for doer of good|{27.83:>qs27.83}
+22.	guilty in despair, no Intercessor|{30.12:>qs30.12}
+23.	justice done|{36.51:>qs36.51}
+24.	joy and peace for the Good|{36.55:>qs36.55}
+25.	Day of Sorting Out|{30.14:>qs30.14}, {37.20:>qs37.20}
+26.	Wrong-doers questioned  recriminations|{37.22:>qs37.22}
+27.	contrast between the righteous|{37.88:>qs37.88}
+28.	Wrong-doers' arrogances|{37.33:>qs37.33}
+29.	retribution for evil|{37.33:>qs37.33}
+30.	felicity for servants of God|{37.40:>qs37.40}
+31.	Tree of Zaqqum|{37.62:>qs37.62}
+32.	wrong-doers rushed on their fathers'|{37.69:>qs37.69}
+33.	trumpet all in heaven and earth will swoon second trumpet|{39.67:>qs39.67}
+34.	no intercession, justice and truth|{40.18:>qs40.18}
+35.	sudden; friends will be foes|{43.66:>qs43.66}
+36.	no fear on God devotees|{43.68:>qs43.68}
+37.	dealers in falsehood to perish|{45.27:>qs45.27}
+38.	not to be averted  Fire for the false|{52.7:>qs52.7}
+39.	wrong doers swoon in terror|{52.45:>qs52.45}
+40.	Caller to a terrible affair|{54.6:>qs54.6}
+41.	no defence for the evil  known by their|{55.35:>qs55.35}
+42.	mutual gain and loss|{64.9:>qs64.9}
+43.	Shin to be laid bare|{68.42:>qs68.42}
+44.	trumpet, Great Event  Angels will bear|{69.13:>qs69.13}
+45.	sky like molten brass  no friend will|{70.8:>qs70.8}, {70.18:>qs70.18}
+46.	wicked will issue from sepulchers|{70.43:>qs70.43}
+47.	Will know  not known whether near or far|{72.24:>qs72.24}
+48.	children hoary-headed; sky cleft asunder|{73.17:>qs73.17}
+49.	trumpet, Day of Distress for those|{74.8:>qs74.8}
+50.	stars become dim, apostles collect|{77.7:>qs77.7}
+51.	woe to Rejecters of Truth|{77.29:>qs77.29}
+52.	sorting out  Trumpet  heavens opened|{78.17:>qs78.17}
+53.	spirit and Angels stand forth|{78.38:>qs78.38}
+54.	commotion and agitation|{79.6:>qs79.6}
+55.	single Cry|{79.13:>qs79.13}
+56.	Deafening Noise  no one for another|{80.33:>qs80.33}
+57.	sun, stars  outer nature change|{81.1:>qs81.1}
+58.	sky cleft asunder  each soul will know|{82.1:>qs82.1}
+59.	no soul can do aught for another|{82.17:>qs82.17}
+60.	sky and earth changed  man ever toiling|{84.1:>qs84.1}
+61.	things secret tested|{86.9:>qs86.9}
+62.	Overwhelming Event  Faces humiliated and|{88.1:>qs88.1}
+63.	Earth pounded to powder  Lord cometh|{89.21:>qs89.21}
+64.	Earth in convulsion  man in distress|{99.1:>qs99.1}
+65.	Contents of graves scattered abroad|{100.9:>qs100.9}
+66.	Noise and Clamor  Good and Evil rewarded|{101.1:>qs101.1}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_JudiMount "Judi, Mount"
+1.	Judi, Mount|{11.44:>qs11.44}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Justice "Justice"
+1.	Justice|{4.58:>qs4.58}, {4.65:>qs4.65}, {4.105:>qs4.105}, {4.135:>qs4.135}, {7.29:>qs7.29}, {16.90:>qs16.90}, {57.25:>qs57.25}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Kaba "Ka'ba"
+1.	built by Abraham|{2.125:>qs2.125}
+2.	no killing of game|{5.97:>qs5.97}
+3.	asylum of security for men|{5.100:>qs5.100}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Kafur, Cup mixed with "Kafur, Cup mixed with"
+1.	Kafur, Cup mixed with|{76.5:>qs76.5}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Kauthar "Kauthar"
+1.	Kauthar|{108.1:>qs108.1}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Keys to heavens and earth "Keys to heavens and earth"
+1.	Keys to heavens and earth|{39.63:>qs39.63}, {42.12:>qs42.12}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Khandaq "Khandaq, battle"
+1.	Khandaq, battle|{33.9:>qs33.9}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Kindred "Kindred, rights of"
+1.	Kindred, rights of|{2.83:>qs2.83}, {2.177:>qs2.177}, {4.7:>qs4.7}, {4.36:>qs4.36}, {8.41:>qs8.41}, {16.90:>qs16.90}, {17.26:>qs17.26}, {24.22:>qs24.22}, {42.23:>qs42.23}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Knowledge "Knowledge"
+1.	Knowledge (Certainty)|{102.5:>qs102.5}
+2.	of five things with God alone|{31.34:>qs31.34}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Languages "Languages"
+1.	Languages|{30.22:>qs30.22}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Lat "Lat"
+1.	Lat|{53.19:>qs53.19}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_LifeSacred "Life sacred"
+1.	Life sacred|{17.33:>qs17.33}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_LifeThisworld "Life of this world"
+1.	Life of this world|{6.32:>qs6.32}, {57.20:>qs57.20}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Light "Light"
+1.	manifest|{4.174:>qs4.174}
+2.	and Darkness|{6.1:>qs6.1}
+3.	parable of|{24.35:>qs24.35}
+4.	goes before and with Believers|{57.12:>qs57.12}, {66.8:>qs66.8}
+5.	provided by God, that Believers may walk|{57.28:>qs57.28}
+6.	of God, veiled from Unbelievers|{83.15:>qs83.15}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Loan "Loan, beautiful, to God"
+1.	Loan, beautiful, to God|{2.245:>qs2.245}, {57.11:>qs57.11}, {5.18:>qs5.18}, {64.17:>qs64.17}, {73.20:>qs73.20}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Loss (spiritual) "Loss (spiritual)"
+1.	Loss (spiritual)|{39.15:>qs39.15}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Lote "Lote"
+1.	Lote|{34.16:>qs34.16}, {53.14:>qs53.14}, {56.28:>qs56.28}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Luqman (and his teaching) "Luqman (and his teaching)"
+1.	Luqman (and his teaching)|{31.12:>qs31.12}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Lut "Lut"
+1.	Lut (Lot)|{6.86:>qs6.86}, {7.80:>qs7.80}, {11.77:>qs11.77}, {15.57:>qs15.57}, {21.74:>qs21.74}, {26.160:>qs26.160}, {27.54:>qs27.54}, {29.26:>qs29.26}, {37.133:>qs37.133}, {51.31:>qs51.31}, {54.33:>qs54.33}
+2.	his wife disobedient|{11.81:>qs11.81}, {15.60:>qs15.60}, {66.10:>qs66.10}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Madyan "Madyan"
+1.	Madyan|{7.85:>qs7.85}, {11.84:>qs11.84}, {29.36:>qs29.36}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Magians (Majus) "Magians (Majus)"
+1.	Magians (Majus)|{22.17:>qs22.17}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Man "Man"
+1.	vicegerent on earth|{2.30:>qs2.30}, {6.165:>qs6.165}
+2.	tested by God|{2.155:>qs2.155}, {3.186:>qs3.186}, {47.31:>qs47.31}, {57.25:>qs57.25}
+3.	things men covet|{3.14:>qs3.14}
+4.	duty|{4.1:>qs4.1}, {17.23:>qs17.23}, {29.8:>qs29.8}, {30.38:>qs30.38}, {31.33:>qs31.33}, {46.15:>qs46.15}, {70.22:>qs70.22}
+5.	created from clay, for a term|{6.2:>qs6.2}, {15.26:>qs15.26}
+6.	called to account|{6.44:>qs6.44}
+7.	will return to God|{6.60:>qs6.60}, {65.5:>qs65.5}, {10.45:>qs10.45}
+8.	confusion of the wicked at death|{6.93:>qs6.93}
+9.	plots against own soul|{6.123:>qs6.123}, {10.44:>qs10.44}
+10.	personal responsibility|{6.164:>qs6.164}
+11.	ungrateful|{7.10:>qs7.10}, {36.45:>qs36.45}, {74.15:>qs74.15}
+12.	warned against Satan|{7.27:>qs7.27}
+13.	knows of God, but misled by Evil|{7.172:>qs7.172}
+14.	and family life|{7.189:>qs7.189}
+15.	limited Free-will|{10.99:>qs10.99}
+16.	behavior in and out of trouble|{10.12:>qs10.12}, {11.9:>qs11.9}, {16.53:>qs16.53}, {17.67:>qs17.67}, {29.10:>qs29.10}, {29.65:>qs29.65}, {30.33:>qs30.33}, {31.32:>qs31.32}, {39.8:>qs39.8}, {39.49:>qs39.49}, {41.49:>qs41.49}, {42.48:>qs42.48}, {89.15:>qs89.15}
+17.	God's spirit breathed into him|{15.29:>qs15.29}
+18.	lowly in origin, but blessed with favors|{16.4:>qs16.4}, {32.7:>qs32.7}, {35.11:>qs35.11}, {36.77:>qs36.77}, {76.1:>qs76.1}, {77.20:>qs77.20}, {80.17:>qs80.17}, {86.5:>qs86.5}, {96.2:>qs96.2}
+19.	pray for evil|{17.11:>qs17.11}
+20.	is given to hasty deeds|{17.11:>qs17.11}, {16.37:>qs16.37}
+21.	his fate fastened round his neck|{17.13:>qs17.13}
+22.	to be judged by his Record|{17.71:>qs17.71}
+23.	his physical growth|{22.5:>qs22.5}, {23.12:>qs23.12}, {40.67:>qs40.67}
+24.	death and resurrection|{23.15:>qs23.15}
+25.	tongues, hands, & feet will bear witness|{24.24:>qs24.24}
+26.	made from water|{25.54:>qs25.54}
+27.	relationships of lineage and marriage|{25.54:>qs25.54}
+28.	should submit Self to God|{31.22:>qs31.22}
+29.	not two hearts in one breast|{33.4:>qs33.4}
+30.	to worship God|{39.64:>qs39.64}
+31.	misfortunes, due to his deeds|{42.30:>qs42.30}
+32.	angels note his doings|{50.17:>qs50.17}, {50.23:>qs50.23}
+33.	his growth and activity depend on God|{56.57:>qs56.57}
+34.	to be created again after death in new|{56.60:>qs56.60}
+35.	riches and family may be a trial|{64.14:>qs64.14}
+36.	created and provided for by God|{67.23:>qs67.23}, {74.12:>qs74.12}
+37.	is impatient|{70.19:>qs70.19}
+38.	who will be honored ones among men|{70.22:>qs70.22}
+39.	evidence against himself|{75.14:>qs75.14}
+40.	his arrogance|{75.31:>qs75.31}, {90.5:>qs90.5}
+41.	loves the fleeting world|{76.27:>qs76.27}
+42.	seduced from God|{82.6:>qs82.6}
+43.	painfully toiling on to God|{84.6:>qs84.6}
+44.	travels from stage to stage|{84.16:>qs84.16}
+45.	guilty of sins|{89.17:>qs89.17}
+46.	created into toil and struggle|{90.4:>qs90.4}
+47.	gifted with faculties|{90.8:>qs90.8}
+48.	strives for diverse ends|{92.4:>qs92.4}
+49.	created in best of molds|{95.4:>qs95.4}
+50.	abased unless he believes and does right|{5.5:>qs5.5}
+51.	transgresses all bounds|{96.6:>qs96.6}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Manat "Manat"
+1.	Manat|{53.20:>qs53.20}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Mankind "Mankind"
+1.	one nation|{2.213:>qs2.213}, {10.19:>qs10.19}
+2.	created from single pair|{4.1:>qs4.1}, {39.6:>qs39.6}, {49.13:>qs49.13}
+3.	transgress insolently|{10.23:>qs10.23}
+4.	heed not, though Reckoning near|{21.1:>qs21.1}
+5.	pattern according to which God has made|{30.30:>qs30.30}
+6.	honor depends on righteousness|{49.13:>qs49.13}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Manners "Manners"
+1.	about entering houses|{24.27:>qs24.27}
+2.	in the home|{24.58:>qs24.58}
+3.	in the Prophet's presence|{29.62:>qs29.62}, {49.1:>qs49.1}
+4.	in the Prophet's houses|{33.53:>qs33.53}
+5.	to bless and salute the Prophet|{33.56:>qs33.56}
+6.	not to annoy Prophet or believing men or|{33.57:>qs33.57}
+7.	verification of news before belief|{69.6:>qs69.6}
+8.	among the community|{49.11:>qs49.11}
+9.	in assemblies|{58.11:>qs58.11}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Marriage "Marriage"
+1.	to unbelievers or slaves|{2.221:>qs2.221}
+2.	to how many, lawful|{4.3:>qs4.3}
+3.	dower not to be taken back (in divorce)|{4.20:>qs4.20}
+4.	prohibited degrees|{4.22:>qs4.22}
+5.	if no means to wed free believing women|{4.25:>qs4.25}
+6.	if breach feared, two arbiters to be|{4.35:>qs4.35}
+7.	if wife fears cruelty or desertion|{4.128:>qs4.128}
+8.	turn not away from a woman|{4.129:>qs4.129}
+9.	with chaste   among People of the Book|{5.6:>qs5.6}
+10.	of adulterers|{24.3:>qs24.3}
+11.	to those who are poor|{24.32:>qs24.32}
+12.	those who cannot afford marriage|{24.33:>qs24.33}
+13.	Prophet's Consorts|{33.28:>qs33.28}, {33.50:>qs33.50}
+14.	without cohabitation, no 'Iddat|{33.49:>qs33.49}
+15.	conditions for the Prophet|{33.50:>qs33.50}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Martyrs "Martyrs"
+1.	not dead|{2.154:>qs2.154}, {3.169:>qs3.169}
+2.	rejoice in glory|{3.170:>qs3.170}
+3.	receive forgiveness and mercy|{3.157:>qs3.157}
+4.	will receive best Provision|{22.58:>qs22.58}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Marut "Marut"
+1.	Marut|{2.102:>qs2.102}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Mary (mother of Jesus) "Mary (mother of Jesus)"
+1.	birth|{3.35:>qs3.35}
+2.	annunciation of Jesus|{3.42:>qs3.42}, {4.156:>qs4.156}, {19.16:>qs19.16}
+3.	in child birth|{19.23:>qs19.23}
+4.	brought the babe to her people|{19.27:>qs19.27}
+5.	guarded her chastity|{21.91:>qs21.91}, {69.27:>qs69.27}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Measure and weight "Measure and weight"
+1.	Measure and weight|{17.35:>qs17.35}, {83.1:>qs83.1}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Mecca "Mecca"
+1.	Bakka|{3.96:>qs3.96}
+2.	mystic relation to Prophet|{90.1:>qs90.1}
+3.	city of security|{95.3:>qs95.3}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Medina (Madinah) "Medina (Madinah)"
+1.	Medina (Madinah)|{33.9:>qs33.9}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Miraj "Mi'raj"
+1.	Mi'raj|{17.1:>qs17.1}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Mischief "Mischief"
+1.	on land and sea|{30.41:>qs30.41}
+2.	of created things|{113.1:>qs113.1}, {114.4:>qs114.4}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Monasticism disapproved "Monasticism disapproved"
+1.	Monasticism disapproved|{57.27:>qs57.27}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Months, number of "Months, number of"
+1.	Months, number of|{9.35:>qs9.35}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Moses "Moses"
+1.	and his people|{2.51:>qs2.51}
+2.	advises Israelites|{5.23:>qs5.23}
+3.	guided by God|{6.84:>qs6.84}
+4.	and Pharaoh|{7.103:>qs7.103}, {10.75:>qs10.75}, {11.96:>qs11.96}, {17.101:>qs17.101}, {20.42:>qs20.42}, {20.56:>qs20.56}, {23.45:>qs23.45}, {25.35:>qs25.35}, {26.10:>qs26.10}, {28.4:>qs28.4}, {28.31:>qs28.31}, {40.23:>qs40.23}, {43.45:>qs43.45}, {51.38:>qs51.38}
+5.	resists idol|{7.138:>qs7.138}
+6.	sees the Glory on the Mount|{7.142:>qs7.142}
+7.	reproves his people for calf worship|{7.148:>qs7.148}
+8.	his people|{7.159:>qs7.159}
+9.	his Book, doubts and differences|{11.110:>qs11.110}
+10.	to teach his people gratitude|{14.5:>qs14.5}
+11.	nine Clear Signs|{7.133:>qs7.133}, {17.101:>qs17.101}
+12.	to the junction of the two Seas|{18.60:>qs18.60}
+13.	his call|{19.51:>qs19.51}, {20.9:>qs20.9}, {28.29:>qs28.29}
+14.	his childhood, mother, and sister|{20.38:>qs20.38}, {28.7:>qs28.7}
+15.	converts Egyptian magicians|{20.70:>qs20.70}, {26.46:>qs26.46}
+16.	indignant at calf|{20.86:>qs20.86}
+17.	and the mystic Fire|{27.7:>qs27.7}, {28.29:>qs28.29}
+18.	his mishap in the City|{28.14:>qs28.14}
+19.	in Madyan|{28.22:>qs28.22}
+20.	guided to straight way|{37.114:>qs37.114}
+21.	Books of|{53.36:>qs53.36}, {87.19:>qs87.19}
+22.	vexed by his people|{61.5:>qs61.5}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_MosqueOfQubaa "Mosque (of Qubaa)"
+1.	Mosque (of Qubaa)|{9.107:>qs9.107}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Mosques "Mosques"
+1.	Mosques|{9.17:>qs9.17}, {9.28:>qs9.28}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Mountain "Mountain"
+1.	Mountain|{20.105:>qs20.105}, {21.31:>qs21.31}, {31.10:>qs31.10}, {59.21:>qs59.21}, {73.14:>qs73.14}, {101.5:>qs101.5}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Muhajirs "Muhajirs"
+1.	Muhajirs|{59.8:>qs59.8}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Muhammad "Muhammad"
+1.	his mission|{7.158:>qs7.158}, {48.8:>qs48.8}
+2.	respect due to Apostle|{2.104:>qs2.104}, {4.46:>qs4.46}
+3.	no more than an apostle|{3.144:>qs3.144}
+4.	gentle|{3.159:>qs3.159}
+5.	sent as favor to Believers|{3.164:>qs3.164}, {4.170:>qs4.170}
+6.	and to People of the Book|{5.21:>qs5.21}
+7.	a mercy to Believers|{9.61:>qs9.61}
+8.	mercy to all creatures|{21.107:>qs21.107}
+9.	as a mercy from God|{28.46:>qs28.46}, {33.45:>qs33.45}, {36.6:>qs36.6}, {42.48:>qs42.48}
+10.	as a mercy from God (Contd )|{72.20:>qs72.20}, {72.27:>qs72.27}, {76.24:>qs76.24}
+11.	his work|{3.164:>qs3.164}, {4.70:>qs4.70}, {6.107:>qs6.107}, {7.156:>qs7.156}, {10.2:>qs10.2}, {52.29:>qs52.29}, {74.1:>qs74.1}
+12.	not mad or possessed|{7.184:>qs7.184}, {68.2:>qs68.2}, {81.22:>qs81.22}
+13.	warner|{7.184:>qs7.184}, {7.188:>qs7.188}, {15.89:>qs15.89}, {53.56:>qs53.56}
+14.	anxious for the Believers|{9.128:>qs9.128}
+15.	brings Message as revealed|{10.15:>qs10.15}
+16.	his teaching|{11.2:>qs11.2}, {12.108:>qs12.108}, {34.46:>qs34.46}
+17.	to deliver revelation entirely as it|{11.12:>qs11.12}, {46.9:>qs46.9}
+18.	God is witness to his mission|{13.43:>qs13.43}, {29.52:>qs29.52}, {46.8:>qs46.8}
+19.	heart distressed for men|{15.97:>qs15.97}, {16.127:>qs16.127}, {18.6:>qs18.6}, {25.30:>qs25.30}
+20.	to invite & argue, in ways most gracious|{16.125:>qs16.125}
+21.	inspired|{18.110:>qs18.110}, {53.2:>qs53.2}
+22.	mocked|{25.41:>qs25.41}, {34.7:>qs34.7}
+23.	asks no reward|{25.57:>qs25.57}, {34.47:>qs34.47}, {38.86:>qs38.86}, {42.23:>qs42.23}
+24.	his duty|{27.91:>qs27.91}, {30.30:>qs30.30}
+25.	his household (consorts)|{33.28:>qs33.28}, {33.50:>qs33.50}, {33.55:>qs33.55}, {66.1:>qs66.1}
+26.	close to Believers|{33.6:>qs33.6}
+27.	beautiful pattern of conduct|{33.21:>qs33.21}
+28.	seal of the Prophets|{33.40:>qs33.40}
+29.	universal Messenger to men|{34.28:>qs34.28}
+30.	fealty to him is fealty to God|{48.10:>qs48.10}, {48.18:>qs48.18}
+31.	apostle of God|{48.29:>qs48.29}
+32.	resist him not|{58.20:>qs58.20}
+33.	foretold by Jesus|{61.6:>qs61.6}
+34.	foretold by Moses|{46.10:>qs46.10}
+35.	his Religion to prevail over all|{61.9:>qs61.9}
+36.	unlettered|{7.157:>qs7.157}, {62.2:>qs62.2}
+37.	leads from darkness to light|{65.11:>qs65.11}
+38.	to strive hard|{66.9:>qs66.9}
+39.	exalted standard of character|{68.4:>qs68.4}
+40.	not a poet or soothsayer|{69.40:>qs69.40}
+41.	devoted to prayer|{73.1:>qs73.1}, {73.20:>qs73.20}, {74.3:>qs74.3}
+42.	witness|{73.15:>qs73.15}
+43.	and the blind man|{80.1:>qs80.1}
+44.	saw the Angel of Revelation|{53.4:>qs53.4}, {81.22:>qs81.22}
+45.	to adore God and bring himself closer to|{96.19:>qs96.19}
+46.	rehearsing scriptures|{98.2:>qs98.2}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Murder "Murder"
+1.	Murder|{2.178:>qs2.178}, {5.35:>qs5.35}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_MuslimMen "Muslim men and women"
+1.	Muslim men and women|{33.35:>qs33.35}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_NamesOfGod "Names of God"
+1.	Names of God|{7.180:>qs7.180}, {17.110:>qs17.110}, {20.8:>qs20.8}, {59.24:>qs59.24}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Nasr "Nasr"
+1.	Nasr|{71.23:>qs71.23}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Nature "Nature"
+1.	declares God's praises|{24.41:>qs24.41}, {50.6:>qs50.6}
+2.	shows God's goodness His Promise is true|{78.6:>qs78.6}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_NewMoon "New Moon"
+1.	New Moon|{2.189:>qs2.189}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_News "News, to be tested"
+1.	News, to be tested|{4.83:>qs4.83}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_NiggardsCondemned "Niggards condemned"
+1.	Niggards condemned|{17.29:>qs17.29}, {47.38:>qs47.38}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_NightAsSymbol "Night as symbol"
+1.	Night as symbol|{79.29:>qs79.29}, {92.1:>qs92.1}, {93.2:>qs93.2}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_NightOfPower "Night of Power"
+1.	Night of Power|{97.1:>qs97.1}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Noah "Noah"
+1.	Noah|{6.59:>qs6.59}, {10.71:>qs10.71}, {11.25:>qs11.25}, {21.76:>qs21.76}, {23.23:>qs23.23}, {25.37:>qs25.37}, {26.105:>qs26.105}, {29.14:>qs29.14}, {37.75:>qs37.75}, {51.46:>qs51.46}, {54.9:>qs54.9}, {69.11:>qs69.11}, {71.1:>qs71.1}
+2.	unrighteous son not saved|{11.45:>qs11.45}
+3.	wife unrighteous|{66.10:>qs66.10}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Oaths "Oaths"
+1.	Oaths|{2.224:>qs2.224}, {5.92:>qs5.92}, {16.94:>qs16.94}, {24.22:>qs24.22}, {24.53:>qs24.53}, {66.2:>qs66.2}, {68.10:>qs68.10}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Obligations "Obligations to fulfill"
+1.	Obligations to fulfill|{5.1:>qs5.1}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Obedience "Obedience"
+1.	Obedience|{3.132:>qs3.132}, {4.59:>qs4.59}, {4.64:>qs4.64}, {4.66:>qs4.66}, {4.80:>qs4.80}, {5.95:>qs5.95}, {14.12:>qs14.12}, {8.20:>qs8.20}, {8.46:>qs8.46}, {24.51:>qs24.51}, {47.33:>qs47.33}, {64.11:>qs64.11}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Olive "Olive, as a symbol"
+1.	Olive, as a symbol|{23.20:>qs23.20}, {24.35:>qs24.35}, {95.1:>qs95.1}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Orphans "Orphans"
+1.	Orphans|{2.220:>qs2.220}, {4.2:>qs4.2}, {4.6:>qs4.6}, {4.10:>qs4.10}, {4.127:>qs4.127}, {17.34:>qs17.34}
+2.	guardians of|{4.6:>qs4.6}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Pair "Pair, in all creatures"
+1.	Pair, in all creatures|{13.3:>qs13.3}, {31.10:>qs31.10}, {36.36:>qs36.36}, {42.11:>qs42.11}, {43.12:>qs43.12}, {51.49:>qs51.49}, {53.45:>qs53.45}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Parables "Parables"
+1.	man who kindled a fire|{2.17:>qs2.17}
+2.	rain-cloud|{2.19:>qs2.19}
+3.	goatherd|{2.171:>qs2.171}
+4.	hamlet in ruins|{2.259:>qs2.259}
+5.	grain of corn|{2.261:>qs2.261}
+6.	hard, barren rock|{2.264:>qs2.264}
+7.	fertile garden|{2.265:>qs2.265}
+8.	rope|{3.103:>qs3.103}
+9.	frosty wind|{3.117:>qs3.117}
+10.	dog who lolls out his tongue|{7.176:>qs7.176}
+11.	undermined sand-cliff|{9.109:>qs9.109}
+12.	rain and storm|{10.24:>qs10.24}
+13.	blind and deaf|{11.24:>qs11.24}
+14.	garden of joy|{13.35:>qs13.35}
+15.	ashes blown about by wind|{14.18:>qs14.18}
+16.	goodly trees, with roots, branches, and|{14.24:>qs14.24}
+17.	evil tree|{14.26:>qs14.26}
+18.	slave versus man liberally favored|{16.75:>qs16.75}
+19.	dumb man versus one who commands justice|{16.76:>qs16.76}
+20.	women who untwists her yarn|{16.92:>qs16.92}
+21.	City favored but ungrateful|{16.112:>qs16.112}
+22.	two men, one materialistic and the other absorbed in God|{18.32:>qs18.32}
+23.	this life like rain, pleasant but transi|{18.45:>qs18.45}
+24.	fall from Unity|{22.31:>qs22.31}
+25.	a fly|{22.73:>qs22.73}
+26.	Light|{24.35:>qs24.35}
+27.	mirage|{24.39:>qs24.39}
+28.	depths of darkness|{24.40:>qs24.40}
+29.	spider|{29.41:>qs29.41}
+30.	partners|{30.28:>qs30.28}
+31.	Companions of the City|{36.13:>qs36.13}
+32.	one master and several masters|{39.29:>qs39.29}
+33.	Garden promised to the Righteous with|{47.15:>qs47.15}
+34.	seed growing|{48.29:>qs48.29}
+35.	rain and physical growth|{57.20:>qs57.20}
+36.	mountain that humbles itself|{59.21:>qs59.21}
+37.	donkey|{62.5:>qs62.5}
+38.	if stream of water be lost|{67.30:>qs67.30}
+39.	People of the Garden|{68.17:>qs68.17}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Parents "Parents, kindness to"
+1.	Parents, kindness to|{17.23:>qs17.23}, {29.8:>qs29.8}, {31.14:>qs31.14}, {46.15:>qs46.15}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_PartnersOfGod "Partners of God"
+1.	Partners of God|{10.34:>qs10.34}, {10.66:>qs10.66}, {16.86:>qs16.86}, {28.62:>qs28.62}, {28.71:>qs28.71}, {30.40:>qs30.40}, {42.21:>qs42.21}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Passion "Passion, worship of"
+1.	Passion, worship of|{25.43:>qs25.43}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Patience "Patience"
+1.	Patience|{2.45:>qs2.45}, {2.153:>qs2.153}, {3.186:>qs3.186}, {3.200:>qs3.200}, {10.109:>qs10.109}, {11.115:>qs11.115}, {16.126:>qs16.126}, {20.130:>qs20.130}, {40.55:>qs40.55}, {40.77:>qs40.77}, {46.35:>qs46.35}, {50.39:>qs50.39}, {70.5:>qs70.5}, {73.10:>qs73.10}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_PeaceIncline "Peace, incline towards"
+1.	Peace, incline towards|{8.61:>qs8.61}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_PeaceSalam "Peace, Salam, meaning"
+1.	Peace, Salam, meaning|{19.62:>qs19.62}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_PeaceTranquillity "Peace, Tranquillity"
+1.	Peace, Tranquillity|{9.26:>qs9.26}, {9.40:>qs9.40}, {48.4:>qs48.4}, {48.18:>qs48.18}, {48.26:>qs48.26}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Pearls "Pearls, well"
+1.	Pearls, well|{52.24:>qs52.24}, {56.23:>qs56.23}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Pen "Pen"
+1.	Pen|{68.1:>qs68.1}, {96.4:>qs96.4}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_PenaltyForSin "Penalty for sin"
+1.	Penalty for sin|{3.188:>qs3.188}, {6.15:>qs6.15}, {10.50:>qs10.50}, {11.101:>qs11.101}, {13.34:>qs13.34}, {16.88:>qs16.88}, {46.20:>qs46.20}, {70.1:>qs70.1}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Persecution "Persecution with Fire"
+1.	Persecution with Fire|{85.1:>qs85.1}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Personal "Personal responsibility"
+1.	Personal responsibility|{6.164:>qs6.164}, {10.30:>qs10.30}, {14.51:>qs14.51}, {53.38:>qs53.38}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Pharaoh "Pharaoh"
+1.	cruelty|{2.49:>qs2.49}
+2.	drowned|{2.50:>qs2.50}
+3.	people of|{54.41:>qs54.41}
+4.	dealings with Moses|{7.103:>qs7.103}, {10.75:>qs10.75}
+5.	body saved, on account of repentance|{10.90:>qs10.90}
+6.	denies God|{28.38:>qs28.38}, {79.24:>qs79.24}
+7.	a man from his People confesses Faith|{40.28:>qs40.28}
+8.	arrogant to the Israelites|{44.17:>qs44.17}
+9.	wife righteous|{66.11:>qs66.11}
+10.	sin and disobedience|{69.9:>qs69.9}, {73.16:>qs73.16}, {85.17:>qs85.17}, {89.10:>qs89.10}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Pilgrimage "Pilgrimage"
+1.	Pilgrimage|{2.158:>qs2.158}, {2.196:>qs2.196}, {3.97:>qs3.97}, {5.3:>qs5.3}, {22.26:>qs22.26}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Piling "Piling up (good things)"
+1.	Piling up (good things)|{102.1:>qs102.1}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Pledge "Pledge"
+1.	everyone in pledge for his deeds|{52.21:>qs52.21}, {74.38:>qs74.38}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Plotters "Plotters"
+1.	Plotters|{16.45:>qs16.45}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Poets "Poets"
+1.	Poets|{26.224:>qs26.224}, {36.69:>qs36.69}, {69.41:>qs69.41}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Prayers "Prayers"
+1.	Prayers|{1.1:>qs1.1}, {2.238:>qs2.238}, {3.8:>qs3.8}, {3.26:>qs3.26}, {3.147:>qs3.147}, {3.191:>qs3.191}, {4.43:>qs4.43}, {5.7:>qs5.7}, {11.114:>qs11.114}, {17.78:>qs17.78}, {23.118:>qs23.118}, {50.39:>qs50.39}, {52.48:>qs52.48}, {73.1:>qs73.1}, {73.20:>qs73.20}
+2.	be steadfast in|{2.110:>qs2.110}
+3.	during travel, or in danger|{4.101:>qs4.101}
+4.	for Unbeliever|{9.113:>qs9.113}
+5.	due to God alone|{13.14:>qs13.14}
+6.	the five canonical|{11.114:>qs11.114}, {17.78:>qs17.78}, {20.130:>qs20.130}, {30.17:>qs30.17}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Precautions "Precautions in danger"
+1.	Precautions in danger|{4.71:>qs4.71}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Priests "Priests and anchorites"
+1.	Priests and anchorites|{9.31:>qs9.31}, {9.34:>qs9.34}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_PrisonersOfWar "Prisoners of War"
+1.	Prisoners of War|{8.67:>qs8.67}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Property "Property"
+1.	Property|{2.188:>qs2.188}, {4.5:>qs4.5}, {4.29:>qs4.29}
+2.	to be distributed equitably|{59.7:>qs59.7}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_ProphetsConsorts "Prophet's Consorts"
+1.	extra responsibilities|{33.28:>qs33.28}
+2.	who are to be|{33.50:>qs33.50}
+3.	respect due to them|{33.53:>qs33.53}
+4.	respect due the Prophet's Consorts and|{33.56:>qs33.56}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_ProphetsWives "Prophet's wives"
+1.	Prophet's wives|{33.59:>qs33.59}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Prophets "Prophets"
+1.	Prophets|{2.253:>qs2.253}
+2.	continuous line|{3.33:>qs3.33}, {4.163:>qs4.163}, {5.21:>qs5.21}, {6.84:>qs6.84}, {23.23:>qs23.23}, {57.26:>qs57.26}
+3.	covenants from|{3.81:>qs3.81}, {33.7:>qs33.7}
+4.	never false to their trusts|{3.161:>qs3.161}
+5.	rejected|{3.184:>qs3.184}, {6.34:>qs6.34}, {25.37:>qs25.37}, {34.45:>qs34.45}, {51.52:>qs51.52}
+6.	slain|{3.183:>qs3.183}
+7.	all to be believed in|{4.150:>qs4.150}
+8.	to give account|{5.112:>qs5.112}
+9.	mocked|{6.10:>qs6.10}, {13.32:>qs13.32}, {15.11:>qs15.11}, {21.41:>qs21.41}
+10.	why sent|{6.48:>qs6.48}, {6.131:>qs6.131}, {14.4:>qs14.4}
+11.	had enemies|{6.112:>qs6.112}, {25.31:>qs25.31}
+12.	rehearse God's Signs|{7.35:>qs7.35}
+13.	sent to every people|{10.47:>qs10.47}, {16.36:>qs16.36}
+14.	had families|{13.38:>qs13.38}
+15.	human, but guided|{14.10:>qs14.10}, {16.43:>qs16.43}, {17.94:>qs17.94}, {21.7:>qs21.7}, {25.7:>qs25.7}, {25.20:>qs25.20}
+16.	persecuted and threatened|{14.13:>qs14.13}
+17.	witnesses against their people|{16.89:>qs16.89}
+18.	and Apostles, meaning|{19.51:>qs19.51}
+19.	one brotherhood|{23.52:>qs23.52}
+20.	some named, some not|{40.78:>qs40.78}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Prosperity "Prosperity"
+1.	Prosperity (spiritual)|{87.14:>qs87.14}
+2.	success|{91.9:>qs91.9}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Publicity "Publicity versus secrecy"
+1.	Publicity versus secrecy|{4.148:>qs4.148}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Punishment "Punishment"
+1.	Punishment|{96.15:>qs96.15}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Qarun "Qarun"
+1.	Qarun|{28.76:>qs28.76}, {29.39:>qs29.39}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Qiblah "Qiblah"
+1.	Qiblah|{2.142:>qs2.142}, {2.149:>qs2.149}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Qubaa "Qubaa (Mosque)"
+1.	Qubaa (Mosque)|{9.107:>qs9.107}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Quraish "Quraish"
+1.	unbelieving|{54.43:>qs54.43}, {54.51:>qs54.51}
+2.	appeal to|{106.1:>qs106.1}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Quran "Qur'an"
+1.	inspired Message|{4.82:>qs4.82}, {6.19:>qs6.19}
+2.	cannot be produced by other than divine|{2.23:>qs2.23}, {10.38:>qs10.38}, {11.13:>qs11.13}, {17.89:>qs17.89}
+3.	verses, fundamental and allegorical|{3.7:>qs3.7}, {11.1:>qs11.1}
+4.	God is witness|{6.19:>qs6.19}
+5.	God's revelation|{6.92:>qs6.92}, {17.105:>qs17.105}, {27.6:>qs27.6}, {45.2:>qs45.2}
+6.	follow it and do right|{6.155:>qs6.155}
+7.	respect and attention due to|{7.204:>qs7.204}
+8.	Book of Wisdom|{10.1:>qs10.1}, {31.2:>qs31.2}, {36.2:>qs36.2}
+9.	in Arabic|{12.2:>qs12.2}, {13.37:>qs13.37}, {41.44:>qs41.44}, {42.7:>qs42.7}, {43.30:>qs43.30}
+10.	described|{13.31:>qs13.31}, {13.36:>qs13.36}, {14.1:>qs14.1}, {56.77:>qs56.77}
+11.	makes things clear|{15.1:>qs15.1}, {25.33:>qs25.33}, {26.2:>qs26.2}, {27.1:>qs27.1}, {28.2:>qs28.2}, {36.69:>qs36.69}, {43.2:>qs43.2}
+12.	not to be made into shreds|{15.91:>qs15.91}
+13.	purpose of revelation|{16.64:>qs16.64}
+14.	language pure Arabic|{16.103:>qs16.103}
+15.	good news and warning|{17.9:>qs17.9}
+16.	and the Unbelievers|{17.45:>qs17.45}
+17.	healing and mercy|{17.82:>qs17.82}
+18.	explains similitudes|{17.89:>qs17.89}, {18.54:>qs18.54}, {39.27:>qs39.27}
+19.	no crookedness therein|{18.1:>qs18.1}
+20.	teaching|{18.2:>qs18.2}, {19.97:>qs19.97}, {20.2:>qs20.2}, {26.210:>qs26.210}
+21.	easy|{19.97:>qs19.97}, {44.58:>qs44.58}, {54.17:>qs54.17}, {54.22:>qs54.22}, {54.32:>qs54.32}, {54.40:>qs54.40}
+22.	revealed in stages|{17.106:>qs17.106}, {25.32:>qs25.32}, {76.23:>qs76.23}, {87.6:>qs87.6}
+23.	"my people took it for nonsense"|{25.30:>qs25.30}
+24.	solves Israel's controversies|{27.76:>qs27.76}
+25.	recite Qur'an; and pray|{73.4:>qs73.4}, {29.45:>qs29.45}
+26.	carries own evidence|{29.47:>qs29.47}, {29.51:>qs29.51}
+27.	guide and mercy|{31.3:>qs31.3}
+28.	Truth from God|{32.3:>qs32.3}, {35.31:>qs35.31}
+29.	beautiful message consistent with itself|{39.23:>qs39.23}
+30.	instructs mankind|{39.41:>qs39.41}, {80.11:>qs80.11}
+31.	no falsehood can approach it|{41.42:>qs41.42}
+32.	same Message to earlier prophets|{41.43:>qs41.43}, {43.44:>qs43.44}
+33.	not sent to worldly leaders|{43.31:>qs43.31}
+34.	seek earnestly to understand|{47.24:>qs47.24}
+35.	admonish with|{50.45:>qs50.45}
+36.	taught by God|{55.1:>qs55.1}
+37.	to be received with humility|{59.21:>qs59.21}
+38.	how to be read and studied|{2.121:>qs2.121}, {75.16:>qs75.16}
+39.	in books of honor and dignity|{80.13:>qs80.13}
+40.	Message to all the Worlds|{81.26:>qs81.26}
+41.	Unbelievers reject it|{84.20:>qs84.20}
+42.	Tablets Preserved|{85.21:>qs85.21}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Rain "Rain, God's gift"
+1.	Rain, God's gift|{56.68:>qs56.68}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Ramadhan "Ramadhan"
+1.	Ramadhan|{2.185:>qs2.185}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Ransom "Ransom"
+1.	sought in vain by sinners|{3.91:>qs3.91}, {10.54:>qs10.54}, {13.18:>qs13.18}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Rass "Rass, Companions of the"
+1.	Rass, Companions of the|{25.38:>qs25.38}, {50.12:>qs50.12}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_RealityRecord "Reality, Record"
+1.	Reality, Record|{69.1:>qs69.1}, {50.4:>qs50.4}, {69.19:>qs69.19}, {69.25:>qs69.25}, {83.7:>qs83.7}, {83.18:>qs83.18}, {84.7:>qs84.7}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Religion "Religion"
+1.	no compulsion in|{2.256:>qs2.256}
+2.	of Islam|{3.19:>qs3.19}, {3.83:>qs3.83}
+3.	no excess in|{4.171:>qs4.171}, {5.80:>qs5.80}
+4.	perfected|{5.4:>qs5.4}
+5.	not play and amusement|{6.70:>qs6.70}
+6.	do not divided and make sects|{6.159:>qs6.159}, {30.32:>qs30.32}
+7.	no difficulties imposed in|{22.78:>qs22.78}
+8.	standard religion|{30.30:>qs30.30}
+9.	same for all prophets|{42.13:>qs42.13}
+10.	ancestral|{43.22:>qs43.22}
+11.	right way of|{45.18:>qs45.18}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Repentance "Repentance"
+1.	with amendment, accepted|{6.54:>qs6.54}, {42.25:>qs42.25}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_RespiteForEvil "Respite for Evil"
+1.	Respite for Evil|{3.178:>qs3.178}, {10.11:>qs10.11}, {12.110:>qs12.110}, {14.42:>qs14.42}, {14.44:>qs14.44}, {29.53:>qs29.53}, {86.15:>qs86.15}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Resurrection "Resurrection"
+1.	Resurrection|{16.38:>qs16.38}, {17.49:>qs17.49}, {19.66:>qs19.66}, {22.5:>qs22.5}, {46.33:>qs46.33}, {50.3:>qs50.3}, {50.20:>qs50.20}, {50.41:>qs50.41}, {75.1:>qs75.1}, {79.10:>qs79.10}, {86.5:>qs86.5}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Retaliation disapproved "Retaliation disapproved"
+1.	Retaliation disapproved|{5.48:>qs5.48}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Revelation "Revelation"
+1.	doubts solved|{2.23:>qs2.23}
+2.	of Moses and Jesus|{2.87:>qs2.87}
+3.	abrogated od forgotten|{2.106:>qs2.106}
+4.	guidance|{3.73:>qs3.73}
+5.	to Prophet and those before him|{5.51:>qs5.51}
+6.	Word that distinguishes Good from Evil|{86.11:>qs86.11}
+7.	do not entertain doubt about|{6.114:>qs6.114}, {11.17:>qs11.17}
+8.	purpose of|{7.2:>qs7.2}, {7.203:>qs7.203}
+9.	in stages|{16.101:>qs16.101}
+10.	through the Holy Spirit|{16.102:>qs16.102}, {26.192:>qs26.192}
+11.	to be proclaimed|{96.1:>qs96.1}
+12.	nature of|{41.2:>qs41.2}, {41.6:>qs41.6}, {69.50:>qs69.50}, {81.15:>qs81.15}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_RevileNot "Revile not false gods"
+1.	Revile not false gods|{6.108:>qs6.108}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Reward "Reward"
+1.	without measure|{3.27:>qs3.27}, {39.10:>qs39.10}
+2.	better than deed deserves|{28.84:>qs28.84}, {30.39:>qs30.39}
+3.	according to best of deeds, and more|{24.38:>qs24.38}, {29.7:>qs29.7}, {39.35:>qs39.35}
+4.	for good, no reward other than good|{55.60:>qs55.60}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Righteous "Righteous"
+1.	company of the|{4.69:>qs4.69}
+2.	shall inherit the earth|{21.105:>qs21.105}
+3.	described|{51.15:>qs51.15}, {76.5:>qs76.5}
+4.	Righteousness|{2.177:>qs2.177}, {2.207:>qs2.207}, {2.212:>qs2.212}, {3.16:>qs3.16}, {3.92:>qs3.92}, {3.133:>qs3.133}, {3.191:>qs3.191}, {4.36:>qs4.36}, {4.125:>qs4.125}, {5.96:>qs5.96}, {7.42:>qs7.42}, {16.97:>qs16.97}
+5.	steep path of|{90.11:>qs90.11}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_RockyTract "Rocky Tract"
+1.	Rocky Tract|{15.80:>qs15.80}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_RomanEmpire "Roman Empire"
+1.	Roman Empire|{30.2:>qs30.2}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Saba "Saba"
+1.	Saba|{27.22:>qs27.22}, {34.15:>qs34.15}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Sabbath "Sabbath"
+1.	transgressors of|{7.163:>qs7.163}
+2.	made strict|{16.124:>qs16.124}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Sabians "Sabians"
+1.	Sabians|{2.26:>qs2.26}, {5.72:>qs5.72}, {22.17:>qs22.17}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Sacrifice "Sacrifice"
+1.	Sacrifice|{22.34:>qs22.34}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Safa and Marwa "Safa and Marwa"
+1.	Safa and Marwa|{2.158:>qs2.158}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Saleh "Saleh"
+1.	Saleh|{7.73:>qs7.73}, {11.61:>qs11.61}, {26.141:>qs26.141}, {27.45:>qs27.45}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Salsabil "Salsabil"
+1.	Salsabil|{76.18:>qs76.18}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Samiri "Samiri"
+1.	Samiri|{20.85:>qs20.85}, {20.95:>qs20.95}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Satan "Satan"
+1.	Satan (see also Iblis)|{2.36:>qs2.36}, {4.117:>qs4.117}, {24.21:>qs24.21}
+2.	excites enmity and hatred|{5.94:>qs5.94}
+3.	resist his suggestions|{7.200:>qs7.200}
+4.	deceives|{8.48:>qs8.48}
+5.	reproaches own followers|{14.22:>qs14.22}
+6.	evil spirit, rejected, accused|{3.36:>qs3.36}, {15.17:>qs15.17}, {15.34:>qs15.34}, {16.98:>qs16.98}
+7.	has no authority over Believers|{16.99:>qs16.99}
+8.	suggests vanity|{22.52:>qs22.52}
+9.	is an enemy|{35.6:>qs35.6}, {36.60:>qs36.60}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Scandal "Scandal"
+1.	Scandal|{24.19:>qs24.19}, {104.1:>qs104.1}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Scriptures "Scriptures"
+1.	people of the|{2.62:>qs2.62}
+2.	kept pure and holy|{98.2:>qs98.2}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Secrecy "Secrecy"
+1.	when permissible|{4.114:>qs4.114}
+2.	in counsels, disapproved|{58.7:>qs58.7}, {58.12:>qs58.12}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Sects disapproved "Sects disapproved"
+1.	Sects disapproved|{30.32:>qs30.32}, {42.13:>qs42.13}, {43.64:>qs43.64}, {45.17:>qs45.17}, {45.28:>qs45.28}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Seven Firmaments "Seven Firmaments"
+1.	Seven Firmaments|{2.29:>qs2.29}, {23.17:>qs23.17}, {65.12:>qs65.12}, {67.3:>qs67.3}, {71.15:>qs71.15}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_ShadowAllegory "Shadow, allegory"
+1.	Shadow, allegory|{25.45:>qs25.45}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_ShamefulThingsShunned "Shameful things shunned"
+1.	Shameful things shunned|{7.28:>qs7.28}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_ShipSailing "Ship, sailing of"
+1.	Ship, sailing of|{2.164:>qs2.164}, {14.32:>qs14.32}, {16.14:>qs16.14}, {17.66:>qs17.66}, {22.65:>qs22.65}, {31.31:>qs31.31}, {35.12:>qs35.12}, {42.32:>qs42.32}, {45.12:>qs45.12}, {55.24:>qs55.24}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Shuaib "Shu'aib"
+1.	Shu'aib|{7.85:>qs7.85}, {11.84:>qs11.84}, {29.36:>qs29.36}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_SiegeOfMedina "Siege of Medina"
+1.	Siege of Medina|{33.9:>qs33.9}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_SignsOfGod "Signs of God"
+1.	demanded by those without knowledge, clear to those with Fait|{2.118:>qs2.118}
+2.	in the creation of the heavens and the|{2.164:>qs2.164}, {3.190:>qs3.190}
+3.	made clear, that men may consider|{2.219:>qs2.219}
+4.	sign of authority to the prophet Samuel|{2.248:>qs2.248}
+5.	denial of|{3.11:>qs3.11}, {3.108:>qs3.108}
+6.	rejecters, deaf and dumb, in darkness|{6.39:>qs6.39}
+7.	in all things|{6.95:>qs6.95}
+8.	wicked demand special Sign|{6.124:>qs6.124}
+9.	rejecters make excuse|{6.156:>qs6.156}
+10.	consequences of rejection|{7.36:>qs7.36}, {7.146:>qs7.146}
+11.	rejecters wrong their own souls|{7.177:>qs7.177}
+12.	rejecters get respite|{7.182:>qs7.182}
+13.	rejecters lose guidance|{7.21:>qs7.21}
+14.	day and night as Signs|{17.12:>qs17.12}
+15.	in nature and all creation|{10.5:>qs10.5}, {30.20:>qs30.20}, {45.3:>qs45.3}
+16.	self-evident Signs, the Book|{29.49:>qs29.49}
+17.	winds and ships|{30.46:>qs30.46}, {42.32:>qs42.32}
+18.	ships|{31.31:>qs31.31}
+19.	the Night, sun and moon|{36.37:>qs36.37}
+20.	the Ark through the Flood|{36.41:>qs36.41}
+21.	in this life|{39.59:>qs39.59}
+22.	rejecters are deluded|{40.63:>qs40.63}
+23.	rain and revived Earth|{41.39:>qs41.39}
+24.	in the farthest regions of the earth|{41.53:>qs41.53}
+25.	rejected or taken in jest|{45.8:>qs45.8}
+26.	on earth, in your own selves, and in|{51.20:>qs51.20}
+27.	creation of man from Seed|{56.57:>qs56.57}
+28.	death|{56.60:>qs56.60}
+29.	seed in the ground|{56.63:>qs56.63}
+30.	water|{56.68:>qs56.68}
+31.	fire|{56.70:>qs56.70}
+32.	mocked|{68.15:>qs68.15}
+33.	camels, sky, mountains earth|{88.17:>qs88.17}
+34.	forces of nature|{89.1:>qs89.1}
+35.	no special Sign (miracle) given|{6.109:>qs6.109}, {10.20:>qs10.20}, {13.7:>qs13.7}, {17.59:>qs17.59}, {21.5:>qs21.5}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Sijjin "Sijjin"
+1.	Sijjin|{83.7:>qs83.7}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Sin "Sin"
+1.	Sin|{4.30:>qs4.30}, {4.36:>qs4.36}, {4.107:>qs4.107}, {4.116:>qs4.116}, {7.100:>qs7.100}, {10.54:>qs10.54}, {74.43:>qs74.43}
+2.	wrong doers will be cut off|{6.45:>qs6.45}
+3.	to be eschewed|{6.120:>qs6.120}
+4.	causes destruction|{7.4:>qs7.4}, {77.16:>qs77.16}
+5.	will not prosper|{10.17:>qs10.17}
+6.	and Faith have different goals|{68.35:>qs68.35}
+7.	God forgives all sin|{39.53:>qs39.53}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Sinai "Sinai"
+1.	Sinai|{19.52:>qs19.52}, {95.2:>qs95.2}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Sinners "Sinners"
+1.	Sinners|{23.63:>qs23.63}, {26.200:>qs26.200}, {83.29:>qs83.29}
+2.	their hearing, sight   will bear witness|{41.20:>qs41.20}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Slander "Slander"
+1.	Slander|{9.79:>qs9.79}, {24.23:>qs24.23}, {68.11:>qs68.11}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Solomon "Solomon"
+1.	Solomon|{2.102:>qs2.102}, {6.84:>qs6.84}, {21.79:>qs21.79}, {21.81:>qs21.81}, {27.15:>qs27.15}, {34.12:>qs34.12}, {38.30:>qs38.30}
+2.	and the ants|{27.18:>qs27.18}
+3.	and the Hoopoe|{27.22:>qs27.22}
+4.	and the Queen of Saba|{27.22:>qs27.22}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Son, adopted "Son, adopted"
+1.	Son, adopted|{33.4:>qs33.4}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Soul "Soul"
+1.	burden not greater than it can bear|{2.286:>qs2.286}, {7.42:>qs7.42}, {23.62:>qs23.62}
+2.	responsibility|{3.30:>qs3.30}, {74.38:>qs74.38}
+3.	justly dealt with|{16.111:>qs16.111}
+4.	taste of death|{21.35:>qs21.35}
+5.	enters heaven, not body|{89.27:>qs89.27}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_SpendthriftsCondemned "Spendthrifts condemned"
+1.	Spendthrifts condemned|{17.26:>qs17.26}, {25.67:>qs25.67}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Spirit "Spirit"
+1.	the Spirit|{70.4:>qs70.4}, {78.38:>qs78.38}, {97.4:>qs97.4}
+2.	the holy, God strengthened Jesus with|{2.87:>qs2.87}, {2.253:>qs2.253}
+3.	God's, breathed into man|{15.29:>qs15.29}
+4.	of inspiration|{17.85:>qs17.85}
+5.	God strengthens Believers with|{58.22:>qs58.22}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_SpoilOfWar "Spoil of war"
+1.	Spoil of war|{8.1:>qs8.1}, {8.41:>qs8.41}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_StarAdjurationBy "Star, adjuration by"
+1.	Star, adjuration by|{53.1:>qs53.1}, {86.1:>qs86.1}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Stars "Stars"
+1.	Stars|{7.54:>qs7.54}, {16.12:>qs16.12}, {62.2:>qs62.2}, {22.18:>qs22.18}, {37.6:>qs37.6}, {67.5:>qs67.5}, {77.8:>qs77.8}, {81.2:>qs81.2}, {82.2:>qs82.2}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_StraightWay "Straight Way"
+1.	Straight Way|{1.6:>qs1.6}, {6.153:>qs6.153}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Striving "Striving"
+1.	Striving|{9.20:>qs9.20}, {9.81:>qs9.81}, {22.78:>qs22.78}, {25.52:>qs25.52}, {29.69:>qs29.69}, {61.11:>qs61.11}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_SufferingAdversity "Suffering, adversity"
+1.	Suffering, adversity|{7.94:>qs7.94}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Sun "Sun"
+1.	Sun|{91.1:>qs91.1}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Superstitions "Superstitions"
+1.	Superstitions|{5.106:>qs5.106}, {6.138:>qs6.138}, {6.143:>qs6.143}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_SuraRevelation "Sura, revelation"
+1.	Sura, revelation|{9.124:>qs9.124}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Sustenance "Sustenance"
+1.	Sustenance|{10.59:>qs10.59}, {16.73:>qs16.73}, {19.62:>qs19.62}, {42.12:>qs42.12}, {51.57:>qs51.57}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Suwa' "Suwa'"
+1.	Suwa'|{71.23:>qs71.23}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Tabuk "Tabuk"
+1.	Tabuk|{9.40:>qs9.40}, {9.81:>qs9.81}, {9.120:>qs9.120}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Talh "Talh (tree)"
+1.	Talh (tree)|{56.29:>qs56.29}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Talut "Talut"
+1.	Talut|{2.247:>qs2.247}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Taqwa, meaning "Taqwa, meaning"
+1.	Taqwa, meaning|{2.2:>qs2.2}, {59.18:>qs59.18}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Tasnim "Tasnim"
+1.	Tasnim|{83.27:>qs83.27}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_TermAppointed "Term appointed"
+1.	Term appointed|{7.34:>qs7.34}, {10.49:>qs10.49}, {15.4:>qs15.4}, {16.61:>qs16.61}, {20.129:>qs20.129}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_TestingByGod "Testing, by God"
+1.	Testing, by God|{3.154:>qs3.154}, {34.21:>qs34.21}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Thamud "Thamud"
+1.	Thamud|{7.73:>qs7.73}, {11.61:>qs11.61}, {25.38:>qs25.38}, {26.141:>qs26.141}, {27.45:>qs27.45}, {29.38:>qs29.38}, {41.17:>qs41.17}, {51.43:>qs51.43}, {54.23:>qs54.23}, {69.4:>qs69.4}, {85.17:>qs85.17}, {89.9:>qs89.9}, {91.11:>qs91.11}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_TheftPunishment "Theft, punishment"
+1.	Theft, punishment|{5.41:>qs5.41}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_TimeMystery "Time, mystery of"
+1.	Time, mystery of|{76.1:>qs76.1}, {103.1:>qs103.1}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Traffic&Trade "Traffic and Trade"
+1.	Traffic and Trade|{4.29:>qs4.29}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_TravelEarth "Travel through the earth"
+1.	Travel through the earth|{6.11:>qs6.11}, {22.46:>qs22.46}, {27.69:>qs27.69}, {29.20:>qs29.20}, {30.9:>qs30.9}, {30.42:>qs30.42}, {35.44:>qs35.44}, {40.21:>qs40.21}, {40.82:>qs40.82}, {47.10:>qs47.10}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_TreasuresOfGod "Treasures of God"
+1.	Treasures of God|{6.50:>qs6.50}, {6.59:>qs6.59}, {11.31:>qs11.31}, {15.21:>qs15.21}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Treaties "Treaties"
+1.	Treaties|{9.1:>qs9.1}, {9.7:>qs9.7}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Trials "Trials"
+1.	Trials|{2.214:>qs2.214}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_TrumpetJudgment "Trumpet, Day of Judgment"
+1.	Trumpet, Day of Judgment|{6.73:>qs6.73}, {23.101:>qs23.101}, {39.68:>qs39.68}, {69.13:>qs69.13}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Trusts "Trusts"
+1.	Trusts|{4.58:>qs4.58}, {8.27:>qs8.27}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Truth "Truth"
+1.	Truth|{23.70:>qs23.70}, {23.90:>qs23.90}
+2.	Rejecters of|{77.1:>qs77.1}, {98.1:>qs98.1}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Tubba "Tubba'"
+1.	Tubba'|{44.37:>qs44.37}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_UhudLessons "Uhud, lessons of"
+1.	Uhud, lessons of|{3.121:>qs3.121}, {3.140:>qs3.140}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Ummah "Ummah"
+1.	Ummah|{2.143:>qs2.143}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Umra "Umra"
+1.	Umra|{2.196:>qs2.196}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Unbelievers "Unbelievers"
+1.	plot in vain|{8.30:>qs8.30}
+2.	despise revelation|{8.31:>qs8.31}
+3.	challenge a Penalty|{8.32:>qs8.32}
+4.	prayers empty|{8.35:>qs8.35}
+5.	spend for wrong purposes|{8.36:>qs8.36}
+6.	past forgiven, if they repent|{8.38:>qs8.38}, {9.11:>qs9.11}
+7.	break covenants|{8.56:>qs8.56}
+8.	will not frustrate the godly|{8.60:>qs8.60}
+9.	protect each other|{8.73:>qs8.73}
+10.	described|{9.73:>qs9.73}, {14.3:>qs14.3}
+11.	will wish they had believed|{15.2:>qs15.2}
+12.	will bear double burdens|{16.25:>qs16.25}
+13.	to be covered with shame|{16.27:>qs16.27}
+14.	dispute vainly|{18.56:>qs18.56}
+15.	their efforts wasted|{18.102:>qs18.102}
+16.	their arrogance|{19.73:>qs19.73}, {35.43:>qs35.43}
+17.	deeds like mirage|{24.39:>qs24.39}
+18.	as in depths of darkness|{24.40:>qs24.40}
+19.	mutual recriminations at Judgment|{34.31:>qs34.31}
+20.	self and separatism|{38.2:>qs38.2}
+21.	dispute about the Signs of God|{40.4:>qs40.4}
+22.	hate Truth|{43.78:>qs43.78}
+23.	will turn back from fight|{48.22:>qs48.22}
+24.	their high|{48.25:>qs48.25}
+25.	vain fancies|{52.35:>qs52.35}
+26.	give them not friendship but kind & just|{60.1:>qs60.1}
+27.	rush madly|{70.36:>qs70.36}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Unity "Unity"
+1.	Unity|{2.163:>qs2.163}, {6.19:>qs6.19}, {112.1:>qs112.1}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Usury "Usury"
+1.	Usury|{2.275:>qs2.275}, {2.278:>qs2.278}, {3.130:>qs3.130}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Uzair "Uzair"
+1.	Uzair|{9.30:>qs9.30}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Uzza "Uzza"
+1.	Uzza|{53.19:>qs53.19}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Vain "Vain discourse avoided"
+1.	Vain discourse avoided|{6.68:>qs6.68}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Vicegerent, God's "Vicegerent, God's"
+1.	Vicegerent, God's|{2.30:>qs2.30}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Victory "Victory"
+1.	uses of|{48.1:>qs48.1}, {110.1:>qs110.1}
+2.	through help of God|{61.13:>qs61.13}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Wadd "Wadd"
+1.	Wadd|{71.23:>qs71.23}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_WarAgainstGod "War against God"
+1.	War against God|{5.36:>qs5.36}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_WarningDoom "Warning before doom"
+1.	Warning before doom|{17.16:>qs17.16}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_WasteNot "Waste not"
+1.	Waste not|{6.141:>qs6.141}, {7.31:>qs7.31}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Water "Water"
+1.	animals created from|{21.30:>qs21.30}, {24.45:>qs24.45}, {25.54:>qs25.54}
+2.	two bodies of flowing water|{25.53:>qs25.53}, {18.60:>qs18.60}, {35.12:>qs35.12}, {55.19:>qs55.19}
+3.	God's Throne over the waters|{11.7:>qs11.7}
+4.	circulation of|{23.18:>qs23.18}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_WayThe "Way, the"
+1.	Way, the|{1.6:>qs1.6}, {42.52:>qs42.52}, {90.10:>qs90.10}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_WealthNoHoarding "Wealth, no hoarding"
+1.	Wealth, no hoarding|{104.2:>qs104.2}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Wicked "Wicked, headlong in fire"
+1.	Wicked, headlong in fire|{27.90:>qs27.90}, {67.22:>qs67.22}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Widows "Widows"
+1.	Widows|{2.234:>qs2.234}, {2.240:>qs2.240}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_WillOfGod "Will of God"
+1.	Will of God|{10.99:>qs10.99}, {81.29:>qs81.29}, {82.8:>qs82.8}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Winds "Winds"
+1.	like heralds of glad tidings|{7.57:>qs7.57}, {15.22:>qs15.22}, {30.46:>qs30.46}, {30.48:>qs30.48}, {30.51:>qs30.51}
+2.	mystic symbolism|{77.1:>qs77.1}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Wine "Wine"
+1.	Wine|{2.219:>qs2.219}, {5.93:>qs5.93}
+2.	heavenly wine|{47.15:>qs47.15}, {76.21:>qs76.21}, {83.25:>qs83.25}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Witnesses "Witnesses, among men"
+1.	Witnesses, among men|{2.143:>qs2.143}, {22.78:>qs22.78}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_WomanWronged "Woman, wronged"
+1.	Woman, wronged|{58.1:>qs58.1}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Women "Women"
+1.	Women|{2.222:>qs2.222}, {4.15:>qs4.15}, {4.19:>qs4.19}, {4.34:>qs4.34}, {4.127:>qs4.127}
+2.	to be reverenced|{4.1:>qs4.1}
+3.	false charges against|{24.4:>qs24.4}, {24.11:>qs24.11}, {24.23:>qs24.23}
+4.	modesty|{24.30:>qs24.30}
+5.	believing, refugees|{60.10:>qs60.10}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Wood, Companions of the "Wood, Companions of the"
+1.	Wood, Companions of the|{15.78:>qs15.78}, {26.176:>qs26.176}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_World "World"
+1.	this, but play and amusement|{6.32:>qs6.32}, {29.64:>qs29.64}, {47.36:>qs47.36}, {57.20:>qs57.20}
+2.	deceives men|{6.130:>qs6.130}
+3.	not to be preferred|{9.38:>qs9.38}, {13.26:>qs13.26}, {28.60:>qs28.60}
+4.	gets its reward, but not in Hereafter|{11.15:>qs11.15}, {17.18:>qs17.18}, {42.20:>qs42.20}
+5.	man loves|{75.20:>qs75.20}, {76.27:>qs76.27}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Worship "Worship"
+1.	true worship and charity|{107.2:>qs107.2}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_WritingContracts "Writing, for contracts"
+1.	Writing, for contracts|{2.282:>qs2.282}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Wrong "Wrong"
+1.	Wrong|{11.18:>qs11.18}, {11.101:>qs11.101}, {11.116:>qs11.116}, {39.47:>qs39.47}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Yaguth "Yaguth"
+1.	Yaguth|{71.23:>qs71.23}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Yahya "Yahya"
+1.	(John the Baptist), birth|{3.39:>qs3.39}, {6.85:>qs6.85}
+2.	his character and position|{19.12:>qs19.12}
+3.	reverenced God|{21.90:>qs21.90}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Yauq "Ya'uq"
+1.	Ya'uq|{71.23:>qs71.23}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Zaid "Zaid the freedman"
+1.	Zaid the freedman|{33.37:>qs33.37}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Zakariya "Zakariya"
+1.	Zakariya|{3.37:>qs3.37}, {6.85:>qs6.85}, {19.2:>qs19.2}, {21.90:>qs21.90}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Zakat "Zakat (Regular Charity)"
+1.	Zakat (Regular Charity)|{2.43:>qs2.43}, {2.110:>qs2.110}, {2.177:>qs2.177}, {2.277:>qs2.277}, {4.162:>qs4.162}, {5.58:>qs5.58}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Zanjabil "Zanjabil"
+1.	Zanjabil|{76.17:>qs76.17}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Zaqqum "Zaqqum"
+1.	Zaqqum|{37.62:>qs37.62}, {44.43:>qs44.43}, {47.17:>qs47.17}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Zihar "Zihar"
+1.	Zihar|{33.4:>qs33.4}, {58.2:>qs58.2}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_ZodiacalSigns "Zodiacal Signs"
+1.	Zodiacal Signs|{15.16:>qs15.16}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_Zulkifli "Zul-kifli"
+1.	Zul-kifli|{21.85:>qs21.85}, {38.48:>qs38.48}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_ZulQarnain "Zul-qarnain"
+1.	Zul-qarnain|{18.83:>qs18.83}
+.EndTopic
+;-------------------------------------------------------------------------------
+.Topic sbYAT_ZunNoon (see also Jonah) "Zun-noon (see also Jonah)"
+1.	Zun-noon (see also Jonah)|{21.87:>qs21.87}, {68.48:>qs68.48}
+.EndTopic
